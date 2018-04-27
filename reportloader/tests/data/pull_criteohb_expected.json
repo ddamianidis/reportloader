@@ -1,0 +1,345 @@
+[
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 1731,
+    "resold_impressions" : 1731,
+    "revenue" : 1.050938,
+    "revenue_dict" : {
+        "EUR" : 1.050938,
+        "USD" : 1.284059
+    },
+    "clicks" : 16,
+    "placement_id" : 10851933
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 1643,
+    "resold_impressions" : 1643,
+    "revenue" : 0.795298,
+    "revenue_dict" : {
+        "EUR" : 0.795298,
+        "USD" : 0.971712
+    },
+    "clicks" : 10,
+    "placement_id" : 12499926
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 16913,
+    "resold_impressions" : 16913,
+    "revenue" : 7.056876,
+    "revenue_dict" : {
+        "EUR" : 7.056876,
+        "USD" : 8.622244
+    },
+    "clicks" : 294,
+    "placement_id" : 12552304
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 4734,
+    "resold_impressions" : 4734,
+    "revenue" : 2.425344,
+    "revenue_dict" : {
+        "EUR" : 2.425344,
+        "USD" : 2.963338
+    },
+    "clicks" : 43,
+    "placement_id" : 12552348
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 1255,
+    "resold_impressions" : 1255,
+    "revenue" : 0.641405,
+    "revenue_dict" : {
+        "EUR" : 0.641405,
+        "USD" : 0.783683
+    },
+    "clicks" : 6,
+    "placement_id" : 12552351
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 2653,
+    "resold_impressions" : 2653,
+    "revenue" : 1.373236,
+    "revenue_dict" : {
+        "EUR" : 1.373236,
+        "USD" : 1.67785
+    },
+    "clicks" : 19,
+    "placement_id" : 12552357
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 428,
+    "resold_impressions" : 428,
+    "revenue" : 0.222717,
+    "revenue_dict" : {
+        "EUR" : 0.222717,
+        "USD" : 0.27212
+    },
+    "clicks" : 3,
+    "placement_id" : 12552352
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 24390,
+    "resold_impressions" : 24390,
+    "revenue" : 10.846368,
+    "revenue_dict" : {
+        "EUR" : 10.846368,
+        "USD" : 13.252328
+    },
+    "clicks" : 555,
+    "placement_id" : 12552363
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 3831,
+    "resold_impressions" : 3831,
+    "revenue" : 1.840171,
+    "revenue_dict" : {
+        "EUR" : 1.840171,
+        "USD" : 2.248361
+    },
+    "clicks" : 84,
+    "placement_id" : 12552372
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 0,
+    "resold_impressions" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : 12552367
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 2155,
+    "resold_impressions" : 2155,
+    "revenue" : 1.045802,
+    "revenue_dict" : {
+        "EUR" : 1.045802,
+        "USD" : 1.277784
+    },
+    "clicks" : 13,
+    "placement_id" : 12552375
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 363,
+    "resold_impressions" : 363,
+    "revenue" : 0.170569,
+    "revenue_dict" : {
+        "EUR" : 0.170569,
+        "USD" : 0.208405
+    },
+    "clicks" : 13,
+    "placement_id" : 12552381
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 586,
+    "resold_impressions" : 586,
+    "revenue" : 0.32109,
+    "revenue_dict" : {
+        "EUR" : 0.32109,
+        "USD" : 0.392315
+    },
+    "clicks" : 12,
+    "placement_id" : 12552270
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 433,
+    "resold_impressions" : 433,
+    "revenue" : 0.214539,
+    "revenue_dict" : {
+        "EUR" : 0.214539,
+        "USD" : 0.262128
+    },
+    "clicks" : 1,
+    "placement_id" : 12552410
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 167,
+    "resold_impressions" : 167,
+    "revenue" : 0.069548,
+    "revenue_dict" : {
+        "EUR" : 0.069548,
+        "USD" : 0.084975
+    },
+    "clicks" : 0,
+    "placement_id" : 12552413
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 76,
+    "resold_impressions" : 76,
+    "revenue" : 0.031269,
+    "revenue_dict" : {
+        "EUR" : 0.031269,
+        "USD" : 0.038205
+    },
+    "clicks" : 0,
+    "placement_id" : 12552416
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 22,
+    "resold_impressions" : 22,
+    "revenue" : 0.035496,
+    "revenue_dict" : {
+        "EUR" : 0.035496,
+        "USD" : 0.04337
+    },
+    "clicks" : 0,
+    "placement_id" : 12552419
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 810,
+    "resold_impressions" : 810,
+    "revenue" : 0.358061,
+    "revenue_dict" : {
+        "EUR" : 0.358061,
+        "USD" : 0.437487
+    },
+    "clicks" : 4,
+    "placement_id" : 12552406
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 7758,
+    "resold_impressions" : 7758,
+    "revenue" : 3.193606,
+    "revenue_dict" : {
+        "EUR" : 3.193606,
+        "USD" : 3.902017
+    },
+    "clicks" : 117,
+    "placement_id" : 12552383
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 4121,
+    "resold_impressions" : 4121,
+    "revenue" : 1.608009,
+    "revenue_dict" : {
+        "EUR" : 1.608009,
+        "USD" : 1.9647
+    },
+    "clicks" : 38,
+    "placement_id" : 12552391
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 1748,
+    "resold_impressions" : 1748,
+    "revenue" : 0.727809,
+    "revenue_dict" : {
+        "EUR" : 0.727809,
+        "USD" : 0.889253
+    },
+    "clicks" : 8,
+    "placement_id" : 12552398
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 141,
+    "resold_impressions" : 141,
+    "revenue" : 0.054063,
+    "revenue_dict" : {
+        "EUR" : 0.054063,
+        "USD" : 0.066055
+    },
+    "clicks" : 1,
+    "placement_id" : 12552402
+}
+
+,
+{
+    "platform" : "criteohb",
+    "date" : "2018-01-20",
+    "total_impressions" : 274,
+    "resold_impressions" : 274,
+    "revenue" : 0.09919,
+    "revenue_dict" : {
+        "EUR" : 0.09919,
+        "USD" : 0.121192
+    },
+    "clicks" : 0,
+    "placement_id" : 12552388
+}
+]

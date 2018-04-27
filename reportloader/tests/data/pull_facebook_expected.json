@@ -1,0 +1,70 @@
+[
+{
+    "platform" : "facebook",
+    "date" : "2016-12-05",
+    "total_impressions" : 1936,
+    "resold_impressions" : 264,
+    "revenue" : 0.030148,
+    "revenue_dict" : {
+        "EUR" : 0.028113,
+        "USD" : 0.030148
+    },
+    "placement_id" : 3841343
+}
+
+,
+{
+    "platform" : "facebook",
+    "date" : "2016-12-05",
+    "total_impressions" : 83,
+    "resold_impressions" : 5,
+    "revenue" : 1.400641,
+    "revenue_dict" : {
+        "EUR" : 1.306098,
+        "USD" : 1.400641
+    },
+    "placement_id" : 4068005
+}
+
+,
+{
+    "platform" : "facebook",
+    "date" : "2016-12-05",
+    "total_impressions" : 6,
+    "resold_impressions" : 0,
+    "revenue" : 1.748014,
+    "revenue_dict" : {
+        "EUR" : 1.630023,
+        "USD" : 1.748014
+    },
+    "placement_id" : 4896771
+}
+
+,
+{
+    "platform" : "facebook",
+    "date" : "2016-12-05",
+    "total_impressions" : 6,
+    "resold_impressions" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "placement_id" : 5600778
+}
+
+,
+{
+    "platform" : "facebook",
+    "date" : "2016-12-05",
+    "total_impressions" : 81,
+    "resold_impressions" : 17,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "placement_id" : 5665857
+}
+]

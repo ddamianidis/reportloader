@@ -1,0 +1,1445 @@
+[
+{
+    
+    "total_impressions" : 28657,
+    "resold_impressions" : 167,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289670",
+    "date" : "2018-01-20",
+    "placement_id" : 9923655,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 372,
+    "resold_impressions" : 10,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130271187",
+    "date" : "2018-01-20",
+    "placement_id" : 10889411,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 92023,
+    "resold_impressions" : 1292,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130273949",
+    "date" : "2018-01-20",
+    "placement_id" : 9525477,
+    "revenue" : 0.43,
+    "revenue_dict" : {
+        "EUR" : 0.351934,
+        "USD" : 0.43
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1862,
+    "resold_impressions" : 3,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275967",
+    "date" : "2018-01-20",
+    "placement_id" : 7491781,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 18161,
+    "resold_impressions" : 262,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275936",
+    "date" : "2018-01-20",
+    "placement_id" : 7169904,
+    "revenue" : 0.09,
+    "revenue_dict" : {
+        "EUR" : 0.073661,
+        "USD" : 0.09
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 9921,
+    "resold_impressions" : 4,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275981",
+    "date" : "2018-01-20",
+    "placement_id" : 7491929,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 5064,
+    "resold_impressions" : 723,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130274625",
+    "date" : "2018-01-20",
+    "placement_id" : 9720268,
+    "revenue" : 0.1,
+    "revenue_dict" : {
+        "EUR" : 0.081845,
+        "USD" : 0.1
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 13574,
+    "resold_impressions" : 50,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291015",
+    "date" : "2018-01-20",
+    "placement_id" : 11441392,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 5992,
+    "resold_impressions" : 11,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275972",
+    "date" : "2018-01-20",
+    "placement_id" : 7491932,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 3490,
+    "resold_impressions" : 28,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291010",
+    "date" : "2018-01-20",
+    "placement_id" : 11441385,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 2704,
+    "resold_impressions" : 2,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275973",
+    "date" : "2018-01-20",
+    "placement_id" : 7491935,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 64849,
+    "resold_impressions" : 1657,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289674",
+    "date" : "2018-01-20",
+    "placement_id" : 4207423,
+    "revenue" : 0.23,
+    "revenue_dict" : {
+        "EUR" : 0.188244,
+        "USD" : 0.23
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 15206,
+    "resold_impressions" : 5614,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289657",
+    "date" : "2018-01-20",
+    "placement_id" : 9917139,
+    "revenue" : 0.22,
+    "revenue_dict" : {
+        "EUR" : 0.180059,
+        "USD" : 0.22
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 16335,
+    "resold_impressions" : 276,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275987",
+    "date" : "2018-01-20",
+    "placement_id" : 7166205,
+    "revenue" : 0.09,
+    "revenue_dict" : {
+        "EUR" : 0.073661,
+        "USD" : 0.09
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 15757,
+    "resold_impressions" : 158,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289498",
+    "date" : "2018-01-20",
+    "placement_id" : 3841456,
+    "revenue" : 0.07,
+    "revenue_dict" : {
+        "EUR" : 0.057292,
+        "USD" : 0.07
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 10767,
+    "resold_impressions" : 86,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289469",
+    "date" : "2018-01-20",
+    "placement_id" : 9905337,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1442,
+    "resold_impressions" : 7,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275979",
+    "date" : "2018-01-20",
+    "placement_id" : 11071848,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 2140,
+    "resold_impressions" : 26,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289439",
+    "date" : "2018-01-20",
+    "placement_id" : 11182528,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 297,
+    "resold_impressions" : 5,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289675",
+    "date" : "2018-01-20",
+    "placement_id" : 10554577,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1574,
+    "resold_impressions" : 12,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275966",
+    "date" : "2018-01-20",
+    "placement_id" : 7491770,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 67,
+    "resold_impressions" : 28,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130281105",
+    "date" : "2018-01-20",
+    "placement_id" : 11286112,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 589,
+    "resold_impressions" : 7,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291009",
+    "date" : "2018-01-20",
+    "placement_id" : 11441384,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 8736,
+    "resold_impressions" : 38,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289443",
+    "date" : "2018-01-20",
+    "placement_id" : 11604830,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 19,
+    "resold_impressions" : 0,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130282484",
+    "date" : "2018-01-20",
+    "placement_id" : 9030502,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 39385,
+    "resold_impressions" : 620,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289669",
+    "date" : "2018-01-20",
+    "placement_id" : 9923652,
+    "revenue" : 0.08,
+    "revenue_dict" : {
+        "EUR" : 0.065476,
+        "USD" : 0.08
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 30674,
+    "resold_impressions" : 143,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291017",
+    "date" : "2018-01-20",
+    "placement_id" : 11441433,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 3532,
+    "resold_impressions" : 44,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289432",
+    "date" : "2018-01-20",
+    "placement_id" : 11182531,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 8761,
+    "resold_impressions" : 84,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130282785",
+    "date" : "2018-01-20",
+    "placement_id" : 3894541,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 8288,
+    "resold_impressions" : 249,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289686",
+    "date" : "2018-01-20",
+    "placement_id" : 11441372,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 9774,
+    "resold_impressions" : 260,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275941",
+    "date" : "2018-01-20",
+    "placement_id" : 9052099,
+    "revenue" : 0.08,
+    "revenue_dict" : {
+        "EUR" : 0.065476,
+        "USD" : 0.08
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 22670,
+    "resold_impressions" : 370,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130273951",
+    "date" : "2018-01-20",
+    "placement_id" : 9525439,
+    "revenue" : 0.12,
+    "revenue_dict" : {
+        "EUR" : 0.098214,
+        "USD" : 0.12
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 2670,
+    "resold_impressions" : 19,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275982",
+    "date" : "2018-01-20",
+    "placement_id" : 9017397,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1328,
+    "resold_impressions" : 4,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289445",
+    "date" : "2018-01-20",
+    "placement_id" : 11409757,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 15691,
+    "resold_impressions" : 58,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291006",
+    "date" : "2018-01-20",
+    "placement_id" : 11441379,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 13039,
+    "resold_impressions" : 16,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130272503",
+    "date" : "2018-01-20",
+    "placement_id" : 3894559,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 11655,
+    "resold_impressions" : 37,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275932",
+    "date" : "2018-01-20",
+    "placement_id" : 3858539,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 351,
+    "resold_impressions" : 0,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289495",
+    "date" : "2018-01-20",
+    "placement_id" : 3841465,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1168,
+    "resold_impressions" : 3,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275974",
+    "date" : "2018-01-20",
+    "placement_id" : 3894269,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 128314,
+    "resold_impressions" : 1700,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130273948",
+    "date" : "2018-01-20",
+    "placement_id" : 9525460,
+    "revenue" : 0.6,
+    "revenue_dict" : {
+        "EUR" : 0.49107,
+        "USD" : 0.6
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "resold_impressions" : 0,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289482",
+    "date" : "2018-01-20",
+    "placement_id" : 11348518,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 13694,
+    "resold_impressions" : 31,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291007",
+    "date" : "2018-01-20",
+    "placement_id" : 11441380,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 99,
+    "resold_impressions" : 1,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275958",
+    "date" : "2018-01-20",
+    "placement_id" : 5576507,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 32674,
+    "resold_impressions" : 275,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130284311",
+    "date" : "2018-01-20",
+    "placement_id" : 6387213,
+    "revenue" : 0.1,
+    "revenue_dict" : {
+        "EUR" : 0.081845,
+        "USD" : 0.1
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 494,
+    "resold_impressions" : 3,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289215",
+    "date" : "2018-01-20",
+    "placement_id" : 11500669,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 4056,
+    "resold_impressions" : 137,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130288707",
+    "date" : "2018-01-20",
+    "placement_id" : 11182540,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 38729,
+    "resold_impressions" : 520,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275931",
+    "date" : "2018-01-20",
+    "placement_id" : 5973531,
+    "revenue" : 0.17,
+    "revenue_dict" : {
+        "EUR" : 0.139137,
+        "USD" : 0.17
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 227,
+    "resold_impressions" : 4,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130271188",
+    "date" : "2018-01-20",
+    "placement_id" : 10889414,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 31506,
+    "resold_impressions" : 159,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291005",
+    "date" : "2018-01-20",
+    "placement_id" : 11441372,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 434,
+    "resold_impressions" : 6,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289437",
+    "date" : "2018-01-20",
+    "placement_id" : 11182555,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 8593,
+    "resold_impressions" : 135,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130273946",
+    "date" : "2018-01-20",
+    "placement_id" : 7491680,
+    "revenue" : 0.04,
+    "revenue_dict" : {
+        "EUR" : 0.032738,
+        "USD" : 0.04
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 7721,
+    "resold_impressions" : 241,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289704",
+    "date" : "2018-01-20",
+    "placement_id" : 11441371,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 11991,
+    "resold_impressions" : 145,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130273956",
+    "date" : "2018-01-20",
+    "placement_id" : 9791862,
+    "revenue" : 0.05,
+    "revenue_dict" : {
+        "EUR" : 0.040923,
+        "USD" : 0.05
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 7371,
+    "resold_impressions" : 45,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289685",
+    "date" : "2018-01-20",
+    "placement_id" : 10554571,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 4862,
+    "resold_impressions" : 202,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130288708",
+    "date" : "2018-01-20",
+    "placement_id" : 11182541,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 13313,
+    "resold_impressions" : 99,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289474",
+    "date" : "2018-01-20",
+    "placement_id" : 9905336,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 3843,
+    "resold_impressions" : 133,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130288706",
+    "date" : "2018-01-20",
+    "placement_id" : 11182539,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 9292,
+    "resold_impressions" : 98,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130273945",
+    "date" : "2018-01-20",
+    "placement_id" : 7491677,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 42635,
+    "resold_impressions" : 236,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291000",
+    "date" : "2018-01-20",
+    "placement_id" : 11441369,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 52805,
+    "resold_impressions" : 600,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130288439",
+    "date" : "2018-01-20",
+    "placement_id" : 11409049,
+    "revenue" : 0.21,
+    "revenue_dict" : {
+        "EUR" : 0.171874,
+        "USD" : 0.21
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1850,
+    "resold_impressions" : 81,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289705",
+    "date" : "2018-01-20",
+    "placement_id" : 11441380,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 69016,
+    "resold_impressions" : 1231,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289672",
+    "date" : "2018-01-20",
+    "placement_id" : 4207409,
+    "revenue" : 0.16,
+    "revenue_dict" : {
+        "EUR" : 0.130952,
+        "USD" : 0.16
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 107926,
+    "resold_impressions" : 1842,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289877",
+    "date" : "2018-01-20",
+    "placement_id" : 11140981,
+    "revenue" : 0.61,
+    "revenue_dict" : {
+        "EUR" : 0.499254,
+        "USD" : 0.61
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 4277,
+    "resold_impressions" : 205,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289732",
+    "date" : "2018-01-20",
+    "placement_id" : 11441379,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 12139,
+    "resold_impressions" : 172,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275945",
+    "date" : "2018-01-20",
+    "placement_id" : 10895217,
+    "revenue" : 0.06,
+    "revenue_dict" : {
+        "EUR" : 0.049107,
+        "USD" : 0.06
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 6696,
+    "resold_impressions" : 10,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275983",
+    "date" : "2018-01-20",
+    "placement_id" : 9017446,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 6646,
+    "resold_impressions" : 236,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275940",
+    "date" : "2018-01-20",
+    "placement_id" : 9052100,
+    "revenue" : 0.07,
+    "revenue_dict" : {
+        "EUR" : 0.057292,
+        "USD" : 0.07
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 799,
+    "resold_impressions" : 90,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289703",
+    "date" : "2018-01-20",
+    "placement_id" : 11441368,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "resold_impressions" : 0,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130273944",
+    "date" : "2018-01-20",
+    "placement_id" : 11141004,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 67549,
+    "resold_impressions" : 197,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275935",
+    "date" : "2018-01-20",
+    "placement_id" : 7169907,
+    "revenue" : 0.07,
+    "revenue_dict" : {
+        "EUR" : 0.057292,
+        "USD" : 0.07
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 12064,
+    "resold_impressions" : 20,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291008",
+    "date" : "2018-01-20",
+    "placement_id" : 11441381,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 5561,
+    "resold_impressions" : 179,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275942",
+    "date" : "2018-01-20",
+    "placement_id" : 9052098,
+    "revenue" : 0.06,
+    "revenue_dict" : {
+        "EUR" : 0.049107,
+        "USD" : 0.06
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 4069,
+    "resold_impressions" : 233,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289729",
+    "date" : "2018-01-20",
+    "placement_id" : 11441392,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1450,
+    "resold_impressions" : 13,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289683",
+    "date" : "2018-01-20",
+    "placement_id" : 10554576,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 55,
+    "resold_impressions" : 0,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289441",
+    "date" : "2018-01-20",
+    "placement_id" : 11182548,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 2252,
+    "resold_impressions" : 8,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291011",
+    "date" : "2018-01-20",
+    "placement_id" : 11441386,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 11043,
+    "resold_impressions" : 353,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289702",
+    "date" : "2018-01-20",
+    "placement_id" : 11441369,
+    "revenue" : 0.04,
+    "revenue_dict" : {
+        "EUR" : 0.032738,
+        "USD" : 0.04
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 25902,
+    "resold_impressions" : 41,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130275939",
+    "date" : "2018-01-20",
+    "placement_id" : 7491842,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 45132,
+    "resold_impressions" : 164,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289671",
+    "date" : "2018-01-20",
+    "placement_id" : 3962860,
+    "revenue" : 0.08,
+    "revenue_dict" : {
+        "EUR" : 0.065476,
+        "USD" : 0.08
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 8014,
+    "resold_impressions" : 442,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289730",
+    "date" : "2018-01-20",
+    "placement_id" : 11441433,
+    "revenue" : 0.05,
+    "revenue_dict" : {
+        "EUR" : 0.040923,
+        "USD" : 0.05
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 74,
+    "resold_impressions" : 0,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289442",
+    "date" : "2018-01-20",
+    "placement_id" : 11182549,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 2,
+    "resold_impressions" : 0,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289874",
+    "date" : "2018-01-20",
+    "placement_id" : 11576927,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 1281,
+    "resold_impressions" : 8,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291012",
+    "date" : "2018-01-20",
+    "placement_id" : 11441387,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 28327,
+    "resold_impressions" : 156,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130291001",
+    "date" : "2018-01-20",
+    "placement_id" : 11441371,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 4034,
+    "resold_impressions" : 99,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289436",
+    "date" : "2018-01-20",
+    "placement_id" : 11182532,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    }
+}
+
+,
+{
+    
+    "total_impressions" : 8094,
+    "resold_impressions" : 2727,
+    "platform" : "smaato",
+    
+    "adspaceid" : "130289668",
+    "date" : "2018-01-20",
+    "placement_id" : 9906187,
+    "revenue" : 0.11,
+    "revenue_dict" : {
+        "EUR" : 0.090029,
+        "USD" : 0.11
+    }
+}
+]

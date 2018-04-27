@@ -1,0 +1,1104 @@
+[
+{
+    
+    "total_impressions" : 33,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6116380,
+    "revenue" : 0.1155,
+    "revenue_dict" : {
+        "USD" : 0.14112,
+        "EUR" : 0.1155
+    },
+    "resold_impressions" : 33,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 166,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 9926879,
+    "revenue" : 0.574,
+    "revenue_dict" : {
+        "USD" : 0.701326,
+        "EUR" : 0.574
+    },
+    "resold_impressions" : 164,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 4,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6125290,
+    "revenue" : 0.014,
+    "revenue_dict" : {
+        "USD" : 0.017106,
+        "EUR" : 0.014
+    },
+    "resold_impressions" : 4,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 791,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10642949,
+    "revenue" : 1.179,
+    "revenue_dict" : {
+        "USD" : 1.440528,
+        "EUR" : 1.179
+    },
+    "resold_impressions" : 786,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 4,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6034518,
+    "revenue" : 0.014,
+    "revenue_dict" : {
+        "USD" : 0.017106,
+        "EUR" : 0.014
+    },
+    "resold_impressions" : 4,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 5,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10024543,
+    "revenue" : 0.0175,
+    "revenue_dict" : {
+        "USD" : 0.021382,
+        "EUR" : 0.0175
+    },
+    "resold_impressions" : 5,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 316,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6044519,
+    "revenue" : 1.099,
+    "revenue_dict" : {
+        "USD" : 1.342782,
+        "EUR" : 1.099
+    },
+    "resold_impressions" : 314,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 110,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 9931705,
+    "revenue" : 0.3815,
+    "revenue_dict" : {
+        "USD" : 0.466125,
+        "EUR" : 0.3815
+    },
+    "resold_impressions" : 109,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11584842,
+    "revenue" : 0.0035,
+    "revenue_dict" : {
+        "USD" : 0.004276,
+        "EUR" : 0.0035
+    },
+    "resold_impressions" : 1,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5688330,
+    "revenue" : 0.0035,
+    "revenue_dict" : {
+        "USD" : 0.004276,
+        "EUR" : 0.0035
+    },
+    "resold_impressions" : 1,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 106,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 7196214,
+    "revenue" : 0.25,
+    "revenue_dict" : {
+        "USD" : 0.305455,
+        "EUR" : 0.25
+    },
+    "resold_impressions" : 100,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 529,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11482558,
+    "revenue" : 1.841,
+    "revenue_dict" : {
+        "USD" : 2.249374,
+        "EUR" : 1.841
+    },
+    "resold_impressions" : 526,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 28,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10497287,
+    "revenue" : 0.098,
+    "revenue_dict" : {
+        "USD" : 0.119739,
+        "EUR" : 0.098
+    },
+    "resold_impressions" : 28,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 114,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10643135,
+    "revenue" : 0.1695,
+    "revenue_dict" : {
+        "USD" : 0.207099,
+        "EUR" : 0.1695
+    },
+    "resold_impressions" : 113,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 51,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 9035045,
+    "revenue" : 0.175,
+    "revenue_dict" : {
+        "USD" : 0.213819,
+        "EUR" : 0.175
+    },
+    "resold_impressions" : 50,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 29,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11462402,
+    "revenue" : 0.091,
+    "revenue_dict" : {
+        "USD" : 0.111186,
+        "EUR" : 0.091
+    },
+    "resold_impressions" : 26,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 9,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5600646,
+    "revenue" : 0.0315,
+    "revenue_dict" : {
+        "USD" : 0.038487,
+        "EUR" : 0.0315
+    },
+    "resold_impressions" : 9,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1327,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10642810,
+    "revenue" : 1.965,
+    "revenue_dict" : {
+        "USD" : 2.40088,
+        "EUR" : 1.965
+    },
+    "resold_impressions" : 1310,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 799,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11468627,
+    "revenue" : 2.786,
+    "revenue_dict" : {
+        "USD" : 3.403995,
+        "EUR" : 2.786
+    },
+    "resold_impressions" : 796,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1776,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6125539,
+    "revenue" : 6.132,
+    "revenue_dict" : {
+        "USD" : 7.492211,
+        "EUR" : 6.132
+    },
+    "resold_impressions" : 1752,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 43,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11482557,
+    "revenue" : 0.154,
+    "revenue_dict" : {
+        "USD" : 0.188161,
+        "EUR" : 0.154
+    },
+    "resold_impressions" : 44,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 314,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10643501,
+    "revenue" : 0.468,
+    "revenue_dict" : {
+        "USD" : 0.571813,
+        "EUR" : 0.468
+    },
+    "resold_impressions" : 312,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 203,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10643488,
+    "revenue" : 0.3015,
+    "revenue_dict" : {
+        "USD" : 0.368379,
+        "EUR" : 0.3015
+    },
+    "resold_impressions" : 201,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 645,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5585216,
+    "revenue" : 2.2225,
+    "revenue_dict" : {
+        "USD" : 2.715499,
+        "EUR" : 2.2225
+    },
+    "resold_impressions" : 635,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 7295784,
+    "revenue" : 0.0035,
+    "revenue_dict" : {
+        "USD" : 0.004276,
+        "EUR" : 0.0035
+    },
+    "resold_impressions" : 1,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 354,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11725649,
+    "revenue" : 1.2285,
+    "revenue_dict" : {
+        "USD" : 1.501008,
+        "EUR" : 1.2285
+    },
+    "resold_impressions" : 351,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5682289,
+    "revenue" : 0.0035,
+    "revenue_dict" : {
+        "USD" : 0.004276,
+        "EUR" : 0.0035
+    },
+    "resold_impressions" : 1,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 128,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 8846410,
+    "revenue" : 0.441,
+    "revenue_dict" : {
+        "USD" : 0.538823,
+        "EUR" : 0.441
+    },
+    "resold_impressions" : 126,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 72,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10190401,
+    "revenue" : 0.2485,
+    "revenue_dict" : {
+        "USD" : 0.303623,
+        "EUR" : 0.2485
+    },
+    "resold_impressions" : 71,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 24,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5989527,
+    "revenue" : 0.084,
+    "revenue_dict" : {
+        "USD" : 0.102633,
+        "EUR" : 0.084
+    },
+    "resold_impressions" : 24,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 4749,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5708891,
+    "revenue" : 7.0065,
+    "revenue_dict" : {
+        "USD" : 8.560694,
+        "EUR" : 7.0065
+    },
+    "resold_impressions" : 4671,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 65,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 7482017,
+    "revenue" : 0.1625,
+    "revenue_dict" : {
+        "USD" : 0.198546,
+        "EUR" : 0.1625
+    },
+    "resold_impressions" : 65,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 91,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10642498,
+    "revenue" : 0.135,
+    "revenue_dict" : {
+        "USD" : 0.164946,
+        "EUR" : 0.135
+    },
+    "resold_impressions" : 90,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 96,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10857685,
+    "revenue" : 0.329,
+    "revenue_dict" : {
+        "USD" : 0.401979,
+        "EUR" : 0.329
+    },
+    "resold_impressions" : 94,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 294,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5700830,
+    "revenue" : 0.438,
+    "revenue_dict" : {
+        "USD" : 0.535158,
+        "EUR" : 0.438
+    },
+    "resold_impressions" : 292,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 14,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 9435214,
+    "revenue" : 0.049,
+    "revenue_dict" : {
+        "USD" : 0.059869,
+        "EUR" : 0.049
+    },
+    "resold_impressions" : 14,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 3,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11550271,
+    "revenue" : 0.0105,
+    "revenue_dict" : {
+        "USD" : 0.012829,
+        "EUR" : 0.0105
+    },
+    "resold_impressions" : 3,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 44,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 7198944,
+    "revenue" : 0.1075,
+    "revenue_dict" : {
+        "USD" : 0.131346,
+        "EUR" : 0.1075
+    },
+    "resold_impressions" : 43,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 3,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11389927,
+    "revenue" : 0.0045,
+    "revenue_dict" : {
+        "USD" : 0.005498,
+        "EUR" : 0.0045
+    },
+    "resold_impressions" : 3,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 27,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11175308,
+    "revenue" : 0.0945,
+    "revenue_dict" : {
+        "USD" : 0.115462,
+        "EUR" : 0.0945
+    },
+    "resold_impressions" : 27,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 16,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11487634,
+    "revenue" : 0.056,
+    "revenue_dict" : {
+        "USD" : 0.068422,
+        "EUR" : 0.056
+    },
+    "resold_impressions" : 16,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 53,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 8846422,
+    "revenue" : 0.1855,
+    "revenue_dict" : {
+        "USD" : 0.226648,
+        "EUR" : 0.1855
+    },
+    "resold_impressions" : 53,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 52,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11487651,
+    "revenue" : 0.175,
+    "revenue_dict" : {
+        "USD" : 0.213819,
+        "EUR" : 0.175
+    },
+    "resold_impressions" : 50,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 28,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11783445,
+    "revenue" : 0.098,
+    "revenue_dict" : {
+        "USD" : 0.119739,
+        "EUR" : 0.098
+    },
+    "resold_impressions" : 28,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 9016308,
+    "revenue" : 0.0035,
+    "revenue_dict" : {
+        "USD" : 0.004276,
+        "EUR" : 0.0035
+    },
+    "resold_impressions" : 1,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 69,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 8846423,
+    "revenue" : 0.2415,
+    "revenue_dict" : {
+        "USD" : 0.29507,
+        "EUR" : 0.2415
+    },
+    "resold_impressions" : 69,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 11,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11444833,
+    "revenue" : 0.0385,
+    "revenue_dict" : {
+        "USD" : 0.04704,
+        "EUR" : 0.0385
+    },
+    "resold_impressions" : 11,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 15,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11767707,
+    "revenue" : 0.0525,
+    "revenue_dict" : {
+        "USD" : 0.064146,
+        "EUR" : 0.0525
+    },
+    "resold_impressions" : 15,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 27,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6044297,
+    "revenue" : 0.0875,
+    "revenue_dict" : {
+        "USD" : 0.106909,
+        "EUR" : 0.0875
+    },
+    "resold_impressions" : 25,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 329,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10571039,
+    "revenue" : 1.1375,
+    "revenue_dict" : {
+        "USD" : 1.389822,
+        "EUR" : 1.1375
+    },
+    "resold_impressions" : 325,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 48,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6928703,
+    "revenue" : 0.168,
+    "revenue_dict" : {
+        "USD" : 0.205266,
+        "EUR" : 0.168
+    },
+    "resold_impressions" : 48,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 8,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11342477,
+    "revenue" : 0.0245,
+    "revenue_dict" : {
+        "USD" : 0.029935,
+        "EUR" : 0.0245
+    },
+    "resold_impressions" : 7,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 234,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10643469,
+    "revenue" : 0.3465,
+    "revenue_dict" : {
+        "USD" : 0.423361,
+        "EUR" : 0.3465
+    },
+    "resold_impressions" : 231,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 49,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6045649,
+    "revenue" : 0.115,
+    "revenue_dict" : {
+        "USD" : 0.140509,
+        "EUR" : 0.115
+    },
+    "resold_impressions" : 46,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 1,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11445228,
+    "revenue" : 0.0035,
+    "revenue_dict" : {
+        "USD" : 0.004276,
+        "EUR" : 0.0035
+    },
+    "resold_impressions" : 1,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 133,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6045377,
+    "revenue" : 0.2775,
+    "revenue_dict" : {
+        "USD" : 0.339056,
+        "EUR" : 0.2775
+    },
+    "resold_impressions" : 111,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 330,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6045645,
+    "revenue" : 0.7275,
+    "revenue_dict" : {
+        "USD" : 0.888875,
+        "EUR" : 0.7275
+    },
+    "resold_impressions" : 291,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 28,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 12142222,
+    "revenue" : 0.0945,
+    "revenue_dict" : {
+        "USD" : 0.115462,
+        "EUR" : 0.0945
+    },
+    "resold_impressions" : 27,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 137,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6045641,
+    "revenue" : 0.305,
+    "revenue_dict" : {
+        "USD" : 0.372656,
+        "EUR" : 0.305
+    },
+    "resold_impressions" : 122,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 813,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10642881,
+    "revenue" : 1.1985,
+    "revenue_dict" : {
+        "USD" : 1.464353,
+        "EUR" : 1.1985
+    },
+    "resold_impressions" : 799,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 54,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5917716,
+    "revenue" : 0.189,
+    "revenue_dict" : {
+        "USD" : 0.230924,
+        "EUR" : 0.189
+    },
+    "resold_impressions" : 54,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 768,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10642778,
+    "revenue" : 1.14,
+    "revenue_dict" : {
+        "USD" : 1.392877,
+        "EUR" : 1.14
+    },
+    "resold_impressions" : 760,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 770,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5687603,
+    "revenue" : 2.674,
+    "revenue_dict" : {
+        "USD" : 3.267151,
+        "EUR" : 2.674
+    },
+    "resold_impressions" : 764,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 237,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 10642596,
+    "revenue" : 0.345,
+    "revenue_dict" : {
+        "USD" : 0.421528,
+        "EUR" : 0.345
+    },
+    "resold_impressions" : 230,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 37,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 11445232,
+    "revenue" : 0.1295,
+    "revenue_dict" : {
+        "USD" : 0.158226,
+        "EUR" : 0.1295
+    },
+    "resold_impressions" : 37,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 247,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 5556969,
+    "revenue" : 0.861,
+    "revenue_dict" : {
+        "USD" : 1.051989,
+        "EUR" : 0.861
+    },
+    "resold_impressions" : 246,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 4,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 12350620,
+    "revenue" : 0.014,
+    "revenue_dict" : {
+        "USD" : 0.017106,
+        "EUR" : 0.014
+    },
+    "resold_impressions" : 4,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 10,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 7631030,
+    "revenue" : 0.035,
+    "revenue_dict" : {
+        "USD" : 0.042764,
+        "EUR" : 0.035
+    },
+    "resold_impressions" : 10,
+    "platform" : "teads"
+}
+
+,
+{
+    
+    "total_impressions" : 5,
+    "date" : "2018-01-20",
+    
+    "placement_id" : 6034516,
+    "revenue" : 0.0175,
+    "revenue_dict" : {
+        "USD" : 0.021382,
+        "EUR" : 0.0175
+    },
+    "resold_impressions" : 5,
+    "platform" : "teads"
+}
+]
