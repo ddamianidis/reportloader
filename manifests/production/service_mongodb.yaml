@@ -1,0 +1,17 @@
+# [START mongodb service]
+---
+  kind: Service
+  apiVersion: v1
+  metadata:
+    name: mongodb
+    namespace: tw-reporter
+  spec:
+    type: LoadBalancer
+    selector:
+      app: mongodb
+    ports:
+      - protocol: TCP
+        port: 27017
+        targetPort: 27017
+        name: mongodb
+# [END mongodb service]        

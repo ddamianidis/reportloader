@@ -1,0 +1,51 @@
+# [START tw-lo-optimizer_deployment_testing]
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mongodb-reporter-prod-pv-claim
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 50Gi      
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: mongodb
+  namespace: tw-reporter
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: mongodb
+    spec:
+      containers:
+      - name: mongodb
+        image: mongo:latest
+        command:
+          - mongod
+          - "--smallfiles"
+          - "--auth"
+          - "--bind_ip_all"
+        ports:
+        - containerPort: 27017
+        - containerPort: 27017
+        env:
+        - name: MONGO_DATA_DIR
+          value: '/data/db'
+        - name: MONGO_LOG_DIR
+          value: '/dev/null'      
+        volumeMounts:
+        - name: mongodb-persistent-storage
+          mountPath: /data/db  
+#        env:
+#        - name: WEB_HOST
+#          value: 'web'
+      volumes:
+      - name: mongodb-persistent-storage
+        persistentVolumeClaim:
+          claimName: mongodb-reporter-prod-pv-claim    
+# [END tw-lo-optimizer_deployment_testing]          

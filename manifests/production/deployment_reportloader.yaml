@@ -1,0 +1,23 @@
+# [START tw-lo-optimizer_deployment_testing]
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: reportloader
+  namespace: tw-reporter
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: reportloader
+    spec:
+      containers:
+      - name: reportloader
+        image: eu.gcr.io/jenkins-193214/tw-reporter/reportloader:IMAGE_VERSION
+        ports:
+        - containerPort: 5552
+        - containerPort: 5552
+        env:
+        - name: MONGO_HOST
+          value: 'mongodb://root:kcs21o81977NL@mongodb'
+# [END tw-lo-optimizer_deployment_testing]          

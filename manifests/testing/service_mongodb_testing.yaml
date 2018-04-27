@@ -1,0 +1,21 @@
+# [START tw-reporter-mongodb service]
+---
+  kind: Service
+  apiVersion: v1
+  metadata:
+    name: tw-reporter
+    namespace: jenkins
+  spec:
+    type: NodePort
+    selector:
+      app: tw-reporter
+    ports:
+      - protocol: TCP
+        port: 27017
+        targetPort: 27017
+        name: mongodb
+      - protocol: TCP
+        port: 5552
+        targetPort: 5552
+        name: reportloader  
+# [END tw-reporter-mongodb service]        

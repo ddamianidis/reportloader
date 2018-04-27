@@ -1,0 +1,27 @@
+FROM python:3
+
+# update package repositories
+RUN apt-get update && apt-get -y upgrade
+
+RUN apt-get -qq update && apt-get install psmisc
+RUN pip install -U pip setuptools
+
+RUN apt-get install -y nano
+
+# add project files
+RUN mkdir -p /usr/src/report-loader
+RUN mkdir -p /usr/src/report-loader/reportloader
+
+WORKDIR /usr/src/report-loader
+
+ADD requirements.txt /usr/src/report-loader
+ADD reportloader /usr/src/report-loader/reportloader
+ADD setup.py /usr/src/report-loader
+
+# add project dependencies
+RUN pip install -r requirements.txt
+
+# install reportloader package
+RUN python3 setup.py install
+ 
+CMD python3 reportloader/main.py

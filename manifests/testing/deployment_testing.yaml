@@ -1,0 +1,58 @@
+# [START tw-lo-optimizer_deployment_testing]
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mongodb-reporter-test-pv-claim
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi      
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: tw-reporter
+  namespace: jenkins
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: tw-reporter
+    spec:
+      containers:
+      - name: reportloader
+        image: eu.gcr.io/jenkins-193214/tw-reporter/reportloader:IMAGE_VERSION
+        ports:
+        - containerPort: 5552
+        - containerPort: 5552
+#        env:
+#        - name: WEB_HOST
+#          value: 'reporterapi-sandbox.projectagora.net'
+      - name: mongodb
+        image: eu.gcr.io/jenkins-193214/tw-reporter/mongodb:IMAGE_VERSION
+        ports:
+        - containerPort: 27017
+        - containerPort: 27017
+        env:
+        - name: MONGO_DATA_DIR
+          value: '/data/db'
+        - name: MONGO_LOG_DIR
+          value: '/dev/null'
+        volumeMounts:
+        - name: mongodb-persistent-storage
+          mountPath: /data/db      
+      volumes:
+      - name: mongodb-persistent-storage
+        persistentVolumeClaim:
+          claimName: mongodb-reporter-test-pv-claim  
+#        resources:
+#          limits:
+#            cpu: 500m
+#            memory: 1500Mi
+#          requests:
+#            cpu: 500m
+#            memory: 1500Mi  
+# [END tw-lo-optimizer_deployment_testing]
