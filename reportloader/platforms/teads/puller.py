@@ -79,7 +79,7 @@ class TeadsPuller(AbstractPuller, IPuller):
             
         return True
     
-    @AbstractPuller.timeout_ready(100) # timeout in 100 secs
+    @AbstractPuller.timeout_ready(200) # timeout in 100 secs
     def _ready(self):
         """ 
         Sends the request that checks the reports status.
@@ -87,7 +87,7 @@ class TeadsPuller(AbstractPuller, IPuller):
         :returns: returns True if the report is ready otherwise False. 
         """
         
-        time.sleep(5)
+        time.sleep(6)
         url = 'https://api.teads.tv/v1/analytics/custom/{0}'.format(self.report_id)                                
         r = requests.get(url,
                           headers=self.report.headers)

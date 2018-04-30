@@ -82,7 +82,7 @@ class AppnexusPuller(AbstractPuller, IPuller):
         self.report_id = response_data['response']['report_id']    
         return 
     
-    @AbstractPuller.timeout_ready(100) # timeout in 100 secs
+    @AbstractPuller.timeout_ready(300) # timeout in 100 secs
     def _ready(self):
         """ 
         Sends the request that checks the reports status.

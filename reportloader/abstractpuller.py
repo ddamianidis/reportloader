@@ -25,7 +25,7 @@ class AbstractPuller():
                 result = False
                 while not result:
                     result = f(self, *args, **kwargs)
-                    time.sleep(3)
+                    time.sleep(6)
                     time_sum += 3
                     # if timeout riched return
                     if  time_sum > timeout:

@@ -92,7 +92,7 @@ class SmartPuller(AbstractPuller, IPuller):
             
         return 
     
-    @AbstractPuller.timeout_ready(100) # timeout in 100 secs    
+    @AbstractPuller.timeout_ready(500) # timeout in 100 secs    
     def _ready(self):
         """ 
         Sends the request that checks the reports status.
