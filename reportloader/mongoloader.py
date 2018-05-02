@@ -22,7 +22,7 @@ class mongoLoader():
         'criteo': 'criteo_revenue_daily',
         'criteohb': 'criteohb_revenue_daily',
         'fb': 'fb_revenue_daily',
-        'smartads': 'smartads_revenue_daily',
+        'smart': 'smartads_revenue_daily',
         'smaato': 'smaato_revenue_daily',
         'taboola': 'taboola_revenue_daily',
         'teads': 'teads_revenue_daily',
