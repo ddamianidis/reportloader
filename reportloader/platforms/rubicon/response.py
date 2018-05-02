@@ -56,9 +56,13 @@ class Response(AbstractResponse, IResponseClient):
         # if size is null give it a second chance and  
         # get it from placement name
         if self.size is None:
-            size_part = self.placement_name.rsplit('_', 1)[1]
-            m = re.search(r'\d+[xX]\d+', size_part)
-            self.size = m.group(0) if m is not None else None
+            size_part_arr = self.placement_name.rsplit('_', 1)
+            if len(size_part_arr) > 1:
+                size_part = size_part_arr[1]
+                m = re.search(r'\d+[xX]\d+', size_part)
+                self.size = m.group(0) if m is not None else None
+            else:
+                return False    
         
         if self.size is None:
             return False
