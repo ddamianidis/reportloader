@@ -359,7 +359,7 @@ class PullDataTestCase(TestCase):
         # for teads platform wait before the next request
         if self.platform in ('teads'):
             time.sleep(5)
-        self.maxDiff = None
+        #self.maxDiff = None
         # delete data from database
         self.removeDbData()
         

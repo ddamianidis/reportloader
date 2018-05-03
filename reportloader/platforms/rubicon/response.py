@@ -13,14 +13,13 @@ from reportloader.abstractresponse import AbstractResponse
 class Response(AbstractResponse, IResponseClient):
     """ Class for manage an appnexus response """
     
-    DATE_FIELD =  'Date'
-    PLACEMENT_NAME_FIELD = 'Zone'
-    TOTAL_IMPRESSIONS_FIELD = 'Auctions'       
-    RESOLD_IMPRESSIONS_FIELD = 'Paid Impressions'
-    REVENUE_FIELD_OLD = 'Revenue'
-    REVENUE_FIELD_NEW = 'Gross Revenue'
-    SIZE_FIELD = 'Size'
-    DEAL_FIELD = 'Deal'
+    DATE_FIELD =  'date'
+    PLACEMENT_NAME_FIELD = 'placement_name'
+    TOTAL_IMPRESSIONS_FIELD = 'total_impressions'       
+    RESOLD_IMPRESSIONS_FIELD = 'resold_impressions'
+    REVENUE_FIELD = 'revenue'
+    SIZE_FIELD = 'size'
+    DEAL_FIELD = 'deal'
     REVENUE_DICT_FIELD = 'revenue_dict'
                 
     def __init__(self, data_dict: dict):
@@ -28,12 +27,9 @@ class Response(AbstractResponse, IResponseClient):
         #print(data_dict)
         self.date = str(data_dict[self.DATE_FIELD])
         self.placement_name = str(data_dict[self.PLACEMENT_NAME_FIELD])
-        self.total_impressions = int(data_dict[self.TOTAL_IMPRESSIONS_FIELD].replace('.0', ''))
-        self.resold_impressions = int(data_dict[self.RESOLD_IMPRESSIONS_FIELD].replace('.0', ''))
-        if self.REVENUE_FIELD_OLD in data_dict:
-            self.revenue = round(float(data_dict[self.REVENUE_FIELD_OLD]) * .84, 6) # deduct 16% commision
-        else:
-            self.revenue = round(float(data_dict[self.REVENUE_FIELD_NEW]) * .84, 6) # deduct 16% commision    
+        self.total_impressions = int(data_dict[self.TOTAL_IMPRESSIONS_FIELD])
+        self.resold_impressions = int(data_dict[self.RESOLD_IMPRESSIONS_FIELD])
+        self.revenue = round(float(data_dict[self.REVENUE_FIELD]) * .84, 6) # deduct 16% commision
         self.size = str(data_dict[self.SIZE_FIELD])
         self.deal = str(data_dict[self.DEAL_FIELD])
         self.revenue_dict = data_dict.get('revenue_dict', None)
