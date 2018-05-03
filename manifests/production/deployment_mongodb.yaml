@@ -44,12 +44,12 @@ spec:
 #        env:
 #        - name: WEB_HOST
 #          value: 'web'
-        resources:
-          limits:
-            cpu: 500m
+#        resources:
+#          limits:
+#            cpu: 500m
 #            memory: 1500Mi
-          requests:
-            cpu: 500m
+#          requests:
+#            cpu: 500m
 #            memory: 1500Mi
       volumes:
       - name: mongodb-persistent-storage

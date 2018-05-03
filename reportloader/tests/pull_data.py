@@ -333,7 +333,7 @@ class PullDataTestCase(TestCase):
     def tearDown(self):
         pass
             
-    @unittest.skip('just skip')   
+    #@unittest.skip('just skip')   
     def test_1_pull_data_update(self):
         if self.platform == 'teads':
             time.sleep(5)
@@ -380,7 +380,7 @@ class PullDataTestCase(TestCase):
         self.assertCountEqual(self.dbdata, self.expected_data,
                          'correct pulled data')
         
-    @unittest.skip('just skip')   
+    #@unittest.skip('just skip')   
     def test_3_pull_data_update_revenue(self):
         if self.platform in ('teads'):
             time.sleep(5)
@@ -407,7 +407,7 @@ class PullDataTestCase(TestCase):
         self.assertCountEqual(self.dbdata, self.expected_data,
                          'pulled data are correct')
         
-    @unittest.skip('just skip')   
+    #@unittest.skip('just skip')   
     def test_4_pull_data_update_multiple_fields(self):
         # for teads platform wait before the next request
         if self.platform in ('teads'):
@@ -432,7 +432,7 @@ class PullDataTestCase(TestCase):
         self.assertCountEqual(self.dbdata, self.expected_data,
                          'correct puremoveDepricatedDbDatalled data')      
         
-    @unittest.skip('just skip')   
+    #@unittest.skip('just skip')   
     def test_5_pull_data_insert_different_dates(self):
         # for teads platform wait before the next request
         if self.platform in ('teads'):
@@ -470,7 +470,7 @@ class PullDataTestCase(TestCase):
         self.assertCountEqual(self.dbdata, self.expected_data,
                          'correct pulled data')          
     
-    @unittest.skip('just skip')   
+    #@unittest.skip('just skip')   
     def test_6_set_pull_mode_mute(self):
         # for teads platform wait before the next request
         if self.platform in ('teads'):
@@ -488,7 +488,7 @@ class PullDataTestCase(TestCase):
                                 )
         self.assertEqual(ret_data['result'], False, 'correct pulled data')
         
-    @unittest.skip('just skip')   
+    #@unittest.skip('just skip')   
     def test_7_set_pull_mode_normal(self):
         # for teads platform wait before the next request
         if self.platform in ('teads'):
