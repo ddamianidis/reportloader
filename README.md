@@ -99,7 +99,7 @@ headers =
 
 ## System Architecture
 The architecture of the Reporter API is depicted in the following figure:
-
+<img src="rla_architecture.png"/>
 
 License
 -------
