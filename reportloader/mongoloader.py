@@ -18,7 +18,7 @@ class mongoLoader():
         'adsense':'adsense_revenue_daily',
         'adx':'adx_revenue_daily',
         'rubicon': 'rubicon_revenue_daily',
-        #'appnexus': 'appnexus_revenue_daily',
+        'appnexus': 'appnexus_revenue_daily',
         'criteo': 'criteo_revenue_daily',
         'criteohb': 'criteohb_revenue_daily',
         'fb': 'fb_revenue_daily',
@@ -62,6 +62,12 @@ class mongoLoader():
             return  int(m_id.group(1))
         else:
             return  int(0)
+    
+    def date_to_mongoid(self, date, daytime=(12,0,0)):
+        hours, mins, secs = daytime
+        datetimeobj = datetime.datetime.combine(date, datetime.time(hours, mins, secs))
+        mongo_id = ObjectId.generate_from_datetime(datetimeobj)
+        return mongo_id    
                     
     def _get_mysql_data(self, platform):
         pl_data = []
@@ -73,7 +79,8 @@ class mongoLoader():
             datetimeobj = datetime.datetime.combine(row['date'], datetime.time.min)
             #row['date'] = datetimeobj 
             row['date'] = str(row['date'])
-            row['_id'] = ObjectId.generate_from_datetime(datetimeobj)
+            #row['_id'] = ObjectId.generate_from_datetime(datetimeobj)
+            row['_id'] = self.date_to_mongoid(datetime.datetime.strptime(row['date'], '%Y-%m-%d'))
             if platform == 'adsense':
                 row['placement_name'] = row['adsense_name']
             
