@@ -1,577 +1,94 @@
 [
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 55959,
-    "page_views_with_ads" : 55706,
-    "revenue" : 5.19,
-    "revenue_dict" : {
-        "EUR" : 4.247756,
-        "USD" : 5.19
-    },
-    "clicks" : 319,
-    "placement_id" : 12519464
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 36145,
-    "page_views_with_ads" : 36032,
-    "revenue" : 8.86,
-    "revenue_dict" : {
-        "EUR" : 7.251467,
-        "USD" : 8.86
-    },
-    "clicks" : 457,
-    "placement_id" : 10114458
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 25,
-    "page_views_with_ads" : 25,
+    
+    "page_views" : 8,
+    "page_views_with_ads" : 8,
     "revenue" : 0.0,
     "revenue_dict" : {
         "EUR" : 0.0,
         "USD" : 0.0
     },
     "clicks" : 0,
-    "placement_id" : 11409755
+    "placement_id" : "11563971"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 4,
-    "page_views_with_ads" : 4,
-    "revenue" : 0.0,
+    
+    "page_views" : 690423,
+    "page_views_with_ads" : 398180,
+    "revenue" : 44.69,
     "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
+        "EUR" : 36.57653,
+        "USD" : 44.69
     },
-    "clicks" : 0,
-    "placement_id" : 12337627
+    "clicks" : 733,
+    "placement_id" : "10262089"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 105,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
+    
+    "page_views" : 5406,
+    "page_views_with_ads" : 5037,
+    "revenue" : 0.14,
     "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11974366
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 9,
-    "page_views_with_ads" : 9,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11570416
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 25167,
-    "page_views_with_ads" : 24924,
-    "revenue" : 6.26,
-    "revenue_dict" : {
-        "EUR" : 5.123497,
-        "USD" : 6.26
-    },
-    "clicks" : 382,
-    "placement_id" : 9965274
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1308,
-    "page_views_with_ads" : 1189,
-    "revenue" : 0.11,
-    "revenue_dict" : {
-        "EUR" : 0.090029,
-        "USD" : 0.11
-    },
-    "clicks" : 7,
-    "placement_id" : 10188637
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 14010,
-    "page_views_with_ads" : 13921,
-    "revenue" : 18.24,
-    "revenue_dict" : {
-        "EUR" : 14.928528,
-        "USD" : 18.24
-    },
-    "clicks" : 532,
-    "placement_id" : 11326674
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 155,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12706281
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3429,
-    "page_views_with_ads" : 1689,
-    "revenue" : 1.3,
-    "revenue_dict" : {
-        "EUR" : 1.063985,
-        "USD" : 1.3
+        "EUR" : 0.114583,
+        "USD" : 0.14
     },
     "clicks" : 13,
-    "placement_id" : 10740651
+    "placement_id" : "12517856"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 8228,
-    "page_views_with_ads" : 8191,
-    "revenue" : 0.76,
+    
+    "page_views" : 7017,
+    "page_views_with_ads" : 6042,
+    "revenue" : 0.73,
     "revenue_dict" : {
-        "EUR" : 0.622022,
-        "USD" : 0.76
+        "EUR" : 0.597468,
+        "USD" : 0.73
     },
-    "clicks" : 18,
-    "placement_id" : 12683161
+    "clicks" : 29,
+    "placement_id" : "11095837"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 1196,
-    "page_views_with_ads" : 1190,
-    "revenue" : 0.01,
-    "revenue_dict" : {
-        "EUR" : 0.008185,
-        "USD" : 0.01
-    },
-    "clicks" : 1,
-    "placement_id" : 9906187
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 10,
-    "page_views_with_ads" : 9,
+    
+    "page_views" : 35360,
+    "page_views_with_ads" : 32194,
     "revenue" : 0.0,
     "revenue_dict" : {
         "EUR" : 0.0,
         "USD" : 0.0
     },
     "clicks" : 0,
-    "placement_id" : 12087997
+    "placement_id" : "11292301"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 9732,
-    "page_views_with_ads" : 9642,
-    "revenue" : 0.48,
-    "revenue_dict" : {
-        "EUR" : 0.392856,
-        "USD" : 0.48
-    },
-    "clicks" : 49,
-    "placement_id" : 11491422
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 10214,
-    "page_views_with_ads" : 10213,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 9923652
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 69697,
-    "page_views_with_ads" : 69305,
-    "revenue" : 21.74,
-    "revenue_dict" : {
-        "EUR" : 17.793103,
-        "USD" : 21.74
-    },
-    "clicks" : 772,
-    "placement_id" : 12337312
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 6864,
-    "page_views_with_ads" : 6705,
-    "revenue" : 2.12,
-    "revenue_dict" : {
-        "EUR" : 1.735114,
-        "USD" : 2.12
-    },
-    "clicks" : 124,
-    "placement_id" : 9965290
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 73,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12706250
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2292,
-    "page_views_with_ads" : 2287,
-    "revenue" : 1.19,
-    "revenue_dict" : {
-        "EUR" : 0.973955,
-        "USD" : 1.19
-    },
-    "clicks" : 45,
-    "placement_id" : 12469198
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 7812,
-    "page_views_with_ads" : 7759,
-    "revenue" : 0.02,
-    "revenue_dict" : {
-        "EUR" : 0.016369,
-        "USD" : 0.02
-    },
-    "clicks" : 0,
-    "placement_id" : 12210123
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 89147,
-    "page_views_with_ads" : 88857,
-    "revenue" : 10.44,
-    "revenue_dict" : {
-        "EUR" : 8.544618,
-        "USD" : 10.44
-    },
-    "clicks" : 1117,
-    "placement_id" : 12255537
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 40812,
-    "page_views_with_ads" : 37932,
-    "revenue" : 2.59,
-    "revenue_dict" : {
-        "EUR" : 2.119785,
-        "USD" : 2.59
-    },
-    "clicks" : 228,
-    "placement_id" : 9965303
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 87601,
-    "page_views_with_ads" : 72213,
-    "revenue" : 11.67,
-    "revenue_dict" : {
-        "EUR" : 9.551312,
-        "USD" : 11.67
-    },
-    "clicks" : 695,
-    "placement_id" : 10853337
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 24518,
-    "page_views_with_ads" : 24310,
-    "revenue" : 0.98,
-    "revenue_dict" : {
-        "EUR" : 0.802081,
-        "USD" : 0.98
-    },
-    "clicks" : 64,
-    "placement_id" : 11553671
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4846,
-    "page_views_with_ads" : 4336,
-    "revenue" : 0.43,
-    "revenue_dict" : {
-        "EUR" : 0.351934,
-        "USD" : 0.43
-    },
-    "clicks" : 14,
-    "placement_id" : 11071314
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 64,
-    "page_views_with_ads" : 64,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 4964968
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 30725,
-    "page_views_with_ads" : 30377,
-    "revenue" : 7.91,
-    "revenue_dict" : {
-        "EUR" : 6.47394,
-        "USD" : 7.91
-    },
-    "clicks" : 355,
-    "placement_id" : 11225898
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 89300,
-    "page_views_with_ads" : 88712,
-    "revenue" : 1.68,
-    "revenue_dict" : {
-        "EUR" : 1.374996,
-        "USD" : 1.68
-    },
-    "clicks" : 92,
-    "placement_id" : 12606166
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3894,
-    "page_views_with_ads" : 3020,
-    "revenue" : 1.19,
-    "revenue_dict" : {
-        "EUR" : 0.973955,
-        "USD" : 1.19
-    },
-    "clicks" : 62,
-    "placement_id" : 9964479
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 177,
-    "page_views_with_ads" : 161,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 10554572
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 290,
-    "page_views_with_ads" : 254,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12517873
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 8510,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11553675
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4184,
-    "page_views_with_ads" : 4165,
-    "revenue" : 1.19,
-    "revenue_dict" : {
-        "EUR" : 0.973955,
-        "USD" : 1.19
-    },
-    "clicks" : 86,
-    "placement_id" : 12467983
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 7,
-    "page_views_with_ads" : 7,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11904346
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 110314,
-    "page_views_with_ads" : 96588,
-    "revenue" : 28.06,
-    "revenue_dict" : {
-        "EUR" : 22.965707,
-        "USD" : 28.06
-    },
-    "clicks" : 2731,
-    "placement_id" : 11639874
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 32337,
-    "page_views_with_ads" : 32193,
-    "revenue" : 12.01,
-    "revenue_dict" : {
-        "EUR" : 9.829584,
-        "USD" : 12.01
-    },
-    "clicks" : 522,
-    "placement_id" : 12337309
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2,
-    "page_views_with_ads" : 2,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11570425
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
+    
     "page_views" : 4575,
     "page_views_with_ads" : 4525,
     "revenue" : 0.03,
@@ -580,808 +97,49 @@
         "USD" : 0.03
     },
     "clicks" : 1,
-    "placement_id" : 11292302
+    "placement_id" : "11292302"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 154275,
-    "page_views_with_ads" : 153800,
-    "revenue" : 25.36,
+    
+    "page_views" : 89300,
+    "page_views_with_ads" : 88712,
+    "revenue" : 1.68,
     "revenue_dict" : {
-        "EUR" : 20.755892,
-        "USD" : 25.36
+        "EUR" : 1.374996,
+        "USD" : 1.68
     },
-    "clicks" : 884,
-    "placement_id" : 10114471
+    "clicks" : 92,
+    "placement_id" : "12606166"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 38978,
-    "page_views_with_ads" : 38906,
-    "revenue" : 2.44,
+    
+    "page_views" : 449710,
+    "page_views_with_ads" : 448372,
+    "revenue" : 5.89,
     "revenue_dict" : {
-        "EUR" : 1.997018,
-        "USD" : 2.44
+        "EUR" : 4.82067,
+        "USD" : 5.89
     },
-    "clicks" : 79,
-    "placement_id" : 12326252
+    "clicks" : 273,
+    "placement_id" : "12606166"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 36891,
-    "page_views_with_ads" : 34407,
-    "revenue" : 0.31,
-    "revenue_dict" : {
-        "EUR" : 0.253719,
-        "USD" : 0.31
-    },
-    "clicks" : 7,
-    "placement_id" : 10011454
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 40243,
-    "page_views_with_ads" : 37092,
-    "revenue" : 4.39,
-    "revenue_dict" : {
-        "EUR" : 3.592995,
-        "USD" : 4.39
-    },
-    "clicks" : 123,
-    "placement_id" : 11168850
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 46051,
-    "page_views_with_ads" : 45919,
-    "revenue" : 12.65,
-    "revenue_dict" : {
-        "EUR" : 10.353392,
-        "USD" : 12.65
-    },
-    "clicks" : 849,
-    "placement_id" : 11048276
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 38254,
-    "page_views_with_ads" : 31800,
-    "revenue" : 20.22,
-    "revenue_dict" : {
-        "EUR" : 16.549059,
-        "USD" : 20.22
-    },
-    "clicks" : 415,
-    "placement_id" : 12265379
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 10915,
-    "page_views_with_ads" : 10915,
-    "revenue" : 0.55,
-    "revenue_dict" : {
-        "EUR" : 0.450148,
-        "USD" : 0.55
-    },
-    "clicks" : 21,
-    "placement_id" : 11911964
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 44,
-    "page_views_with_ads" : 44,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11553676
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 8,
-    "page_views_with_ads" : 8,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12530361
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 7678,
-    "page_views_with_ads" : 7637,
-    "revenue" : 0.98,
-    "revenue_dict" : {
-        "EUR" : 0.802081,
-        "USD" : 0.98
-    },
-    "clicks" : 49,
-    "placement_id" : 11482651
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1127,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12552633
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2,
-    "page_views_with_ads" : 2,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11409762
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 852,
-    "page_views_with_ads" : 849,
-    "revenue" : 0.17,
-    "revenue_dict" : {
-        "EUR" : 0.139137,
-        "USD" : 0.17
-    },
-    "clicks" : 4,
-    "placement_id" : 11585762
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 156127,
-    "page_views_with_ads" : 155623,
-    "revenue" : 3.82,
-    "revenue_dict" : {
-        "EUR" : 3.126479,
-        "USD" : 3.82
-    },
-    "clicks" : 96,
-    "placement_id" : 12443767
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 590,
-    "page_views_with_ads" : 590,
-    "revenue" : 0.02,
-    "revenue_dict" : {
-        "EUR" : 0.016369,
-        "USD" : 0.02
-    },
-    "clicks" : 1,
-    "placement_id" : 12375315
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 56,
-    "page_views_with_ads" : 56,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11409757
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 5601,
-    "page_views_with_ads" : 5221,
-    "revenue" : 1.51,
-    "revenue_dict" : {
-        "EUR" : 1.23586,
-        "USD" : 1.51
-    },
-    "clicks" : 73,
-    "placement_id" : 12513669
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 40771,
-    "page_views_with_ads" : 40766,
-    "revenue" : 3.28,
-    "revenue_dict" : {
-        "EUR" : 2.684516,
-        "USD" : 3.28
-    },
-    "clicks" : 168,
-    "placement_id" : 12467986
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 524186,
-    "page_views_with_ads" : 522806,
-    "revenue" : 160.49,
-    "revenue_dict" : {
-        "EUR" : 131.353041,
-        "USD" : 160.49
-    },
-    "clicks" : 5235,
-    "placement_id" : 10884130
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 429111,
-    "page_views_with_ads" : 9,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12255416
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 80546,
-    "page_views_with_ads" : 74378,
-    "revenue" : 12.31,
-    "revenue_dict" : {
-        "EUR" : 10.07512,
-        "USD" : 12.31
-    },
-    "clicks" : 984,
-    "placement_id" : 11474109
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 9140,
-    "page_views_with_ads" : 9064,
-    "revenue" : 0.81,
-    "revenue_dict" : {
-        "EUR" : 0.662945,
-        "USD" : 0.81
-    },
-    "clicks" : 32,
-    "placement_id" : 11585832
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 54556,
-    "page_views_with_ads" : 50364,
-    "revenue" : 5.44,
-    "revenue_dict" : {
-        "EUR" : 4.452368,
-        "USD" : 5.44
-    },
-    "clicks" : 331,
-    "placement_id" : 11095839
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 10535,
-    "page_views_with_ads" : 10496,
-    "revenue" : 2.22,
-    "revenue_dict" : {
-        "EUR" : 1.816959,
-        "USD" : 2.22
-    },
-    "clicks" : 138,
-    "placement_id" : 12089129
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 36282,
-    "page_views_with_ads" : 30918,
-    "revenue" : 4.25,
-    "revenue_dict" : {
-        "EUR" : 3.478413,
-        "USD" : 4.25
-    },
-    "clicks" : 204,
-    "placement_id" : 11048617
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 50551,
-    "page_views_with_ads" : 50374,
-    "revenue" : 20.18,
-    "revenue_dict" : {
-        "EUR" : 16.516321,
-        "USD" : 20.18
-    },
-    "clicks" : 744,
-    "placement_id" : 10884104
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 80526,
-    "page_views_with_ads" : 72352,
-    "revenue" : 17.43,
-    "revenue_dict" : {
-        "EUR" : 14.265583,
-        "USD" : 17.43
-    },
-    "clicks" : 1449,
-    "placement_id" : 9965274
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 50925,
-    "page_views_with_ads" : 45189,
-    "revenue" : 2.51,
-    "revenue_dict" : {
-        "EUR" : 2.05431,
-        "USD" : 2.51
-    },
-    "clicks" : 137,
-    "placement_id" : 10118096
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 28712,
-    "page_views_with_ads" : 28547,
-    "revenue" : 20.33,
-    "revenue_dict" : {
-        "EUR" : 16.639088,
-        "USD" : 20.33
-    },
-    "clicks" : 880,
-    "placement_id" : 12337314
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 85753,
-    "page_views_with_ads" : 85473,
-    "revenue" : 5.25,
-    "revenue_dict" : {
-        "EUR" : 4.296863,
-        "USD" : 5.25
-    },
-    "clicks" : 361,
-    "placement_id" : 12481041
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1,
-    "page_views_with_ads" : 1,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12113559
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 5166,
-    "page_views_with_ads" : 4682,
-    "revenue" : 2.19,
-    "revenue_dict" : {
-        "EUR" : 1.792405,
-        "USD" : 2.19
-    },
-    "clicks" : 123,
-    "placement_id" : 12108155
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 227240,
-    "page_views_with_ads" : 216244,
-    "revenue" : 19.9,
-    "revenue_dict" : {
-        "EUR" : 16.287155,
-        "USD" : 19.9
-    },
-    "clicks" : 1162,
-    "placement_id" : 12508609
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3,
-    "page_views_with_ads" : 3,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11904349
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 9573,
-    "page_views_with_ads" : 9540,
-    "revenue" : 1.43,
-    "revenue_dict" : {
-        "EUR" : 1.170384,
-        "USD" : 1.43
-    },
-    "clicks" : 70,
-    "placement_id" : 11998796
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 404,
-    "page_views_with_ads" : 379,
-    "revenue" : 0.01,
-    "revenue_dict" : {
-        "EUR" : 0.008185,
-        "USD" : 0.01
-    },
-    "clicks" : 2,
-    "placement_id" : 10188645
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 12,
-    "page_views_with_ads" : 12,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11409760
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 142037,
-    "page_views_with_ads" : 129253,
-    "revenue" : 21.84,
-    "revenue_dict" : {
-        "EUR" : 17.874948,
-        "USD" : 21.84
-    },
-    "clicks" : 1591,
-    "placement_id" : 11553766
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 308162,
-    "page_views_with_ads" : 305677,
-    "revenue" : 33.35,
-    "revenue_dict" : {
-        "EUR" : 27.295307,
-        "USD" : 33.35
-    },
-    "clicks" : 2006,
-    "placement_id" : 9965282
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 626441,
-    "page_views_with_ads" : 626046,
-    "revenue" : 63.13,
-    "revenue_dict" : {
-        "EUR" : 51.668748,
-        "USD" : 63.13
-    },
-    "clicks" : 3948,
-    "placement_id" : 12480686
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 187312,
-    "page_views_with_ads" : 186746,
-    "revenue" : 11.7,
-    "revenue_dict" : {
-        "EUR" : 9.575865,
-        "USD" : 11.7
-    },
-    "clicks" : 337,
-    "placement_id" : 12166855
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 9071,
-    "page_views_with_ads" : 9001,
-    "revenue" : 0.52,
-    "revenue_dict" : {
-        "EUR" : 0.425594,
-        "USD" : 0.52
-    },
-    "clicks" : 21,
-    "placement_id" : 9965076
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 36424,
-    "page_views_with_ads" : 36424,
-    "revenue" : 0.96,
-    "revenue_dict" : {
-        "EUR" : 0.785712,
-        "USD" : 0.96
-    },
-    "clicks" : 40,
-    "placement_id" : 12657766
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 38774,
-    "page_views_with_ads" : 38641,
-    "revenue" : 2.8,
-    "revenue_dict" : {
-        "EUR" : 2.29166,
-        "USD" : 2.8
-    },
-    "clicks" : 155,
-    "placement_id" : 12255389
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 59,
-    "page_views_with_ads" : 51,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11071329
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 11378,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12609337
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 27567,
-    "page_views_with_ads" : 25126,
-    "revenue" : 6.22,
-    "revenue_dict" : {
-        "EUR" : 5.090759,
-        "USD" : 6.22
-    },
-    "clicks" : 624,
-    "placement_id" : 11169123
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2957,
-    "page_views_with_ads" : 2752,
-    "revenue" : 0.13,
-    "revenue_dict" : {
-        "EUR" : 0.106399,
-        "USD" : 0.13
-    },
-    "clicks" : 8,
-    "placement_id" : 12517870
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 141336,
-    "page_views_with_ads" : 130997,
-    "revenue" : 22.71,
-    "revenue_dict" : {
-        "EUR" : 18.587,
-        "USD" : 22.71
-    },
-    "clicks" : 1640,
-    "placement_id" : 10188626
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 47438,
-    "page_views_with_ads" : 47100,
-    "revenue" : 5.99,
-    "revenue_dict" : {
-        "EUR" : 4.902515,
-        "USD" : 5.99
-    },
-    "clicks" : 386,
-    "placement_id" : 10177995
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2326,
-    "page_views_with_ads" : 1584,
-    "revenue" : 0.58,
-    "revenue_dict" : {
-        "EUR" : 0.474701,
-        "USD" : 0.58
-    },
-    "clicks" : 11,
-    "placement_id" : 10994537
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 704973,
-    "page_views_with_ads" : 631022,
-    "revenue" : 201.49,
-    "revenue_dict" : {
-        "EUR" : 164.909491,
-        "USD" : 201.49
-    },
-    "clicks" : 12600,
-    "placement_id" : 9965255
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 41520,
-    "page_views_with_ads" : 41403,
-    "revenue" : 8.8,
-    "revenue_dict" : {
-        "EUR" : 7.20236,
-        "USD" : 8.8
-    },
-    "clicks" : 699,
-    "placement_id" : 12784387
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
+    
     "page_views" : 494566,
     "page_views_with_ads" : 492352,
     "revenue" : 64.06,
@@ -1390,613 +148,83 @@
         "USD" : 64.06
     },
     "clicks" : 2910,
-    "placement_id" : 10740511
+    "placement_id" : "10740511"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 8,
-    "page_views_with_ads" : 8,
-    "revenue" : 0.0,
+    
+    "page_views" : 18013,
+    "page_views_with_ads" : 17929,
+    "revenue" : 0.91,
     "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
+        "EUR" : 0.744789,
+        "USD" : 0.91
     },
-    "clicks" : 0,
-    "placement_id" : 11563971
+    "clicks" : 81,
+    "placement_id" : "11912246"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 4090,
-    "page_views_with_ads" : 4067,
-    "revenue" : 0.57,
+    
+    "page_views" : 32480,
+    "page_views_with_ads" : 1375,
+    "revenue" : 0.15,
     "revenue_dict" : {
-        "EUR" : 0.466516,
-        "USD" : 0.57
-    },
-    "clicks" : 33,
-    "placement_id" : 11482654
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 57046,
-    "page_views_with_ads" : 52801,
-    "revenue" : 6.19,
-    "revenue_dict" : {
-        "EUR" : 5.066206,
-        "USD" : 6.19
-    },
-    "clicks" : 439,
-    "placement_id" : 12074434
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 70426,
-    "page_views_with_ads" : 70201,
-    "revenue" : 10.16,
-    "revenue_dict" : {
-        "EUR" : 8.315452,
-        "USD" : 10.16
-    },
-    "clicks" : 763,
-    "placement_id" : 12255260
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 71361,
-    "page_views_with_ads" : 70896,
-    "revenue" : 11.56,
-    "revenue_dict" : {
-        "EUR" : 9.461282,
-        "USD" : 11.56
-    },
-    "clicks" : 1062,
-    "placement_id" : 11626081
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 5741,
-    "page_views_with_ads" : 5479,
-    "revenue" : 0.65,
-    "revenue_dict" : {
-        "EUR" : 0.531992,
-        "USD" : 0.65
-    },
-    "clicks" : 31,
-    "placement_id" : 12504106
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 17047,
-    "page_views_with_ads" : 16807,
-    "revenue" : 1.49,
-    "revenue_dict" : {
-        "EUR" : 1.219491,
-        "USD" : 1.49
-    },
-    "clicks" : 95,
-    "placement_id" : 9965073
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1033,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12706465
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 14245,
-    "page_views_with_ads" : 13364,
-    "revenue" : 1.4,
-    "revenue_dict" : {
-        "EUR" : 1.14583,
-        "USD" : 1.4
-    },
-    "clicks" : 152,
-    "placement_id" : 11858131
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 20830,
-    "page_views_with_ads" : 19497,
-    "revenue" : 37.18,
-    "revenue_dict" : {
-        "EUR" : 30.429971,
-        "USD" : 37.18
-    },
-    "clicks" : 634,
-    "placement_id" : 10885652
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 79037,
-    "page_views_with_ads" : 78706,
-    "revenue" : 16.33,
-    "revenue_dict" : {
-        "EUR" : 13.365288,
-        "USD" : 16.33
-    },
-    "clicks" : 1877,
-    "placement_id" : 9965221
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 534,
-    "page_views_with_ads" : 481,
-    "revenue" : 0.01,
-    "revenue_dict" : {
-        "EUR" : 0.008185,
-        "USD" : 0.01
-    },
-    "clicks" : 0,
-    "placement_id" : 10716064
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 13106,
-    "page_views_with_ads" : 12992,
-    "revenue" : 2.35,
-    "revenue_dict" : {
-        "EUR" : 1.923358,
-        "USD" : 2.35
-    },
-    "clicks" : 109,
-    "placement_id" : 10740521
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 37504,
-    "page_views_with_ads" : 23149,
-    "revenue" : 3.86,
-    "revenue_dict" : {
-        "EUR" : 3.159217,
-        "USD" : 3.86
-    },
-    "clicks" : 75,
-    "placement_id" : 11061568
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1,
-    "page_views_with_ads" : 1,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12176692
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 230,
-    "page_views_with_ads" : 226,
-    "revenue" : 0.1,
-    "revenue_dict" : {
-        "EUR" : 0.081845,
-        "USD" : 0.1
-    },
-    "clicks" : 3,
-    "placement_id" : 11904360
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 33194,
-    "page_views_with_ads" : 29872,
-    "revenue" : 4.9,
-    "revenue_dict" : {
-        "EUR" : 4.010405,
-        "USD" : 4.9
-    },
-    "clicks" : 70,
-    "placement_id" : 11525361
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3129,
-    "page_views_with_ads" : 3127,
-    "revenue" : 1.96,
-    "revenue_dict" : {
-        "EUR" : 1.604162,
-        "USD" : 1.96
-    },
-    "clicks" : 32,
-    "placement_id" : 12274366
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1628,
-    "page_views_with_ads" : 1612,
-    "revenue" : 0.4,
-    "revenue_dict" : {
-        "EUR" : 0.32738,
-        "USD" : 0.4
-    },
-    "clicks" : 16,
-    "placement_id" : 11585769
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3775,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12108196
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 9,
-    "page_views_with_ads" : 9,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11904211
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 109728,
-    "page_views_with_ads" : 108983,
-    "revenue" : 6.64,
-    "revenue_dict" : {
-        "EUR" : 5.434508,
-        "USD" : 6.64
-    },
-    "clicks" : 354,
-    "placement_id" : 11604070
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4313,
-    "page_views_with_ads" : 3860,
-    "revenue" : 0.18,
-    "revenue_dict" : {
-        "EUR" : 0.147321,
-        "USD" : 0.18
-    },
-    "clicks" : 9,
-    "placement_id" : 11062518
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 98168,
-    "page_views_with_ads" : 98028,
-    "revenue" : 6.36,
-    "revenue_dict" : {
-        "EUR" : 5.205342,
-        "USD" : 6.36
-    },
-    "clicks" : 437,
-    "placement_id" : 12519490
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 26693,
-    "page_views_with_ads" : 26622,
-    "revenue" : 1.02,
-    "revenue_dict" : {
-        "EUR" : 0.834819,
-        "USD" : 1.02
-    },
-    "clicks" : 61,
-    "placement_id" : 11553661
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 20026,
-    "page_views_with_ads" : 19962,
-    "revenue" : 16.65,
-    "revenue_dict" : {
-        "EUR" : 13.627192,
-        "USD" : 16.65
-    },
-    "clicks" : 383,
-    "placement_id" : 12430583
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4589,
-    "page_views_with_ads" : 4589,
-    "revenue" : 0.49,
-    "revenue_dict" : {
-        "EUR" : 0.401041,
-        "USD" : 0.49
-    },
-    "clicks" : 6,
-    "placement_id" : 12375316
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3684,
-    "page_views_with_ads" : 3650,
-    "revenue" : 0.37,
-    "revenue_dict" : {
-        "EUR" : 0.302826,
-        "USD" : 0.37
-    },
-    "clicks" : 30,
-    "placement_id" : 11553680
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 866,
-    "page_views_with_ads" : 843,
-    "revenue" : 0.09,
-    "revenue_dict" : {
-        "EUR" : 0.073661,
-        "USD" : 0.09
-    },
-    "clicks" : 1,
-    "placement_id" : 4207409
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 438,
-    "page_views_with_ads" : 418,
-    "revenue" : 0.22,
-    "revenue_dict" : {
-        "EUR" : 0.180059,
-        "USD" : 0.22
-    },
-    "clicks" : 7,
-    "placement_id" : 11416804
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 16189,
-    "page_views_with_ads" : 14765,
-    "revenue" : 2.13,
-    "revenue_dict" : {
-        "EUR" : 1.743298,
-        "USD" : 2.13
-    },
-    "clicks" : 197,
-    "placement_id" : 11639593
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 20965,
-    "page_views_with_ads" : 20136,
-    "revenue" : 3.91,
-    "revenue_dict" : {
-        "EUR" : 3.20014,
-        "USD" : 3.91
-    },
-    "clicks" : 94,
-    "placement_id" : 11308536
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 8276,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12553007
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1477,
-    "page_views_with_ads" : 1469,
-    "revenue" : 0.02,
-    "revenue_dict" : {
-        "EUR" : 0.016369,
-        "USD" : 0.02
-    },
-    "clicks" : 1,
-    "placement_id" : 9917139
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4,
-    "page_views_with_ads" : 4,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12238300
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 199,
-    "page_views_with_ads" : 20,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12313681
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 34712,
-    "page_views_with_ads" : 34416,
-    "revenue" : 37.02,
-    "revenue_dict" : {
-        "EUR" : 30.299019,
-        "USD" : 37.02
-    },
-    "clicks" : 743,
-    "placement_id" : 12715108
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 5781,
-    "page_views_with_ads" : 5704,
-    "revenue" : 0.32,
-    "revenue_dict" : {
-        "EUR" : 0.261904,
-        "USD" : 0.32
-    },
-    "clicks" : 18,
-    "placement_id" : 9965320
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 38863,
-    "page_views_with_ads" : 38710,
-    "revenue" : 14.02,
-    "revenue_dict" : {
-        "EUR" : 11.474669,
-        "USD" : 14.02
-    },
-    "clicks" : 414,
-    "placement_id" : 12084393
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 36,
-    "page_views_with_ads" : 36,
-    "revenue" : 0.04,
-    "revenue_dict" : {
-        "EUR" : 0.032738,
-        "USD" : 0.04
+        "EUR" : 0.122768,
+        "USD" : 0.15
     },
     "clicks" : 2,
-    "placement_id" : 11904352
+    "placement_id" : "10946669"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
+    
+    "page_views" : 1127,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12552633"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 38978,
+    "page_views_with_ads" : 38906,
+    "revenue" : 2.44,
+    "revenue_dict" : {
+        "EUR" : 1.997018,
+        "USD" : 2.44
+    },
+    "clicks" : 79,
+    "placement_id" : "12326252"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
     "page_views" : 8239,
     "page_views_with_ads" : 8237,
     "revenue" : 0.68,
@@ -2005,58 +233,355 @@
         "USD" : 0.68
     },
     "clicks" : 33,
-    "placement_id" : 9413718
+    "placement_id" : "9413718"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 231357,
-    "page_views_with_ads" : 230667,
-    "revenue" : 37.55,
+    
+    "page_views" : 17047,
+    "page_views_with_ads" : 16807,
+    "revenue" : 1.49,
     "revenue_dict" : {
-        "EUR" : 30.732797,
-        "USD" : 37.55
+        "EUR" : 1.219491,
+        "USD" : 1.49
     },
-    "clicks" : 4106,
-    "placement_id" : 12480681
+    "clicks" : 95,
+    "placement_id" : "9965073"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 96102,
-    "page_views_with_ads" : 94711,
-    "revenue" : 20.67,
+    
+    "page_views" : 8228,
+    "page_views_with_ads" : 8191,
+    "revenue" : 0.76,
     "revenue_dict" : {
-        "EUR" : 16.917362,
-        "USD" : 20.67
+        "EUR" : 0.622022,
+        "USD" : 0.76
     },
-    "clicks" : 1318,
-    "placement_id" : 12255377
+    "clicks" : 18,
+    "placement_id" : "12683161"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 36,
-    "page_views_with_ads" : 36,
-    "revenue" : 0.06,
+    
+    "page_views" : 34712,
+    "page_views_with_ads" : 34416,
+    "revenue" : 37.02,
     "revenue_dict" : {
-        "EUR" : 0.049107,
-        "USD" : 0.06
+        "EUR" : 30.299019,
+        "USD" : 37.02
+    },
+    "clicks" : 743,
+    "placement_id" : "12715108"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3894,
+    "page_views_with_ads" : 3020,
+    "revenue" : 1.19,
+    "revenue_dict" : {
+        "EUR" : 0.973955,
+        "USD" : 1.19
+    },
+    "clicks" : 62,
+    "placement_id" : "9964479"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2749,
+    "page_views_with_ads" : 2744,
+    "revenue" : 0.64,
+    "revenue_dict" : {
+        "EUR" : 0.523808,
+        "USD" : 0.64
+    },
+    "clicks" : 33,
+    "placement_id" : "12238301"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 27567,
+    "page_views_with_ads" : 25126,
+    "revenue" : 6.22,
+    "revenue_dict" : {
+        "EUR" : 5.090759,
+        "USD" : 6.22
+    },
+    "clicks" : 624,
+    "placement_id" : "11169123"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 13106,
+    "page_views_with_ads" : 12992,
+    "revenue" : 2.35,
+    "revenue_dict" : {
+        "EUR" : 1.923358,
+        "USD" : 2.35
+    },
+    "clicks" : 109,
+    "placement_id" : "10740521"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 64,
+    "page_views_with_ads" : 64,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "4964968"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 12470,
+    "page_views_with_ads" : 12378,
+    "revenue" : 1.61,
+    "revenue_dict" : {
+        "EUR" : 1.317705,
+        "USD" : 1.61
+    },
+    "clicks" : 39,
+    "placement_id" : "10884097"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 590,
+    "page_views_with_ads" : 590,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
     },
     "clicks" : 1,
-    "placement_id" : 11904348
+    "placement_id" : "12375315"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
+    
+    "page_views" : 70426,
+    "page_views_with_ads" : 70201,
+    "revenue" : 10.16,
+    "revenue_dict" : {
+        "EUR" : 8.315452,
+        "USD" : 10.16
+    },
+    "clicks" : 763,
+    "placement_id" : "12255260"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 13284,
+    "page_views_with_ads" : 12213,
+    "revenue" : 1.17,
+    "revenue_dict" : {
+        "EUR" : 0.957587,
+        "USD" : 1.17
+    },
+    "clicks" : 70,
+    "placement_id" : "11942189"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 227240,
+    "page_views_with_ads" : 216244,
+    "revenue" : 19.9,
+    "revenue_dict" : {
+        "EUR" : 16.287155,
+        "USD" : 19.9
+    },
+    "clicks" : 1162,
+    "placement_id" : "12508609"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 77170,
+    "page_views_with_ads" : 65205,
+    "revenue" : 13.65,
+    "revenue_dict" : {
+        "EUR" : 11.171843,
+        "USD" : 13.65
+    },
+    "clicks" : 797,
+    "placement_id" : "9964876"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 30987,
+    "page_views_with_ads" : 29023,
+    "revenue" : 2.12,
+    "revenue_dict" : {
+        "EUR" : 1.735114,
+        "USD" : 2.12
+    },
+    "clicks" : 77,
+    "placement_id" : "12393595"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9071,
+    "page_views_with_ads" : 9001,
+    "revenue" : 0.52,
+    "revenue_dict" : {
+        "EUR" : 0.425594,
+        "USD" : 0.52
+    },
+    "clicks" : 21,
+    "placement_id" : "9965076"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 115535,
+    "page_views_with_ads" : 102594,
+    "revenue" : 12.17,
+    "revenue_dict" : {
+        "EUR" : 9.960536,
+        "USD" : 12.17
+    },
+    "clicks" : 845,
+    "placement_id" : "11321828"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 43547,
+    "page_views_with_ads" : 43365,
+    "revenue" : 1.81,
+    "revenue_dict" : {
+        "EUR" : 1.481395,
+        "USD" : 1.81
+    },
+    "clicks" : 90,
+    "placement_id" : "11974365"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 8510,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11553675"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 10915,
+    "page_views_with_ads" : 10915,
+    "revenue" : 0.55,
+    "revenue_dict" : {
+        "EUR" : 0.450148,
+        "USD" : 0.55
+    },
+    "clicks" : 21,
+    "placement_id" : "11911964"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
     "page_views" : 3136,
     "page_views_with_ads" : 2918,
     "revenue" : 0.08,
@@ -2065,103 +590,66 @@
         "USD" : 0.08
     },
     "clicks" : 3,
-    "placement_id" : 11904508
+    "placement_id" : "11904508"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 24334,
-    "page_views_with_ads" : 24215,
+    
+    "page_views" : 2292,
+    "page_views_with_ads" : 2287,
     "revenue" : 1.19,
     "revenue_dict" : {
         "EUR" : 0.973955,
         "USD" : 1.19
     },
-    "clicks" : 74,
-    "placement_id" : 12144793
+    "clicks" : 45,
+    "placement_id" : "12469198"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 11826,
-    "page_views_with_ads" : 11751,
-    "revenue" : 0.17,
-    "revenue_dict" : {
-        "EUR" : 0.139137,
-        "USD" : 0.17
-    },
-    "clicks" : 5,
-    "placement_id" : 12210121
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 16,
-    "page_views_with_ads" : 16,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12517876
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 23802,
-    "page_views_with_ads" : 23142,
-    "revenue" : 3.0,
-    "revenue_dict" : {
-        "EUR" : 2.45535,
-        "USD" : 3.0
-    },
-    "clicks" : 102,
-    "placement_id" : 12173855
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3450,
-    "page_views_with_ads" : 3170,
-    "revenue" : 0.04,
-    "revenue_dict" : {
-        "EUR" : 0.032738,
-        "USD" : 0.04
-    },
-    "clicks" : 3,
-    "placement_id" : 9964871
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 75796,
-    "page_views_with_ads" : 75559,
+    
+    "page_views" : 7678,
+    "page_views_with_ads" : 7637,
     "revenue" : 0.98,
     "revenue_dict" : {
         "EUR" : 0.802081,
         "USD" : 0.98
     },
-    "clicks" : 76,
-    "placement_id" : 12443784
+    "clicks" : 49,
+    "placement_id" : "11482651"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
+    
+    "page_views" : 4049,
+    "page_views_with_ads" : 3712,
+    "revenue" : 1.08,
+    "revenue_dict" : {
+        "EUR" : 0.883926,
+        "USD" : 1.08
+    },
+    "clicks" : 53,
+    "placement_id" : "12393594"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
     "page_views" : 194296,
     "page_views_with_ads" : 174995,
     "revenue" : 43.47,
@@ -2170,29 +658,118 @@
         "USD" : 43.47
     },
     "clicks" : 4201,
-    "placement_id" : 10496564
+    "placement_id" : "10496564"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 909,
-    "page_views_with_ads" : 847,
-    "revenue" : 0.02,
+    
+    "page_views" : 36145,
+    "page_views_with_ads" : 36032,
+    "revenue" : 8.86,
     "revenue_dict" : {
-        "EUR" : 0.016369,
-        "USD" : 0.02
+        "EUR" : 7.251467,
+        "USD" : 8.86
     },
-    "clicks" : 4,
-    "placement_id" : 11308540
+    "clicks" : 457,
+    "placement_id" : "10114458"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 423,
+    
+    "page_views" : 87601,
+    "page_views_with_ads" : 72213,
+    "revenue" : 11.67,
+    "revenue_dict" : {
+        "EUR" : 9.551312,
+        "USD" : 11.67
+    },
+    "clicks" : 695,
+    "placement_id" : "10853337"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 140,
+    "page_views_with_ads" : 138,
+    "revenue" : 0.13,
+    "revenue_dict" : {
+        "EUR" : 0.106399,
+        "USD" : 0.13
+    },
+    "clicks" : 3,
+    "placement_id" : "11904356"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3350,
+    "page_views_with_ads" : 3338,
+    "revenue" : 0.19,
+    "revenue_dict" : {
+        "EUR" : 0.155505,
+        "USD" : 0.19
+    },
+    "clicks" : 19,
+    "placement_id" : "12651987"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 96102,
+    "page_views_with_ads" : 94711,
+    "revenue" : 20.67,
+    "revenue_dict" : {
+        "EUR" : 16.917362,
+        "USD" : 20.67
+    },
+    "clicks" : 1318,
+    "placement_id" : "12255377"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 25284,
+    "page_views_with_ads" : 23242,
+    "revenue" : 7.14,
+    "revenue_dict" : {
+        "EUR" : 5.843733,
+        "USD" : 7.14
+    },
+    "clicks" : 451,
+    "placement_id" : "10118094"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 1033,
     "page_views_with_ads" : 0,
     "revenue" : 0.0,
     "revenue_dict" : {
@@ -2200,13 +777,780 @@
         "USD" : 0.0
     },
     "clicks" : 0,
-    "placement_id" : 12706526
+    "placement_id" : "12706465"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
+    
+    "page_views" : 155,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12706281"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 207802,
+    "page_views_with_ads" : 207128,
+    "revenue" : 35.48,
+    "revenue_dict" : {
+        "EUR" : 29.038606,
+        "USD" : 35.48
+    },
+    "clicks" : 1507,
+    "placement_id" : "10114466"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 20026,
+    "page_views_with_ads" : 19962,
+    "revenue" : 16.65,
+    "revenue_dict" : {
+        "EUR" : 13.627192,
+        "USD" : 16.65
+    },
+    "clicks" : 383,
+    "placement_id" : "12430583"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 40243,
+    "page_views_with_ads" : 37092,
+    "revenue" : 4.39,
+    "revenue_dict" : {
+        "EUR" : 3.592995,
+        "USD" : 4.39
+    },
+    "clicks" : 123,
+    "placement_id" : "11168850"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 89013,
+    "page_views_with_ads" : 88670,
+    "revenue" : 17.83,
+    "revenue_dict" : {
+        "EUR" : 14.592963,
+        "USD" : 17.83
+    },
+    "clicks" : 642,
+    "placement_id" : "10716022"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 36,
+    "page_views_with_ads" : 36,
+    "revenue" : 0.04,
+    "revenue_dict" : {
+        "EUR" : 0.032738,
+        "USD" : 0.04
+    },
+    "clicks" : 2,
+    "placement_id" : "11904352"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2,
+    "page_views_with_ads" : 2,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11570425"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 142037,
+    "page_views_with_ads" : 129253,
+    "revenue" : 21.84,
+    "revenue_dict" : {
+        "EUR" : 17.874948,
+        "USD" : 21.84
+    },
+    "clicks" : 1591,
+    "placement_id" : "11553766"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 41520,
+    "page_views_with_ads" : 41403,
+    "revenue" : 8.8,
+    "revenue_dict" : {
+        "EUR" : 7.20236,
+        "USD" : 8.8
+    },
+    "clicks" : 699,
+    "placement_id" : "12784387"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 253519,
+    "page_views_with_ads" : 144203,
+    "revenue" : 10.83,
+    "revenue_dict" : {
+        "EUR" : 8.863814,
+        "USD" : 10.83
+    },
+    "clicks" : 620,
+    "placement_id" : "11770263"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 38412,
+    "page_views_with_ads" : 38173,
+    "revenue" : 15.35,
+    "revenue_dict" : {
+        "EUR" : 12.563208,
+        "USD" : 15.35
+    },
+    "clicks" : 612,
+    "placement_id" : "10114468"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4184,
+    "page_views_with_ads" : 4165,
+    "revenue" : 1.19,
+    "revenue_dict" : {
+        "EUR" : 0.973955,
+        "USD" : 1.19
+    },
+    "clicks" : 86,
+    "placement_id" : "12467983"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 73,
+    "page_views_with_ads" : 70,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 1,
+    "placement_id" : "11904353"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3,
+    "page_views_with_ads" : 3,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12517879"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 14245,
+    "page_views_with_ads" : 13364,
+    "revenue" : 1.4,
+    "revenue_dict" : {
+        "EUR" : 1.14583,
+        "USD" : 1.4
+    },
+    "clicks" : 152,
+    "placement_id" : "11858131"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 36,
+    "page_views_with_ads" : 36,
+    "revenue" : 0.06,
+    "revenue_dict" : {
+        "EUR" : 0.049107,
+        "USD" : 0.06
+    },
+    "clicks" : 1,
+    "placement_id" : "11904348"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 7759,
+    "page_views_with_ads" : 6408,
+    "revenue" : 0.4,
+    "revenue_dict" : {
+        "EUR" : 0.32738,
+        "USD" : 0.4
+    },
+    "clicks" : 7,
+    "placement_id" : "10197389"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 5741,
+    "page_views_with_ads" : 5479,
+    "revenue" : 0.65,
+    "revenue_dict" : {
+        "EUR" : 0.531992,
+        "USD" : 0.65
+    },
+    "clicks" : 31,
+    "placement_id" : "12504106"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 55959,
+    "page_views_with_ads" : 55706,
+    "revenue" : 5.19,
+    "revenue_dict" : {
+        "EUR" : 4.247756,
+        "USD" : 5.19
+    },
+    "clicks" : 319,
+    "placement_id" : "12519464"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 33194,
+    "page_views_with_ads" : 29872,
+    "revenue" : 4.9,
+    "revenue_dict" : {
+        "EUR" : 4.010405,
+        "USD" : 4.9
+    },
+    "clicks" : 70,
+    "placement_id" : "11525361"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 177,
+    "page_views_with_ads" : 161,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "10554572"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 50925,
+    "page_views_with_ads" : 45189,
+    "revenue" : 2.51,
+    "revenue_dict" : {
+        "EUR" : 2.05431,
+        "USD" : 2.51
+    },
+    "clicks" : 137,
+    "placement_id" : "10118096"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 99,
+    "page_views_with_ads" : 80,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11071330"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4846,
+    "page_views_with_ads" : 4336,
+    "revenue" : 0.43,
+    "revenue_dict" : {
+        "EUR" : 0.351934,
+        "USD" : 0.43
+    },
+    "clicks" : 14,
+    "placement_id" : "11071314"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 59,
+    "page_views_with_ads" : 51,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11071329"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 212,
+    "page_views_with_ads" : 194,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    },
+    "clicks" : 1,
+    "placement_id" : "11071345"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 11291,
+    "page_views_with_ads" : 10481,
+    "revenue" : 0.29,
+    "revenue_dict" : {
+        "EUR" : 0.23735,
+        "USD" : 0.29
+    },
+    "clicks" : 12,
+    "placement_id" : "11071346"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 23802,
+    "page_views_with_ads" : 23142,
+    "revenue" : 3.0,
+    "revenue_dict" : {
+        "EUR" : 2.45535,
+        "USD" : 3.0
+    },
+    "clicks" : 102,
+    "placement_id" : "12173855"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 5934,
+    "page_views_with_ads" : 5928,
+    "revenue" : 2.35,
+    "revenue_dict" : {
+        "EUR" : 1.923358,
+        "USD" : 2.35
+    },
+    "clicks" : 111,
+    "placement_id" : "11570412"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 438,
+    "page_views_with_ads" : 418,
+    "revenue" : 0.22,
+    "revenue_dict" : {
+        "EUR" : 0.180059,
+        "USD" : 0.22
+    },
+    "clicks" : 7,
+    "placement_id" : "11416804"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 141336,
+    "page_views_with_ads" : 130997,
+    "revenue" : 22.71,
+    "revenue_dict" : {
+        "EUR" : 18.587,
+        "USD" : 22.71
+    },
+    "clicks" : 1640,
+    "placement_id" : "10188626"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 73,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12706250"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 11701,
+    "page_views_with_ads" : 11538,
+    "revenue" : 2.6,
+    "revenue_dict" : {
+        "EUR" : 2.12797,
+        "USD" : 2.6
+    },
+    "clicks" : 150,
+    "placement_id" : "11225893"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4,
+    "page_views_with_ads" : 4,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12238300"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 32337,
+    "page_views_with_ads" : 32193,
+    "revenue" : 12.01,
+    "revenue_dict" : {
+        "EUR" : 9.829584,
+        "USD" : 12.01
+    },
+    "clicks" : 522,
+    "placement_id" : "12337309"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 12505,
+    "page_views_with_ads" : 10923,
+    "revenue" : 4.72,
+    "revenue_dict" : {
+        "EUR" : 3.863084,
+        "USD" : 4.72
+    },
+    "clicks" : 314,
+    "placement_id" : "11679529"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 24518,
+    "page_views_with_ads" : 24310,
+    "revenue" : 0.98,
+    "revenue_dict" : {
+        "EUR" : 0.802081,
+        "USD" : 0.98
+    },
+    "clicks" : 64,
+    "placement_id" : "11553671"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 85753,
+    "page_views_with_ads" : 85473,
+    "revenue" : 5.25,
+    "revenue_dict" : {
+        "EUR" : 4.296863,
+        "USD" : 5.25
+    },
+    "clicks" : 361,
+    "placement_id" : "12481041"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3453,
+    "page_views_with_ads" : 3435,
+    "revenue" : 0.56,
+    "revenue_dict" : {
+        "EUR" : 0.458332,
+        "USD" : 0.56
+    },
+    "clicks" : 24,
+    "placement_id" : "12378292"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 154275,
+    "page_views_with_ads" : 153800,
+    "revenue" : 25.36,
+    "revenue_dict" : {
+        "EUR" : 20.755892,
+        "USD" : 25.36
+    },
+    "clicks" : 884,
+    "placement_id" : "10114471"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 54556,
+    "page_views_with_ads" : 50364,
+    "revenue" : 5.44,
+    "revenue_dict" : {
+        "EUR" : 4.452368,
+        "USD" : 5.44
+    },
+    "clicks" : 331,
+    "placement_id" : "11095839"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3129,
+    "page_views_with_ads" : 3127,
+    "revenue" : 1.96,
+    "revenue_dict" : {
+        "EUR" : 1.604162,
+        "USD" : 1.96
+    },
+    "clicks" : 32,
+    "placement_id" : "12274366"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 17537,
+    "page_views_with_ads" : 17432,
+    "revenue" : 6.28,
+    "revenue_dict" : {
+        "EUR" : 5.139866,
+        "USD" : 6.28
+    },
+    "clicks" : 538,
+    "placement_id" : "9965246"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 598913,
+    "page_views_with_ads" : 598664,
+    "revenue" : 105.12,
+    "revenue_dict" : {
+        "EUR" : 86.035464,
+        "USD" : 105.12
+    },
+    "clicks" : 6463,
+    "placement_id" : "9965246"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 38863,
+    "page_views_with_ads" : 38710,
+    "revenue" : 14.02,
+    "revenue_dict" : {
+        "EUR" : 11.474669,
+        "USD" : 14.02
+    },
+    "clicks" : 414,
+    "placement_id" : "12084393"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
     "page_views" : 19477,
     "page_views_with_ads" : 0,
     "revenue" : 0.0,
@@ -2215,28 +1559,967 @@
         "USD" : 0.0
     },
     "clicks" : 0,
-    "placement_id" : 11474414
+    "placement_id" : "11474414"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 29429,
-    "page_views_with_ads" : 29350,
-    "revenue" : 13.91,
+    
+    "page_views" : 50551,
+    "page_views_with_ads" : 50374,
+    "revenue" : 20.18,
     "revenue_dict" : {
-        "EUR" : 11.38464,
-        "USD" : 13.91
+        "EUR" : 16.516321,
+        "USD" : 20.18
     },
-    "clicks" : 205,
-    "placement_id" : 11998202
+    "clicks" : 744,
+    "placement_id" : "10884104"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
+    
+    "page_views" : 550997,
+    "page_views_with_ads" : 550138,
+    "revenue" : 72.23,
+    "revenue_dict" : {
+        "EUR" : 59.116644,
+        "USD" : 72.23
+    },
+    "clicks" : 6772,
+    "placement_id" : "12255381"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4749,
+    "page_views_with_ads" : 4179,
+    "revenue" : 1.07,
+    "revenue_dict" : {
+        "EUR" : 0.875742,
+        "USD" : 1.07
+    },
+    "clicks" : 79,
+    "placement_id" : "10496811"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9732,
+    "page_views_with_ads" : 9642,
+    "revenue" : 0.48,
+    "revenue_dict" : {
+        "EUR" : 0.392856,
+        "USD" : 0.48
+    },
+    "clicks" : 49,
+    "placement_id" : "11491422"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 1308,
+    "page_views_with_ads" : 1189,
+    "revenue" : 0.11,
+    "revenue_dict" : {
+        "EUR" : 0.090029,
+        "USD" : 0.11
+    },
+    "clicks" : 7,
+    "placement_id" : "10188637"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 16576,
+    "page_views_with_ads" : 16524,
+    "revenue" : 0.71,
+    "revenue_dict" : {
+        "EUR" : 0.581099,
+        "USD" : 0.71
+    },
+    "clicks" : 43,
+    "placement_id" : "11553654"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3429,
+    "page_views_with_ads" : 1689,
+    "revenue" : 1.3,
+    "revenue_dict" : {
+        "EUR" : 1.063985,
+        "USD" : 1.3
+    },
+    "clicks" : 13,
+    "placement_id" : "10740651"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 22958,
+    "page_views_with_ads" : 22645,
+    "revenue" : 4.01,
+    "revenue_dict" : {
+        "EUR" : 3.281985,
+        "USD" : 4.01
+    },
+    "clicks" : 59,
+    "placement_id" : "12517751"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 7,
+    "page_views_with_ads" : 7,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11904346"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9,
+    "page_views_with_ads" : 9,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11904211"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4589,
+    "page_views_with_ads" : 4589,
+    "revenue" : 0.49,
+    "revenue_dict" : {
+        "EUR" : 0.401041,
+        "USD" : 0.49
+    },
+    "clicks" : 6,
+    "placement_id" : "12375316"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 27301,
+    "page_views_with_ads" : 23865,
+    "revenue" : 12.79,
+    "revenue_dict" : {
+        "EUR" : 10.467975,
+        "USD" : 12.79
+    },
+    "clicks" : 224,
+    "placement_id" : "11450575"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3,
+    "page_views_with_ads" : 3,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11904349"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 704973,
+    "page_views_with_ads" : 631022,
+    "revenue" : 201.49,
+    "revenue_dict" : {
+        "EUR" : 164.909491,
+        "USD" : 201.49
+    },
+    "clicks" : 12600,
+    "placement_id" : "9965255"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 49,
+    "page_views_with_ads" : 49,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12642813"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 25,
+    "page_views_with_ads" : 25,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11409755"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 56,
+    "page_views_with_ads" : 56,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11409757"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2,
+    "page_views_with_ads" : 2,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11409762"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 629,
+    "page_views_with_ads" : 629,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11450454"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 12,
+    "page_views_with_ads" : 12,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11409760"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 71275,
+    "page_views_with_ads" : 64835,
+    "revenue" : 20.18,
+    "revenue_dict" : {
+        "EUR" : 16.516321,
+        "USD" : 20.18
+    },
+    "clicks" : 1322,
+    "placement_id" : "9965260"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 16189,
+    "page_views_with_ads" : 14765,
+    "revenue" : 2.13,
+    "revenue_dict" : {
+        "EUR" : 1.743298,
+        "USD" : 2.13
+    },
+    "clicks" : 197,
+    "placement_id" : "11639593"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 44,
+    "page_views_with_ads" : 44,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11553676"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 230,
+    "page_views_with_ads" : 226,
+    "revenue" : 0.1,
+    "revenue_dict" : {
+        "EUR" : 0.081845,
+        "USD" : 0.1
+    },
+    "clicks" : 3,
+    "placement_id" : "11904360"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 199,
+    "page_views_with_ads" : 20,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12313681"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4,
+    "page_views_with_ads" : 4,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12337627"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 80546,
+    "page_views_with_ads" : 74378,
+    "revenue" : 12.31,
+    "revenue_dict" : {
+        "EUR" : 10.07512,
+        "USD" : 12.31
+    },
+    "clicks" : 984,
+    "placement_id" : "11474109"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 988,
+    "page_views_with_ads" : 984,
+    "revenue" : 0.21,
+    "revenue_dict" : {
+        "EUR" : 0.171874,
+        "USD" : 0.21
+    },
+    "clicks" : 1,
+    "placement_id" : "12379179"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 290,
+    "page_views_with_ads" : 254,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12517873"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 20965,
+    "page_views_with_ads" : 20136,
+    "revenue" : 3.91,
+    "revenue_dict" : {
+        "EUR" : 3.20014,
+        "USD" : 3.91
+    },
+    "clicks" : 94,
+    "placement_id" : "11308536"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9573,
+    "page_views_with_ads" : 9540,
+    "revenue" : 1.43,
+    "revenue_dict" : {
+        "EUR" : 1.170384,
+        "USD" : 1.43
+    },
+    "clicks" : 70,
+    "placement_id" : "11998796"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 24334,
+    "page_views_with_ads" : 24215,
+    "revenue" : 1.19,
+    "revenue_dict" : {
+        "EUR" : 0.973955,
+        "USD" : 1.19
+    },
+    "clicks" : 74,
+    "placement_id" : "12144793"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 57684,
+    "page_views_with_ads" : 53781,
+    "revenue" : 5.42,
+    "revenue_dict" : {
+        "EUR" : 4.435999,
+        "USD" : 5.42
+    },
+    "clicks" : 264,
+    "placement_id" : "11048362"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 40771,
+    "page_views_with_ads" : 40766,
+    "revenue" : 3.28,
+    "revenue_dict" : {
+        "EUR" : 2.684516,
+        "USD" : 3.28
+    },
+    "clicks" : 168,
+    "placement_id" : "12467986"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 5655,
+    "page_views_with_ads" : 5601,
+    "revenue" : 2.71,
+    "revenue_dict" : {
+        "EUR" : 2.217999,
+        "USD" : 2.71
+    },
+    "clicks" : 70,
+    "placement_id" : "11585763"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 46051,
+    "page_views_with_ads" : 45919,
+    "revenue" : 12.65,
+    "revenue_dict" : {
+        "EUR" : 10.353392,
+        "USD" : 12.65
+    },
+    "clicks" : 849,
+    "placement_id" : "11048276"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 8444,
+    "page_views_with_ads" : 7450,
+    "revenue" : 0.94,
+    "revenue_dict" : {
+        "EUR" : 0.769343,
+        "USD" : 0.94
+    },
+    "clicks" : 44,
+    "placement_id" : "11168883"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 38774,
+    "page_views_with_ads" : 38641,
+    "revenue" : 2.8,
+    "revenue_dict" : {
+        "EUR" : 2.29166,
+        "USD" : 2.8
+    },
+    "clicks" : 155,
+    "placement_id" : "12255389"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2250,
+    "page_views_with_ads" : 1814,
+    "revenue" : 0.33,
+    "revenue_dict" : {
+        "EUR" : 0.270089,
+        "USD" : 0.33
+    },
+    "clicks" : 36,
+    "placement_id" : "11127682"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 58,
+    "page_views_with_ads" : 58,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11912244"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 404,
+    "page_views_with_ads" : 379,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    },
+    "clicks" : 2,
+    "placement_id" : "10188645"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 5166,
+    "page_views_with_ads" : 4682,
+    "revenue" : 2.19,
+    "revenue_dict" : {
+        "EUR" : 1.792405,
+        "USD" : 2.19
+    },
+    "clicks" : 123,
+    "placement_id" : "12108155"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9798,
+    "page_views_with_ads" : 9798,
+    "revenue" : 6.32,
+    "revenue_dict" : {
+        "EUR" : 5.172604,
+        "USD" : 6.32
+    },
+    "clicks" : 116,
+    "placement_id" : "12529936"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 1628,
+    "page_views_with_ads" : 1612,
+    "revenue" : 0.4,
+    "revenue_dict" : {
+        "EUR" : 0.32738,
+        "USD" : 0.4
+    },
+    "clicks" : 16,
+    "placement_id" : "11585769"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 37504,
+    "page_views_with_ads" : 23149,
+    "revenue" : 3.86,
+    "revenue_dict" : {
+        "EUR" : 3.159217,
+        "USD" : 3.86
+    },
+    "clicks" : 75,
+    "placement_id" : "11061568"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 12293,
+    "page_views_with_ads" : 12172,
+    "revenue" : 1.07,
+    "revenue_dict" : {
+        "EUR" : 0.875742,
+        "USD" : 1.07
+    },
+    "clicks" : 67,
+    "placement_id" : "11327376"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 57156,
+    "page_views_with_ads" : 56822,
+    "revenue" : 14.08,
+    "revenue_dict" : {
+        "EUR" : 11.523776,
+        "USD" : 14.08
+    },
+    "clicks" : 344,
+    "placement_id" : "10884114"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4985,
+    "page_views_with_ads" : 4779,
+    "revenue" : 0.66,
+    "revenue_dict" : {
+        "EUR" : 0.540177,
+        "USD" : 0.66
+    },
+    "clicks" : 34,
+    "placement_id" : "12174106"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 73962,
+    "page_views_with_ads" : 73710,
+    "revenue" : 1.2,
+    "revenue_dict" : {
+        "EUR" : 0.98214,
+        "USD" : 1.2
+    },
+    "clicks" : 39,
+    "placement_id" : "12443761"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 156127,
+    "page_views_with_ads" : 155623,
+    "revenue" : 3.82,
+    "revenue_dict" : {
+        "EUR" : 3.126479,
+        "USD" : 3.82
+    },
+    "clicks" : 96,
+    "placement_id" : "12443767"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 308162,
+    "page_views_with_ads" : 305677,
+    "revenue" : 33.35,
+    "revenue_dict" : {
+        "EUR" : 27.295307,
+        "USD" : 33.35
+    },
+    "clicks" : 2006,
+    "placement_id" : "9965282"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 6864,
+    "page_views_with_ads" : 6705,
+    "revenue" : 2.12,
+    "revenue_dict" : {
+        "EUR" : 1.735114,
+        "USD" : 2.12
+    },
+    "clicks" : 124,
+    "placement_id" : "9965290"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 20830,
+    "page_views_with_ads" : 19497,
+    "revenue" : 37.18,
+    "revenue_dict" : {
+        "EUR" : 30.429971,
+        "USD" : 37.18
+    },
+    "clicks" : 634,
+    "placement_id" : "10885652"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 57046,
+    "page_views_with_ads" : 52801,
+    "revenue" : 6.19,
+    "revenue_dict" : {
+        "EUR" : 5.066206,
+        "USD" : 6.19
+    },
+    "clicks" : 439,
+    "placement_id" : "12074434"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 8276,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12553007"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 6420,
+    "page_views_with_ads" : 6392,
+    "revenue" : 0.21,
+    "revenue_dict" : {
+        "EUR" : 0.171874,
+        "USD" : 0.21
+    },
+    "clicks" : 7,
+    "placement_id" : "12443756"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
     "page_views" : 711,
     "page_views_with_ads" : 645,
     "revenue" : 0.03,
@@ -2250,473 +2533,95 @@
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 3453,
-    "page_views_with_ads" : 3435,
-    "revenue" : 0.56,
+    
+    "page_views" : 79037,
+    "page_views_with_ads" : 78706,
+    "revenue" : 16.33,
     "revenue_dict" : {
-        "EUR" : 0.458332,
-        "USD" : 0.56
+        "EUR" : 13.365288,
+        "USD" : 16.33
     },
-    "clicks" : 24,
-    "placement_id" : 12378292
+    "clicks" : 1877,
+    "placement_id" : "9965221"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 16576,
-    "page_views_with_ads" : 16524,
-    "revenue" : 0.71,
+    
+    "page_views" : 4090,
+    "page_views_with_ads" : 4067,
+    "revenue" : 0.57,
     "revenue_dict" : {
-        "EUR" : 0.581099,
-        "USD" : 0.71
-    },
-    "clicks" : 43,
-    "placement_id" : 11553654
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 11291,
-    "page_views_with_ads" : 10481,
-    "revenue" : 0.29,
-    "revenue_dict" : {
-        "EUR" : 0.23735,
-        "USD" : 0.29
-    },
-    "clicks" : 12,
-    "placement_id" : 11071346
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 5406,
-    "page_views_with_ads" : 5037,
-    "revenue" : 0.14,
-    "revenue_dict" : {
-        "EUR" : 0.114583,
-        "USD" : 0.14
-    },
-    "clicks" : 13,
-    "placement_id" : 12517856
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 117653,
-    "page_views_with_ads" : 116878,
-    "revenue" : 8.76,
-    "revenue_dict" : {
-        "EUR" : 7.169622,
-        "USD" : 8.76
-    },
-    "clicks" : 462,
-    "placement_id" : 10476093
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 115535,
-    "page_views_with_ads" : 102594,
-    "revenue" : 12.17,
-    "revenue_dict" : {
-        "EUR" : 9.960536,
-        "USD" : 12.17
-    },
-    "clicks" : 845,
-    "placement_id" : 11321828
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 449710,
-    "page_views_with_ads" : 448372,
-    "revenue" : 5.89,
-    "revenue_dict" : {
-        "EUR" : 4.82067,
-        "USD" : 5.89
-    },
-    "clicks" : 273,
-    "placement_id" : 12606166
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2749,
-    "page_views_with_ads" : 2744,
-    "revenue" : 0.64,
-    "revenue_dict" : {
-        "EUR" : 0.523808,
-        "USD" : 0.64
+        "EUR" : 0.466516,
+        "USD" : 0.57
     },
     "clicks" : 33,
-    "placement_id" : 12238301
+    "placement_id" : "11482654"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 57156,
-    "page_views_with_ads" : 56822,
-    "revenue" : 14.08,
+    
+    "page_views" : 231357,
+    "page_views_with_ads" : 230667,
+    "revenue" : 37.55,
     "revenue_dict" : {
-        "EUR" : 11.523776,
-        "USD" : 14.08
+        "EUR" : 30.732797,
+        "USD" : 37.55
     },
-    "clicks" : 344,
-    "placement_id" : 10884114
+    "clicks" : 4106,
+    "placement_id" : "12480681"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 6191,
-    "page_views_with_ads" : 6159,
-    "revenue" : 0.0,
+    
+    "page_views" : 2957,
+    "page_views_with_ads" : 2752,
+    "revenue" : 0.13,
     "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
+        "EUR" : 0.106399,
+        "USD" : 0.13
     },
-    "clicks" : 0,
-    "placement_id" : 12210132
+    "clicks" : 8,
+    "placement_id" : "12517870"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 73962,
-    "page_views_with_ads" : 73710,
-    "revenue" : 1.2,
-    "revenue_dict" : {
-        "EUR" : 0.98214,
-        "USD" : 1.2
-    },
-    "clicks" : 39,
-    "placement_id" : 12443761
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 750,
-    "page_views_with_ads" : 747,
-    "revenue" : 0.41,
-    "revenue_dict" : {
-        "EUR" : 0.335564,
-        "USD" : 0.41
-    },
-    "clicks" : 5,
-    "placement_id" : 11904362
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 32480,
-    "page_views_with_ads" : 1375,
-    "revenue" : 0.15,
-    "revenue_dict" : {
-        "EUR" : 0.122768,
-        "USD" : 0.15
-    },
-    "clicks" : 2,
-    "placement_id" : 10946669
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 690423,
-    "page_views_with_ads" : 398180,
-    "revenue" : 44.69,
-    "revenue_dict" : {
-        "EUR" : 36.57653,
-        "USD" : 44.69
-    },
-    "clicks" : 733,
-    "placement_id" : 10262089
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 35360,
-    "page_views_with_ads" : 32194,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11292301
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2353,
-    "page_views_with_ads" : 2342,
+    
+    "page_views" : 3450,
+    "page_views_with_ads" : 3170,
     "revenue" : 0.04,
     "revenue_dict" : {
         "EUR" : 0.032738,
         "USD" : 0.04
     },
-    "clicks" : 6,
-    "placement_id" : 9917140
+    "clicks" : 3,
+    "placement_id" : "9964871"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 6420,
-    "page_views_with_ads" : 6392,
-    "revenue" : 0.21,
-    "revenue_dict" : {
-        "EUR" : 0.171874,
-        "USD" : 0.21
-    },
-    "clicks" : 7,
-    "placement_id" : 12443756
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 548422,
-    "page_views_with_ads" : 545086,
-    "revenue" : 8.74,
-    "revenue_dict" : {
-        "EUR" : 7.153253,
-        "USD" : 8.74
-    },
-    "clicks" : 285,
-    "placement_id" : 11945885
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 26029,
-    "page_views_with_ads" : 20863,
-    "revenue" : 3.59,
-    "revenue_dict" : {
-        "EUR" : 2.938235,
-        "USD" : 3.59
-    },
-    "clicks" : 258,
-    "placement_id" : 9965239
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 22850,
-    "page_views_with_ads" : 15852,
-    "revenue" : 1.81,
-    "revenue_dict" : {
-        "EUR" : 1.481395,
-        "USD" : 1.81
-    },
-    "clicks" : 171,
-    "placement_id" : 9965338
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 11517,
-    "page_views_with_ads" : 10950,
-    "revenue" : 0.05,
-    "revenue_dict" : {
-        "EUR" : 0.040923,
-        "USD" : 0.05
-    },
-    "clicks" : 1,
-    "placement_id" : 3962860
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4985,
-    "page_views_with_ads" : 4779,
-    "revenue" : 0.66,
-    "revenue_dict" : {
-        "EUR" : 0.540177,
-        "USD" : 0.66
-    },
-    "clicks" : 34,
-    "placement_id" : 12174106
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 6562,
-    "page_views_with_ads" : 6269,
-    "revenue" : 0.47,
-    "revenue_dict" : {
-        "EUR" : 0.384671,
-        "USD" : 0.47
-    },
-    "clicks" : 31,
-    "placement_id" : 11908495
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 119,
-    "page_views_with_ads" : 111,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 3962865
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 17482,
-    "page_views_with_ads" : 17469,
-    "revenue" : 1.46,
-    "revenue_dict" : {
-        "EUR" : 1.194937,
-        "USD" : 1.46
-    },
-    "clicks" : 42,
-    "placement_id" : 9965205
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 133,
-    "page_views_with_ads" : 128,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 3962867
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 26,
-    "page_views_with_ads" : 25,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11904359
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 12470,
-    "page_views_with_ads" : 12378,
-    "revenue" : 1.61,
-    "revenue_dict" : {
-        "EUR" : 1.317705,
-        "USD" : 1.61
-    },
-    "clicks" : 39,
-    "placement_id" : 10884097
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 550997,
-    "page_views_with_ads" : 550138,
-    "revenue" : 72.23,
-    "revenue_dict" : {
-        "EUR" : 59.116644,
-        "USD" : 72.23
-    },
-    "clicks" : 6772,
-    "placement_id" : 12255381
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 41327,
-    "page_views_with_ads" : 41151,
-    "revenue" : 8.8,
-    "revenue_dict" : {
-        "EUR" : 7.20236,
-        "USD" : 8.8
-    },
-    "clicks" : 305,
-    "placement_id" : 10884128
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 11701,
-    "page_views_with_ads" : 11538,
-    "revenue" : 2.6,
-    "revenue_dict" : {
-        "EUR" : 2.12797,
-        "USD" : 2.6
-    },
-    "clicks" : 150,
-    "placement_id" : 11225893
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
+    
     "page_views" : 103695,
     "page_views_with_ads" : 103280,
     "revenue" : 23.75,
@@ -2725,1138 +2630,15 @@
         "USD" : 23.75
     },
     "clicks" : 1486,
-    "placement_id" : 12154808
+    "placement_id" : "12154808"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 17537,
-    "page_views_with_ads" : 17432,
-    "revenue" : 6.28,
-    "revenue_dict" : {
-        "EUR" : 5.139866,
-        "USD" : 6.28
-    },
-    "clicks" : 538,
-    "placement_id" : 9965246
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 7877,
-    "page_views_with_ads" : 7818,
-    "revenue" : 0.01,
-    "revenue_dict" : {
-        "EUR" : 0.008185,
-        "USD" : 0.01
-    },
-    "clicks" : 0,
-    "placement_id" : 12210120
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2250,
-    "page_views_with_ads" : 1814,
-    "revenue" : 0.33,
-    "revenue_dict" : {
-        "EUR" : 0.270089,
-        "USD" : 0.33
-    },
-    "clicks" : 36,
-    "placement_id" : 11127682
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 440578,
-    "page_views_with_ads" : 438142,
-    "revenue" : 15.09,
-    "revenue_dict" : {
-        "EUR" : 12.350411,
-        "USD" : 15.09
-    },
-    "clicks" : 550,
-    "placement_id" : 10740540
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 141543,
-    "page_views_with_ads" : 126832,
-    "revenue" : 26.12,
-    "revenue_dict" : {
-        "EUR" : 21.377914,
-        "USD" : 26.12
-    },
-    "clicks" : 2148,
-    "placement_id" : 10129248
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 421,
-    "page_views_with_ads" : 416,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 4207423
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4749,
-    "page_views_with_ads" : 4179,
-    "revenue" : 1.07,
-    "revenue_dict" : {
-        "EUR" : 0.875742,
-        "USD" : 1.07
-    },
-    "clicks" : 79,
-    "placement_id" : 10496811
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 140,
-    "page_views_with_ads" : 138,
-    "revenue" : 0.13,
-    "revenue_dict" : {
-        "EUR" : 0.106399,
-        "USD" : 0.13
-    },
-    "clicks" : 3,
-    "placement_id" : 11904356
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 12116,
-    "page_views_with_ads" : 11549,
-    "revenue" : 2.75,
-    "revenue_dict" : {
-        "EUR" : 2.250738,
-        "USD" : 2.75
-    },
-    "clicks" : 187,
-    "placement_id" : 12116613
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 132839,
-    "page_views_with_ads" : 132348,
-    "revenue" : 37.72,
-    "revenue_dict" : {
-        "EUR" : 30.871934,
-        "USD" : 37.72
-    },
-    "clicks" : 1229,
-    "placement_id" : 10770840
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 57684,
-    "page_views_with_ads" : 53781,
-    "revenue" : 5.42,
-    "revenue_dict" : {
-        "EUR" : 4.435999,
-        "USD" : 5.42
-    },
-    "clicks" : 264,
-    "placement_id" : 11048362
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 40265,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12315148
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 9,
-    "page_views_with_ads" : 9,
-    "revenue" : 0.01,
-    "revenue_dict" : {
-        "EUR" : 0.008185,
-        "USD" : 0.01
-    },
-    "clicks" : 1,
-    "placement_id" : 11570380
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 42038,
-    "page_views_with_ads" : 41887,
-    "revenue" : 2.03,
-    "revenue_dict" : {
-        "EUR" : 1.661453,
-        "USD" : 2.03
-    },
-    "clicks" : 112,
-    "placement_id" : 12378325
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2956,
-    "page_views_with_ads" : 2589,
-    "revenue" : 0.17,
-    "revenue_dict" : {
-        "EUR" : 0.139137,
-        "USD" : 0.17
-    },
-    "clicks" : 7,
-    "placement_id" : 11450838
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 9798,
-    "page_views_with_ads" : 9798,
-    "revenue" : 6.32,
-    "revenue_dict" : {
-        "EUR" : 5.172604,
-        "USD" : 6.32
-    },
-    "clicks" : 116,
-    "placement_id" : 12529936
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 253519,
-    "page_views_with_ads" : 144203,
-    "revenue" : 10.83,
-    "revenue_dict" : {
-        "EUR" : 8.863814,
-        "USD" : 10.83
-    },
-    "clicks" : 620,
-    "placement_id" : 11770263
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 26085,
-    "page_views_with_ads" : 26003,
-    "revenue" : 1.67,
-    "revenue_dict" : {
-        "EUR" : 1.366812,
-        "USD" : 1.67
-    },
-    "clicks" : 78,
-    "placement_id" : 12274281
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 99,
-    "page_views_with_ads" : 80,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11071330
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 43547,
-    "page_views_with_ads" : 43365,
-    "revenue" : 1.81,
-    "revenue_dict" : {
-        "EUR" : 1.481395,
-        "USD" : 1.81
-    },
-    "clicks" : 90,
-    "placement_id" : 11974365
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 15,
-    "page_views_with_ads" : 6,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 10766905
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 340160,
-    "page_views_with_ads" : 339751,
-    "revenue" : 51.16,
-    "revenue_dict" : {
-        "EUR" : 41.871902,
-        "USD" : 51.16
-    },
-    "clicks" : 2815,
-    "placement_id" : 11599108
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 212,
-    "page_views_with_ads" : 194,
-    "revenue" : 0.02,
-    "revenue_dict" : {
-        "EUR" : 0.016369,
-        "USD" : 0.02
-    },
-    "clicks" : 1,
-    "placement_id" : 11071345
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 452378,
-    "page_views_with_ads" : 407837,
-    "revenue" : 26.04,
-    "revenue_dict" : {
-        "EUR" : 21.312438,
-        "USD" : 26.04
-    },
-    "clicks" : 3237,
-    "placement_id" : 9965329
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 27301,
-    "page_views_with_ads" : 23865,
-    "revenue" : 12.79,
-    "revenue_dict" : {
-        "EUR" : 10.467975,
-        "USD" : 12.79
-    },
-    "clicks" : 224,
-    "placement_id" : 11450575
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 77170,
-    "page_views_with_ads" : 65205,
-    "revenue" : 13.65,
-    "revenue_dict" : {
-        "EUR" : 11.171843,
-        "USD" : 13.65
-    },
-    "clicks" : 797,
-    "placement_id" : 9964876
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 18211,
-    "page_views_with_ads" : 18134,
-    "revenue" : 2.37,
-    "revenue_dict" : {
-        "EUR" : 1.939727,
-        "USD" : 2.37
-    },
-    "clicks" : 160,
-    "placement_id" : 11553678
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 5655,
-    "page_views_with_ads" : 5601,
-    "revenue" : 2.71,
-    "revenue_dict" : {
-        "EUR" : 2.217999,
-        "USD" : 2.71
-    },
-    "clicks" : 70,
-    "placement_id" : 11585763
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 137576,
-    "page_views_with_ads" : 76299,
-    "revenue" : 5.1,
-    "revenue_dict" : {
-        "EUR" : 4.174095,
-        "USD" : 5.1
-    },
-    "clicks" : 253,
-    "placement_id" : 11169004
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 148493,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12255604
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 73,
-    "page_views_with_ads" : 70,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 1,
-    "placement_id" : 11904353
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 16,
-    "page_views_with_ads" : 15,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11908359
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3350,
-    "page_views_with_ads" : 3338,
-    "revenue" : 0.19,
-    "revenue_dict" : {
-        "EUR" : 0.155505,
-        "USD" : 0.19
-    },
-    "clicks" : 19,
-    "placement_id" : 12651987
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 598913,
-    "page_views_with_ads" : 598664,
-    "revenue" : 105.12,
-    "revenue_dict" : {
-        "EUR" : 86.035464,
-        "USD" : 105.12
-    },
-    "clicks" : 6463,
-    "placement_id" : 9965246
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 801,
-    "page_views_with_ads" : 780,
-    "revenue" : 0.04,
-    "revenue_dict" : {
-        "EUR" : 0.032738,
-        "USD" : 0.04
-    },
-    "clicks" : 1,
-    "placement_id" : 12643014
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 29732,
-    "page_views_with_ads" : 29589,
-    "revenue" : 8.16,
-    "revenue_dict" : {
-        "EUR" : 6.678552,
-        "USD" : 8.16
-    },
-    "clicks" : 298,
-    "placement_id" : 10884120
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 80064,
-    "page_views_with_ads" : 79808,
-    "revenue" : 12.87,
-    "revenue_dict" : {
-        "EUR" : 10.533451,
-        "USD" : 12.87
-    },
-    "clicks" : 450,
-    "placement_id" : 10740532
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 72733,
-    "page_views_with_ads" : 34561,
-    "revenue" : 2.06,
-    "revenue_dict" : {
-        "EUR" : 1.686007,
-        "USD" : 2.06
-    },
-    "clicks" : 131,
-    "placement_id" : 11168945
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 89732,
-    "page_views_with_ads" : 79736,
-    "revenue" : 27.84,
-    "revenue_dict" : {
-        "EUR" : 22.785648,
-        "USD" : 27.84
-    },
-    "clicks" : 2785,
-    "placement_id" : 9965308
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 22958,
-    "page_views_with_ads" : 22645,
-    "revenue" : 4.01,
-    "revenue_dict" : {
-        "EUR" : 3.281985,
-        "USD" : 4.01
-    },
-    "clicks" : 59,
-    "placement_id" : 12517751
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 49,
-    "page_views_with_ads" : 49,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12642813
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 84493,
-    "page_views_with_ads" : 37509,
-    "revenue" : 6.17,
-    "revenue_dict" : {
-        "EUR" : 5.049836,
-        "USD" : 6.17
-    },
-    "clicks" : 192,
-    "placement_id" : 12485587
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 58,
-    "page_views_with_ads" : 58,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11912244
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 207802,
-    "page_views_with_ads" : 207128,
-    "revenue" : 35.48,
-    "revenue_dict" : {
-        "EUR" : 29.038606,
-        "USD" : 35.48
-    },
-    "clicks" : 1507,
-    "placement_id" : 10114466
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 7759,
-    "page_views_with_ads" : 6408,
-    "revenue" : 0.4,
-    "revenue_dict" : {
-        "EUR" : 0.32738,
-        "USD" : 0.4
-    },
-    "clicks" : 7,
-    "placement_id" : 10197389
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 13284,
-    "page_views_with_ads" : 12213,
-    "revenue" : 1.17,
-    "revenue_dict" : {
-        "EUR" : 0.957587,
-        "USD" : 1.17
-    },
-    "clicks" : 70,
-    "placement_id" : 11942189
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 4049,
-    "page_views_with_ads" : 3712,
-    "revenue" : 1.08,
-    "revenue_dict" : {
-        "EUR" : 0.883926,
-        "USD" : 1.08
-    },
-    "clicks" : 53,
-    "placement_id" : 12393594
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 88176,
-    "page_views_with_ads" : 87832,
-    "revenue" : 9.66,
-    "revenue_dict" : {
-        "EUR" : 7.906227,
-        "USD" : 9.66
-    },
-    "clicks" : 907,
-    "placement_id" : 12255462
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 8444,
-    "page_views_with_ads" : 7450,
-    "revenue" : 0.94,
-    "revenue_dict" : {
-        "EUR" : 0.769343,
-        "USD" : 0.94
-    },
-    "clicks" : 44,
-    "placement_id" : 11168883
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 46186,
-    "page_views_with_ads" : 42521,
-    "revenue" : 1.01,
-    "revenue_dict" : {
-        "EUR" : 0.826635,
-        "USD" : 1.01
-    },
-    "clicks" : 30,
-    "placement_id" : 10011450
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 988,
-    "page_views_with_ads" : 984,
-    "revenue" : 0.21,
-    "revenue_dict" : {
-        "EUR" : 0.171874,
-        "USD" : 0.21
-    },
-    "clicks" : 1,
-    "placement_id" : 12379179
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3273,
-    "page_views_with_ads" : 3092,
-    "revenue" : 0.29,
-    "revenue_dict" : {
-        "EUR" : 0.23735,
-        "USD" : 0.29
-    },
-    "clicks" : 9,
-    "placement_id" : 10741201
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1494,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12714957
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 18013,
-    "page_views_with_ads" : 17929,
-    "revenue" : 0.91,
-    "revenue_dict" : {
-        "EUR" : 0.744789,
-        "USD" : 0.91
-    },
-    "clicks" : 81,
-    "placement_id" : 11912246
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2,
-    "page_views_with_ads" : 2,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11936743
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 38412,
-    "page_views_with_ads" : 38173,
-    "revenue" : 15.35,
-    "revenue_dict" : {
-        "EUR" : 12.563208,
-        "USD" : 15.35
-    },
-    "clicks" : 612,
-    "placement_id" : 10114468
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3,
-    "page_views_with_ads" : 3,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12517879
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 771,
-    "page_views_with_ads" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12706512
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 524,
-    "page_views_with_ads" : 511,
-    "revenue" : 0.03,
-    "revenue_dict" : {
-        "EUR" : 0.024553,
-        "USD" : 0.03
-    },
-    "clicks" : 2,
-    "placement_id" : 12314557
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 36736,
-    "page_views_with_ads" : 34404,
-    "revenue" : 10.48,
-    "revenue_dict" : {
-        "EUR" : 8.577356,
-        "USD" : 10.48
-    },
-    "clicks" : 832,
-    "placement_id" : 12074439
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 629,
-    "page_views_with_ads" : 629,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11450454
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 12505,
-    "page_views_with_ads" : 10923,
-    "revenue" : 4.72,
-    "revenue_dict" : {
-        "EUR" : 3.863084,
-        "USD" : 4.72
-    },
-    "clicks" : 314,
-    "placement_id" : 11679529
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 12397,
-    "page_views_with_ads" : 12397,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 12313812
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 7017,
-    "page_views_with_ads" : 6042,
-    "revenue" : 0.73,
-    "revenue_dict" : {
-        "EUR" : 0.597468,
-        "USD" : 0.73
-    },
-    "clicks" : 29,
-    "placement_id" : 11095837
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 42811,
-    "page_views_with_ads" : 42639,
-    "revenue" : 1.55,
-    "revenue_dict" : {
-        "EUR" : 1.268598,
-        "USD" : 1.55
-    },
-    "clicks" : 37,
-    "placement_id" : 10740643
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 30987,
-    "page_views_with_ads" : 29023,
-    "revenue" : 2.12,
-    "revenue_dict" : {
-        "EUR" : 1.735114,
-        "USD" : 2.12
-    },
-    "clicks" : 77,
-    "placement_id" : 12393595
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 3761,
-    "page_views_with_ads" : 3345,
-    "revenue" : 4.17,
-    "revenue_dict" : {
-        "EUR" : 3.412936,
-        "USD" : 4.17
-    },
-    "clicks" : 66,
-    "placement_id" : 11450618
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 341,
-    "page_views_with_ads" : 321,
-    "revenue" : 0.02,
-    "revenue_dict" : {
-        "EUR" : 0.016369,
-        "USD" : 0.02
-    },
-    "clicks" : 1,
-    "placement_id" : 11298147
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 2318,
-    "page_views_with_ads" : 2280,
-    "revenue" : 0.75,
-    "revenue_dict" : {
-        "EUR" : 0.613838,
-        "USD" : 0.75
-    },
-    "clicks" : 13,
-    "placement_id" : 11904363
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 19,
-    "page_views_with_ads" : 18,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0,
-    "placement_id" : 11904350
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 71275,
-    "page_views_with_ads" : 64835,
-    "revenue" : 20.18,
-    "revenue_dict" : {
-        "EUR" : 16.516321,
-        "USD" : 20.18
-    },
-    "clicks" : 1322,
-    "placement_id" : 9965260
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 1088540,
-    "page_views_with_ads" : 973495,
-    "revenue" : 97.74,
-    "revenue_dict" : {
-        "EUR" : 79.995303,
-        "USD" : 97.74
-    },
-    "clicks" : 5519,
-    "placement_id" : 10177995
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 7505,
-    "page_views_with_ads" : 7478,
-    "revenue" : 0.63,
-    "revenue_dict" : {
-        "EUR" : 0.515624,
-        "USD" : 0.63
-    },
-    "clicks" : 43,
-    "placement_id" : 11553681
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 25284,
-    "page_views_with_ads" : 23242,
-    "revenue" : 7.14,
-    "revenue_dict" : {
-        "EUR" : 5.843733,
-        "USD" : 7.14
-    },
-    "clicks" : 451,
-    "placement_id" : 10118094
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
-    "page_views" : 12293,
-    "page_views_with_ads" : 12172,
-    "revenue" : 1.07,
-    "revenue_dict" : {
-        "EUR" : 0.875742,
-        "USD" : 1.07
-    },
-    "clicks" : 67,
-    "placement_id" : 11327376
-}
-
-,
-{
-    "platform" : "taboola",
-    "date" : "2018-01-20",
+    
     "page_views" : 287,
     "page_views_with_ads" : 282,
     "revenue" : 0.0,
@@ -3865,73 +2647,457 @@
         "USD" : 0.0
     },
     "clicks" : 1,
-    "placement_id" : 9906171
+    "placement_id" : "9906171"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 28932,
-    "page_views_with_ads" : 28644,
-    "revenue" : 7.62,
+    
+    "page_views" : 1196,
+    "page_views_with_ads" : 1190,
+    "revenue" : 0.01,
     "revenue_dict" : {
-        "EUR" : 6.236589,
-        "USD" : 7.62
+        "EUR" : 0.008185,
+        "USD" : 0.01
     },
-    "clicks" : 486,
-    "placement_id" : 11049221
+    "clicks" : 1,
+    "placement_id" : "9906187"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 5934,
-    "page_views_with_ads" : 5928,
-    "revenue" : 2.35,
+    
+    "page_views" : 1477,
+    "page_views_with_ads" : 1469,
+    "revenue" : 0.02,
     "revenue_dict" : {
-        "EUR" : 1.923358,
-        "USD" : 2.35
+        "EUR" : 0.016369,
+        "USD" : 0.02
     },
-    "clicks" : 111,
-    "placement_id" : 11570412
+    "clicks" : 1,
+    "placement_id" : "9917139"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 21371,
-    "page_views_with_ads" : 16540,
-    "revenue" : 1.73,
+    
+    "page_views" : 2353,
+    "page_views_with_ads" : 2342,
+    "revenue" : 0.04,
     "revenue_dict" : {
-        "EUR" : 1.415919,
-        "USD" : 1.73
+        "EUR" : 0.032738,
+        "USD" : 0.04
     },
-    "clicks" : 68,
-    "placement_id" : 11168878
+    "clicks" : 6,
+    "placement_id" : "9917140"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
-    "page_views" : 89013,
-    "page_views_with_ads" : 88670,
-    "revenue" : 17.83,
+    
+    "page_views" : 89732,
+    "page_views_with_ads" : 79736,
+    "revenue" : 27.84,
     "revenue_dict" : {
-        "EUR" : 14.592963,
-        "USD" : 17.83
+        "EUR" : 22.785648,
+        "USD" : 27.84
     },
-    "clicks" : 642,
-    "placement_id" : 10716022
+    "clicks" : 2785,
+    "placement_id" : "9965308"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
+    
+    "page_views" : 429111,
+    "page_views_with_ads" : 9,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12255416"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 26085,
+    "page_views_with_ads" : 26003,
+    "revenue" : 1.67,
+    "revenue_dict" : {
+        "EUR" : 1.366812,
+        "USD" : 1.67
+    },
+    "clicks" : 78,
+    "placement_id" : "12274281"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 16,
+    "page_views_with_ads" : 16,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12517876"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3684,
+    "page_views_with_ads" : 3650,
+    "revenue" : 0.37,
+    "revenue_dict" : {
+        "EUR" : 0.302826,
+        "USD" : 0.37
+    },
+    "clicks" : 30,
+    "placement_id" : "11553680"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 26029,
+    "page_views_with_ads" : 20863,
+    "revenue" : 3.59,
+    "revenue_dict" : {
+        "EUR" : 2.938235,
+        "USD" : 3.59
+    },
+    "clicks" : 258,
+    "placement_id" : "9965239"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 750,
+    "page_views_with_ads" : 747,
+    "revenue" : 0.41,
+    "revenue_dict" : {
+        "EUR" : 0.335564,
+        "USD" : 0.41
+    },
+    "clicks" : 5,
+    "placement_id" : "11904362"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 80064,
+    "page_views_with_ads" : 79808,
+    "revenue" : 12.87,
+    "revenue_dict" : {
+        "EUR" : 10.533451,
+        "USD" : 12.87
+    },
+    "clicks" : 450,
+    "placement_id" : "10740532"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 26693,
+    "page_views_with_ads" : 26622,
+    "revenue" : 1.02,
+    "revenue_dict" : {
+        "EUR" : 0.834819,
+        "USD" : 1.02
+    },
+    "clicks" : 61,
+    "placement_id" : "11553661"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 29732,
+    "page_views_with_ads" : 29589,
+    "revenue" : 8.16,
+    "revenue_dict" : {
+        "EUR" : 6.678552,
+        "USD" : 8.16
+    },
+    "clicks" : 298,
+    "placement_id" : "10884120"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 88176,
+    "page_views_with_ads" : 87832,
+    "revenue" : 9.66,
+    "revenue_dict" : {
+        "EUR" : 7.906227,
+        "USD" : 9.66
+    },
+    "clicks" : 907,
+    "placement_id" : "12255462"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 89147,
+    "page_views_with_ads" : 88857,
+    "revenue" : 10.44,
+    "revenue_dict" : {
+        "EUR" : 8.544618,
+        "USD" : 10.44
+    },
+    "clicks" : 1117,
+    "placement_id" : "12255537"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 117653,
+    "page_views_with_ads" : 116878,
+    "revenue" : 8.76,
+    "revenue_dict" : {
+        "EUR" : 7.169622,
+        "USD" : 8.76
+    },
+    "clicks" : 462,
+    "placement_id" : "10476093"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 801,
+    "page_views_with_ads" : 780,
+    "revenue" : 0.04,
+    "revenue_dict" : {
+        "EUR" : 0.032738,
+        "USD" : 0.04
+    },
+    "clicks" : 1,
+    "placement_id" : "12643014"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 36424,
+    "page_views_with_ads" : 36424,
+    "revenue" : 0.96,
+    "revenue_dict" : {
+        "EUR" : 0.785712,
+        "USD" : 0.96
+    },
+    "clicks" : 40,
+    "placement_id" : "12657766"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 8,
+    "page_views_with_ads" : 8,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12530361"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 75796,
+    "page_views_with_ads" : 75559,
+    "revenue" : 0.98,
+    "revenue_dict" : {
+        "EUR" : 0.802081,
+        "USD" : 0.98
+    },
+    "clicks" : 76,
+    "placement_id" : "12443784"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3775,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12108196"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 109728,
+    "page_views_with_ads" : 108983,
+    "revenue" : 6.64,
+    "revenue_dict" : {
+        "EUR" : 5.434508,
+        "USD" : 6.64
+    },
+    "clicks" : 354,
+    "placement_id" : "11604070"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 110314,
+    "page_views_with_ads" : 96588,
+    "revenue" : 28.06,
+    "revenue_dict" : {
+        "EUR" : 22.965707,
+        "USD" : 28.06
+    },
+    "clicks" : 2731,
+    "placement_id" : "11639874"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 69697,
+    "page_views_with_ads" : 69305,
+    "revenue" : 21.74,
+    "revenue_dict" : {
+        "EUR" : 17.793103,
+        "USD" : 21.74
+    },
+    "clicks" : 772,
+    "placement_id" : "12337312"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 18211,
+    "page_views_with_ads" : 18134,
+    "revenue" : 2.37,
+    "revenue_dict" : {
+        "EUR" : 1.939727,
+        "USD" : 2.37
+    },
+    "clicks" : 160,
+    "placement_id" : "11553678"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 10535,
+    "page_views_with_ads" : 10496,
+    "revenue" : 2.22,
+    "revenue_dict" : {
+        "EUR" : 1.816959,
+        "USD" : 2.22
+    },
+    "clicks" : 138,
+    "placement_id" : "12089129"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
     "page_views" : 1,
     "page_views_with_ads" : 1,
     "revenue" : 0.0,
@@ -3940,13 +3106,440 @@
         "USD" : 0.0
     },
     "clicks" : 0,
-    "placement_id" : 11062496
+    "placement_id" : "12113559"
 }
 
 ,
 {
+    
     "platform" : "taboola",
     "date" : "2018-01-20",
+    
+    "page_views" : 17482,
+    "page_views_with_ads" : 17469,
+    "revenue" : 1.46,
+    "revenue_dict" : {
+        "EUR" : 1.194937,
+        "USD" : 1.46
+    },
+    "clicks" : 42,
+    "placement_id" : "9965205"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2956,
+    "page_views_with_ads" : 2589,
+    "revenue" : 0.17,
+    "revenue_dict" : {
+        "EUR" : 0.139137,
+        "USD" : 0.17
+    },
+    "clicks" : 7,
+    "placement_id" : "11450838"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 15,
+    "page_views_with_ads" : 6,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "10766905"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 98168,
+    "page_views_with_ads" : 98028,
+    "revenue" : 6.36,
+    "revenue_dict" : {
+        "EUR" : 5.205342,
+        "USD" : 6.36
+    },
+    "clicks" : 437,
+    "placement_id" : "12519490"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 41327,
+    "page_views_with_ads" : 41151,
+    "revenue" : 8.8,
+    "revenue_dict" : {
+        "EUR" : 7.20236,
+        "USD" : 8.8
+    },
+    "clicks" : 305,
+    "placement_id" : "10884128"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 524186,
+    "page_views_with_ads" : 522806,
+    "revenue" : 160.49,
+    "revenue_dict" : {
+        "EUR" : 131.353041,
+        "USD" : 160.49
+    },
+    "clicks" : 5235,
+    "placement_id" : "10884130"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 137576,
+    "page_views_with_ads" : 76299,
+    "revenue" : 5.1,
+    "revenue_dict" : {
+        "EUR" : 4.174095,
+        "USD" : 5.1
+    },
+    "clicks" : 253,
+    "placement_id" : "11169004"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 148493,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12255604"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 10,
+    "page_views_with_ads" : 9,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12087997"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 40265,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12315148"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 25167,
+    "page_views_with_ads" : 24924,
+    "revenue" : 6.26,
+    "revenue_dict" : {
+        "EUR" : 5.123497,
+        "USD" : 6.26
+    },
+    "clicks" : 382,
+    "placement_id" : "9965274"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 80526,
+    "page_views_with_ads" : 72352,
+    "revenue" : 17.43,
+    "revenue_dict" : {
+        "EUR" : 14.265583,
+        "USD" : 17.43
+    },
+    "clicks" : 1449,
+    "placement_id" : "9965274"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 10214,
+    "page_views_with_ads" : 10213,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "9923652"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 626441,
+    "page_views_with_ads" : 626046,
+    "revenue" : 63.13,
+    "revenue_dict" : {
+        "EUR" : 51.668748,
+        "USD" : 63.13
+    },
+    "clicks" : 3948,
+    "placement_id" : "12480686"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 16,
+    "page_views_with_ads" : 15,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11908359"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 7505,
+    "page_views_with_ads" : 7478,
+    "revenue" : 0.63,
+    "revenue_dict" : {
+        "EUR" : 0.515624,
+        "USD" : 0.63
+    },
+    "clicks" : 43,
+    "placement_id" : "11553681"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 852,
+    "page_views_with_ads" : 849,
+    "revenue" : 0.17,
+    "revenue_dict" : {
+        "EUR" : 0.139137,
+        "USD" : 0.17
+    },
+    "clicks" : 4,
+    "placement_id" : "11585762"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 5781,
+    "page_views_with_ads" : 5704,
+    "revenue" : 0.32,
+    "revenue_dict" : {
+        "EUR" : 0.261904,
+        "USD" : 0.32
+    },
+    "clicks" : 18,
+    "placement_id" : "9965320"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 38254,
+    "page_views_with_ads" : 31800,
+    "revenue" : 20.22,
+    "revenue_dict" : {
+        "EUR" : 16.549059,
+        "USD" : 20.22
+    },
+    "clicks" : 415,
+    "placement_id" : "12265379"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 909,
+    "page_views_with_ads" : 847,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    },
+    "clicks" : 4,
+    "placement_id" : "11308540"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2,
+    "page_views_with_ads" : 2,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11936743"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2326,
+    "page_views_with_ads" : 1584,
+    "revenue" : 0.58,
+    "revenue_dict" : {
+        "EUR" : 0.474701,
+        "USD" : 0.58
+    },
+    "clicks" : 11,
+    "placement_id" : "10994537"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 5601,
+    "page_views_with_ads" : 5221,
+    "revenue" : 1.51,
+    "revenue_dict" : {
+        "EUR" : 1.23586,
+        "USD" : 1.51
+    },
+    "clicks" : 73,
+    "placement_id" : "12513669"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 46186,
+    "page_views_with_ads" : 42521,
+    "revenue" : 1.01,
+    "revenue_dict" : {
+        "EUR" : 0.826635,
+        "USD" : 1.01
+    },
+    "clicks" : 30,
+    "placement_id" : "10011450"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 36891,
+    "page_views_with_ads" : 34407,
+    "revenue" : 0.31,
+    "revenue_dict" : {
+        "EUR" : 0.253719,
+        "USD" : 0.31
+    },
+    "clicks" : 7,
+    "placement_id" : "10011454"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
     "page_views" : 79248,
     "page_views_with_ads" : 73403,
     "revenue" : 17.73,
@@ -3955,6 +3548,941 @@
         "USD" : 17.73
     },
     "clicks" : 363,
-    "placement_id" : 10942061
+    "placement_id" : "10942061"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 452378,
+    "page_views_with_ads" : 407837,
+    "revenue" : 26.04,
+    "revenue_dict" : {
+        "EUR" : 21.312438,
+        "USD" : 26.04
+    },
+    "clicks" : 3237,
+    "placement_id" : "9965329"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 36736,
+    "page_views_with_ads" : 34404,
+    "revenue" : 10.48,
+    "revenue_dict" : {
+        "EUR" : 8.577356,
+        "USD" : 10.48
+    },
+    "clicks" : 832,
+    "placement_id" : "12074439"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 72733,
+    "page_views_with_ads" : 34561,
+    "revenue" : 2.06,
+    "revenue_dict" : {
+        "EUR" : 1.686007,
+        "USD" : 2.06
+    },
+    "clicks" : 131,
+    "placement_id" : "11168945"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 21371,
+    "page_views_with_ads" : 16540,
+    "revenue" : 1.73,
+    "revenue_dict" : {
+        "EUR" : 1.415919,
+        "USD" : 1.73
+    },
+    "clicks" : 68,
+    "placement_id" : "11168878"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 84493,
+    "page_views_with_ads" : 37509,
+    "revenue" : 6.17,
+    "revenue_dict" : {
+        "EUR" : 5.049836,
+        "USD" : 6.17
+    },
+    "clicks" : 192,
+    "placement_id" : "12485587"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 1,
+    "page_views_with_ads" : 1,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12176692"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9,
+    "page_views_with_ads" : 9,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11570416"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 11517,
+    "page_views_with_ads" : 10950,
+    "revenue" : 0.05,
+    "revenue_dict" : {
+        "EUR" : 0.040923,
+        "USD" : 0.05
+    },
+    "clicks" : 1,
+    "placement_id" : "3962860"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 119,
+    "page_views_with_ads" : 111,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "3962865"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 133,
+    "page_views_with_ads" : 128,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "3962867"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 22850,
+    "page_views_with_ads" : 15852,
+    "revenue" : 1.81,
+    "revenue_dict" : {
+        "EUR" : 1.481395,
+        "USD" : 1.81
+    },
+    "clicks" : 171,
+    "placement_id" : "9965338"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 341,
+    "page_views_with_ads" : 321,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    },
+    "clicks" : 1,
+    "placement_id" : "11298147"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 340160,
+    "page_views_with_ads" : 339751,
+    "revenue" : 51.16,
+    "revenue_dict" : {
+        "EUR" : 41.871902,
+        "USD" : 51.16
+    },
+    "clicks" : 2815,
+    "placement_id" : "11599108"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 866,
+    "page_views_with_ads" : 843,
+    "revenue" : 0.09,
+    "revenue_dict" : {
+        "EUR" : 0.073661,
+        "USD" : 0.09
+    },
+    "clicks" : 1,
+    "placement_id" : "4207409"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 421,
+    "page_views_with_ads" : 416,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "4207423"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 47438,
+    "page_views_with_ads" : 47100,
+    "revenue" : 5.99,
+    "revenue_dict" : {
+        "EUR" : 4.902515,
+        "USD" : 5.99
+    },
+    "clicks" : 386,
+    "placement_id" : "10177995"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 1088540,
+    "page_views_with_ads" : 973495,
+    "revenue" : 97.74,
+    "revenue_dict" : {
+        "EUR" : 79.995303,
+        "USD" : 97.74
+    },
+    "clicks" : 5519,
+    "placement_id" : "10177995"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 440578,
+    "page_views_with_ads" : 438142,
+    "revenue" : 15.09,
+    "revenue_dict" : {
+        "EUR" : 12.350411,
+        "USD" : 15.09
+    },
+    "clicks" : 550,
+    "placement_id" : "10740540"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 141543,
+    "page_views_with_ads" : 126832,
+    "revenue" : 26.12,
+    "revenue_dict" : {
+        "EUR" : 21.377914,
+        "USD" : 26.12
+    },
+    "clicks" : 2148,
+    "placement_id" : "10129248"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 36282,
+    "page_views_with_ads" : 30918,
+    "revenue" : 4.25,
+    "revenue_dict" : {
+        "EUR" : 3.478413,
+        "USD" : 4.25
+    },
+    "clicks" : 204,
+    "placement_id" : "11048617"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 29429,
+    "page_views_with_ads" : 29350,
+    "revenue" : 13.91,
+    "revenue_dict" : {
+        "EUR" : 11.38464,
+        "USD" : 13.91
+    },
+    "clicks" : 205,
+    "placement_id" : "11998202"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3761,
+    "page_views_with_ads" : 3345,
+    "revenue" : 4.17,
+    "revenue_dict" : {
+        "EUR" : 3.412936,
+        "USD" : 4.17
+    },
+    "clicks" : 66,
+    "placement_id" : "11450618"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 30725,
+    "page_views_with_ads" : 30377,
+    "revenue" : 7.91,
+    "revenue_dict" : {
+        "EUR" : 6.47394,
+        "USD" : 7.91
+    },
+    "clicks" : 355,
+    "placement_id" : "11225898"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 12116,
+    "page_views_with_ads" : 11549,
+    "revenue" : 2.75,
+    "revenue_dict" : {
+        "EUR" : 2.250738,
+        "USD" : 2.75
+    },
+    "clicks" : 187,
+    "placement_id" : "12116613"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 4313,
+    "page_views_with_ads" : 3860,
+    "revenue" : 0.18,
+    "revenue_dict" : {
+        "EUR" : 0.147321,
+        "USD" : 0.18
+    },
+    "clicks" : 9,
+    "placement_id" : "11062518"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 548422,
+    "page_views_with_ads" : 545086,
+    "revenue" : 8.74,
+    "revenue_dict" : {
+        "EUR" : 7.153253,
+        "USD" : 8.74
+    },
+    "clicks" : 285,
+    "placement_id" : "11945885"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 1494,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12714957"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 1,
+    "page_views_with_ads" : 1,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11062496"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 524,
+    "page_views_with_ads" : 511,
+    "revenue" : 0.03,
+    "revenue_dict" : {
+        "EUR" : 0.024553,
+        "USD" : 0.03
+    },
+    "clicks" : 2,
+    "placement_id" : "12314557"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 534,
+    "page_views_with_ads" : 481,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    },
+    "clicks" : 0,
+    "placement_id" : "10716064"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 28932,
+    "page_views_with_ads" : 28644,
+    "revenue" : 7.62,
+    "revenue_dict" : {
+        "EUR" : 6.236589,
+        "USD" : 7.62
+    },
+    "clicks" : 486,
+    "placement_id" : "11049221"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 12397,
+    "page_views_with_ads" : 12397,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12313812"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9,
+    "page_views_with_ads" : 9,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    },
+    "clicks" : 1,
+    "placement_id" : "11570380"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 3273,
+    "page_views_with_ads" : 3092,
+    "revenue" : 0.29,
+    "revenue_dict" : {
+        "EUR" : 0.23735,
+        "USD" : 0.29
+    },
+    "clicks" : 9,
+    "placement_id" : "10741201"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 771,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12706512"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 42038,
+    "page_views_with_ads" : 41887,
+    "revenue" : 2.03,
+    "revenue_dict" : {
+        "EUR" : 1.661453,
+        "USD" : 2.03
+    },
+    "clicks" : 112,
+    "placement_id" : "12378325"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 26,
+    "page_views_with_ads" : 25,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11904359"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 9140,
+    "page_views_with_ads" : 9064,
+    "revenue" : 0.81,
+    "revenue_dict" : {
+        "EUR" : 0.662945,
+        "USD" : 0.81
+    },
+    "clicks" : 32,
+    "placement_id" : "11585832"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 19,
+    "page_views_with_ads" : 18,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11904350"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 11378,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12609337"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 14010,
+    "page_views_with_ads" : 13921,
+    "revenue" : 18.24,
+    "revenue_dict" : {
+        "EUR" : 14.928528,
+        "USD" : 18.24
+    },
+    "clicks" : 532,
+    "placement_id" : "11326674"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 40812,
+    "page_views_with_ads" : 37932,
+    "revenue" : 2.59,
+    "revenue_dict" : {
+        "EUR" : 2.119785,
+        "USD" : 2.59
+    },
+    "clicks" : 228,
+    "placement_id" : "9965303"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 2318,
+    "page_views_with_ads" : 2280,
+    "revenue" : 0.75,
+    "revenue_dict" : {
+        "EUR" : 0.613838,
+        "USD" : 0.75
+    },
+    "clicks" : 13,
+    "placement_id" : "11904363"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 423,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12706526"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 105,
+    "page_views_with_ads" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "11974366"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 187312,
+    "page_views_with_ads" : 186746,
+    "revenue" : 11.7,
+    "revenue_dict" : {
+        "EUR" : 9.575865,
+        "USD" : 11.7
+    },
+    "clicks" : 337,
+    "placement_id" : "12166855"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 28712,
+    "page_views_with_ads" : 28547,
+    "revenue" : 20.33,
+    "revenue_dict" : {
+        "EUR" : 16.639088,
+        "USD" : 20.33
+    },
+    "clicks" : 880,
+    "placement_id" : "12337314"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 7877,
+    "page_views_with_ads" : 7818,
+    "revenue" : 0.01,
+    "revenue_dict" : {
+        "EUR" : 0.008185,
+        "USD" : 0.01
+    },
+    "clicks" : 0,
+    "placement_id" : "12210120"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 11826,
+    "page_views_with_ads" : 11751,
+    "revenue" : 0.17,
+    "revenue_dict" : {
+        "EUR" : 0.139137,
+        "USD" : 0.17
+    },
+    "clicks" : 5,
+    "placement_id" : "12210121"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 7812,
+    "page_views_with_ads" : 7759,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.016369,
+        "USD" : 0.02
+    },
+    "clicks" : 0,
+    "placement_id" : "12210123"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 6191,
+    "page_views_with_ads" : 6159,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0,
+    "placement_id" : "12210132"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 71361,
+    "page_views_with_ads" : 70896,
+    "revenue" : 11.56,
+    "revenue_dict" : {
+        "EUR" : 9.461282,
+        "USD" : 11.56
+    },
+    "clicks" : 1062,
+    "placement_id" : "11626081"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 132839,
+    "page_views_with_ads" : 132348,
+    "revenue" : 37.72,
+    "revenue_dict" : {
+        "EUR" : 30.871934,
+        "USD" : 37.72
+    },
+    "clicks" : 1229,
+    "placement_id" : "10770840"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 6562,
+    "page_views_with_ads" : 6269,
+    "revenue" : 0.47,
+    "revenue_dict" : {
+        "EUR" : 0.384671,
+        "USD" : 0.47
+    },
+    "clicks" : 31,
+    "placement_id" : "11908495"
+}
+
+,
+{
+    
+    "platform" : "taboola",
+    "date" : "2018-01-20",
+    
+    "page_views" : 42811,
+    "page_views_with_ads" : 42639,
+    "revenue" : 1.55,
+    "revenue_dict" : {
+        "EUR" : 1.268598,
+        "USD" : 1.55
+    },
+    "clicks" : 37,
+    "placement_id" : "10740643"
 }
 ]

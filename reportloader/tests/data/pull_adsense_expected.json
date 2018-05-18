@@ -1,56 +1,10 @@
 [
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
-    "placement_id" : 0,
-    "size" : "300x250",
-    "total_impressions" : 1,
-    "resold_impressions" : 1,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 11142959,
-    "size" : "120x600",
-    "total_impressions" : 1,
-    "resold_impressions" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 12351524,
-    "size" : "970x250",
-    "total_impressions" : 938,
-    "resold_impressions" : 730,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 10011495,
+    "placement_id" : "10011495",
+    
     "size" : "970x250",
     "total_impressions" : 1,
     "resold_impressions" : 0,
@@ -64,169 +18,11 @@
 
 ,
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
-    "placement_id" : 0,
-    "size" : "300x250",
-    "total_impressions" : 2,
-    "resold_impressions" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 12531401,
-    "size" : "300x250",
-    "total_impressions" : 181,
-    "resold_impressions" : 173,
-    "revenue" : 0.02,
-    "revenue_dict" : {
-        "EUR" : 0.02,
-        "USD" : 0.024436
-    },
-    "clicks" : 1
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 12531388,
-    "size" : "728x90",
-    "total_impressions" : 176,
-    "resold_impressions" : 174,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 0,
-    "size" : "300x250",
-    "total_impressions" : 1,
-    "resold_impressions" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 10471779,
-    "size" : "300x250",
-    "total_impressions" : 3540,
-    "resold_impressions" : 789,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 0,
-    "size" : "728x90",
-    "total_impressions" : 1,
-    "resold_impressions" : 0,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 12531409,
-    "size" : "300x250",
-    "total_impressions" : 4343,
-    "resold_impressions" : 2335,
-    "revenue" : 0.21,
-    "revenue_dict" : {
-        "EUR" : 0.21,
-        "USD" : 0.256583
-    },
-    "clicks" : 2
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 12531398,
-    "size" : "300x250",
-    "total_impressions" : 181,
-    "resold_impressions" : 170,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 10715382,
-    "size" : "728x90",
-    "total_impressions" : 148,
-    "resold_impressions" : 73,
-    "revenue" : 0.0,
-    "revenue_dict" : {
-        "EUR" : 0.0,
-        "USD" : 0.0
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 12531406,
-    "size" : "300x250",
-    "total_impressions" : 4463,
-    "resold_impressions" : 2469,
-    "revenue" : 0.07,
-    "revenue_dict" : {
-        "EUR" : 0.07,
-        "USD" : 0.085528
-    },
-    "clicks" : 0
-}
-
-,
-{
-    "platform" : "adsense",
-    "date" : "2018-01-20",
-    "placement_id" : 10129071,
+    "placement_id" : "10129071",
+    
     "size" : "320x50",
     "total_impressions" : 219881,
     "resold_impressions" : 15,
@@ -240,9 +36,83 @@
 
 ,
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
-    "placement_id" : 12484008,
+    "placement_id" : "10471779",
+    
+    "size" : "300x250",
+    "total_impressions" : 3540,
+    "resold_impressions" : 789,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "10715382",
+    
+    "size" : "728x90",
+    "total_impressions" : 148,
+    "resold_impressions" : 73,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "11142959",
+    
+    "size" : "120x600",
+    "total_impressions" : 1,
+    "resold_impressions" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "12351524",
+    
+    "size" : "970x250",
+    "total_impressions" : 938,
+    "resold_impressions" : 730,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "12484008",
+    
     "size" : "970x90",
     "total_impressions" : 2630,
     "resold_impressions" : 2316,
@@ -256,9 +126,29 @@
 
 ,
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
-    "placement_id" : 12531396,
+    "placement_id" : "12531388",
+    
+    "size" : "728x90",
+    "total_impressions" : 176,
+    "resold_impressions" : 174,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "12531396",
+    
     "size" : "728x90",
     "total_impressions" : 174,
     "resold_impressions" : 153,
@@ -272,25 +162,29 @@
 
 ,
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
-    "placement_id" : 12531402,
+    "placement_id" : "12531398",
+    
     "size" : "300x250",
-    "total_impressions" : 4567,
-    "resold_impressions" : 2663,
-    "revenue" : 0.05,
+    "total_impressions" : 181,
+    "resold_impressions" : 170,
+    "revenue" : 0.0,
     "revenue_dict" : {
-        "EUR" : 0.05,
-        "USD" : 0.061091
+        "EUR" : 0.0,
+        "USD" : 0.0
     },
-    "clicks" : 1
+    "clicks" : 0
 }
 
 ,
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
-    "placement_id" : 12531399,
+    "placement_id" : "12531399",
+    
     "size" : "300x250",
     "total_impressions" : 183,
     "resold_impressions" : 174,
@@ -304,9 +198,83 @@
 
 ,
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
-    "placement_id" : 12531411,
+    "placement_id" : "12531401",
+    
+    "size" : "300x250",
+    "total_impressions" : 181,
+    "resold_impressions" : 173,
+    "revenue" : 0.02,
+    "revenue_dict" : {
+        "EUR" : 0.02,
+        "USD" : 0.024436
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "12531402",
+    
+    "size" : "300x250",
+    "total_impressions" : 4567,
+    "resold_impressions" : 2663,
+    "revenue" : 0.05,
+    "revenue_dict" : {
+        "EUR" : 0.05,
+        "USD" : 0.061091
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "12531406",
+    
+    "size" : "300x250",
+    "total_impressions" : 4463,
+    "resold_impressions" : 2469,
+    "revenue" : 0.07,
+    "revenue_dict" : {
+        "EUR" : 0.07,
+        "USD" : 0.085528
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "12531409",
+    
+    "size" : "300x250",
+    "total_impressions" : 4343,
+    "resold_impressions" : 2335,
+    "revenue" : 0.21,
+    "revenue_dict" : {
+        "EUR" : 0.21,
+        "USD" : 0.256583
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : "12531411",
+    
     "size" : "728x90",
     "total_impressions" : 4639,
     "resold_impressions" : 4122,
@@ -320,11 +288,85 @@
 
 ,
 {
+    
     "platform" : "adsense",
     "date" : "2018-01-20",
     "placement_id" : 0,
+    
     "size" : "300x250",
     "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : 0,
+    
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : 0,
+    
+    "size" : "728x90",
+    "total_impressions" : 1,
+    "resold_impressions" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : 0,
+    
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 0,
+    "revenue" : 0.0,
+    "revenue_dict" : {
+        "EUR" : 0.0,
+        "USD" : 0.0
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "adsense",
+    "date" : "2018-01-20",
+    "placement_id" : 0,
+    
+    "size" : "300x250",
+    "total_impressions" : 2,
     "resold_impressions" : 0,
     "revenue" : 0.0,
     "revenue_dict" : {

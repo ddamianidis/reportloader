@@ -100,7 +100,7 @@ class AbstractPuller():
         else:
             m_id = ID_RX.match(placement_name)
         if m_id is not None:
-            return  int(m_id.group(1))
+            return  str(m_id.group(1))
         else:
             return  int(0)
         

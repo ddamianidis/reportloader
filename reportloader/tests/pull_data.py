@@ -169,8 +169,8 @@ class PullDataTestCase(TestCase):
     @classmethod
     def getSuiteOfValidTests(cls):
         suite = unittest.TestSuite()
-        suite.addTest(cls('test_1_pull_data_update'))
-        suite.addTest(cls('test_2_pull_data_insert'))
+        suite.addTest(cls('test_1_pull_data_insert'))
+        suite.addTest(cls('test_2_pull_data_update'))
         suite.addTest(cls('test_3_pull_data_update_revenue'))
         suite.addTest(cls('test_4_pull_data_update_multiple_fields'))
         suite.addTest(cls('test_5_pull_data_insert_different_dates'))
@@ -334,28 +334,7 @@ class PullDataTestCase(TestCase):
         pass
             
     #@unittest.skip('just skip')   
-    def test_1_pull_data_update(self):
-        if self.platform == 'teads':
-            time.sleep(5)
-        # get expected data 
-        # set env variable for mongo host
-        #os.environ['MONGO_HOST'] = 'localhost'
-        
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
-                                
-        #ret_data = ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()
-        
-        #self.assertEqual(ret_data, True, 
-        #                                            'correct pull process')
-        # read the data from the database and compare them with 
-        # expected data
-        self.assertCountEqual(self.dbdata, self.expected_data, 'correct pulled data')
-    
-    #@unittest.skip('just skip')   
-    def test_2_pull_data_insert(self):
+    def test_1_pull_data_insert(self):
         # for teads platform wait before the next request
         if self.platform in ('teads'):
             time.sleep(5)
@@ -379,6 +358,27 @@ class PullDataTestCase(TestCase):
         #print(len(self.expected_data))
         self.assertCountEqual(self.dbdata, self.expected_data,
                          'correct pulled data')
+                
+    #@unittest.skip('just skip')   
+    def test_2_pull_data_update(self):
+        if self.platform == 'teads':
+            time.sleep(5)
+        # get expected data 
+        # set env variable for mongo host
+        #os.environ['MONGO_HOST'] = 'localhost'
+        
+        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
+                                platform=self.platform, startdate = self.dates[0],
+                                enddate=self.dates[1]
+                                )
+                                
+        #ret_data = ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()
+        
+        #self.assertEqual(ret_data, True, 
+        #                                            'correct pull process')
+        # read the data from the database and compare them with 
+        # expected data
+        self.assertCountEqual(self.dbdata, self.expected_data, 'correct pulled data')
         
     #@unittest.skip('just skip')   
     def test_3_pull_data_update_revenue(self):
