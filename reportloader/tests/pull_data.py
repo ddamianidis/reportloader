@@ -328,7 +328,7 @@ class PullDataTestCase(TestCase):
         
     def setUp(self):
         pass
-        #self.maxDiff = None
+        self.maxDiff = None
         
     def tearDown(self):
         pass
