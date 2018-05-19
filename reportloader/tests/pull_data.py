@@ -373,7 +373,7 @@ class PullDataTestCase(TestCase):
                                 )
                                 
         #ret_data = ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()
-        
+        self.dbdata = self.getDbData()
         #self.assertEqual(ret_data, True, 
         #                                            'correct pull process')
         # read the data from the database and compare them with 
