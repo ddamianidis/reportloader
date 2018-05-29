@@ -228,8 +228,8 @@ class ReporterPusher(SSH_Client):
                     for pl_name, pl_id in platforms_ids.items():
                         self.do_cmd(self.mysql_prefix + r'-e"DELETE from %s WHERE buyer_member_id=%s AND brand_id=17 AND date=\"%s 00:00:00\" " ' % (self.reports_table, pl_id, self.date,))
                 else:
-                    if platform in platforms_ids:
-                        self.do_cmd(self.mysql_prefix + r'-e"DELETE from %s WHERE buyer_member_id=%s AND brand_id=17 AND date=\"%s 00:00:00\" " ' % (self.reports_table, platforms_ids[platform], self.date,))
+                    if self.platform in platforms_ids:
+                        self.do_cmd(self.mysql_prefix + r'-e"DELETE from %s WHERE buyer_member_id=%s AND brand_id=17 AND date=\"%s 00:00:00\" " ' % (self.reports_table, platforms_ids[self.platform], self.date,))
                 self.do_cmd(self.mysql_prefix + '< insert.sql')
                 #self.do_cmd('/usr/bin/php /var/www/agora/public_html/sync/make_home_mv.php')
             except GracefulError:
