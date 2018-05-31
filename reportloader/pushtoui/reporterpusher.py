@@ -256,6 +256,7 @@ class ReporterPusher(SSH_Client):
         results = {
             'found': self.row_len,
             'inserted': self.inserted_values_to_ui,
+            'inserted_eurohoops': self.insert_values_eurohoops,
             'rejected_id': self.id_reject_count,
             'rejected_size': self.size_reject_count,
             'rejected_inventory': self.inventory_reject_count,
