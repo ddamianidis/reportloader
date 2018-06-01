@@ -19,6 +19,7 @@ class ReporterPuller():
         self.platform = platform
         self.reports = MongoConnector('reports').collection
         self.stream_logger = StreamLogger.getLogger(__name__)
+        self.reporter_client = ReporterClient(self.platform)
                 
     def date_to_mongoid(self, date, daytime=(12,0,0)):
         hours, mins, secs = daytime
@@ -26,14 +27,24 @@ class ReporterPuller():
         mongo_id = ObjectId.generate_from_datetime(datetimeobj)
         return mongo_id     
     
-    def pull_data(self):   
+    def pull_data(self):
         
+        '''
+        def jdefault(o):
+            return o.__dict__   
+        '''
         if PullModeKeeper.isMuted(self.platform):
             return False
+            
+        db_insert_entries = self.reporter_client.read(self.startdate, self.enddate)
         
-        reporter_client = ReporterClient(self.platform)    
-        db_insert_entries = reporter_client.read(self.startdate, self.enddate)
-        
+        # just to produce the data to mock the above function
+        '''
+        l = {str(k):v for k,v in db_insert_entries.items()}
+        print(json.dumps(l, default=jdefault))
+        #print(db_insert_entries)
+        exit()
+        '''
         # if db_insert_entries is empty means
         # an error occured 
         if not db_insert_entries:
@@ -75,12 +86,12 @@ class ReporterPuller():
                                                            .strptime(entry['date'], 
                                                                      '%Y-%m-%d'))
                 new_entries_count += 1
-                entries_to_insert.append(entry.dict())
+                entries_to_insert.append(entry if type(entry) is dict else entry.dict())
             else:
                 del db_entries[key]['_id']
                 #print('from platform:{0}, from db:{1}'.format(type(entry), type(db_entries[key])))
-                
-                if db_entries[key] == entry.dict():
+                match_dict = entry if type(entry) is dict else entry.dict()
+                if db_entries[key] == match_dict:
                     #self.stream_logger.info('For identical db entry:{0}'.format(entry.dict()))
                     identical_entries_count += 1
                 else:
@@ -91,7 +102,8 @@ class ReporterPuller():
                                       'placement_name':key[0],
                                       'date':key[1]
                                      }
-                    bulk_update_requests.append(ReplaceOne(replace_filter, entry.dict()))
+                    bulk_update_requests.append(ReplaceOne(replace_filter, 
+                                                           entry if type(entry) is dict else entry.dict()))
                     #reports_col.replace_one(replace_filter, entry)
                 del db_entries[key]
         

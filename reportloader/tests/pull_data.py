@@ -144,6 +144,8 @@ class PullDataTestCase(TestCase):
     
     request_body = ''
     expected_data = []
+    dict_expected_data = {}
+    dict_nd_expected_data = {}
     dbdata = []
     command = 'pull_appnexus'
     reports = MongoConnector('reports').collection
@@ -164,6 +166,8 @@ class PullDataTestCase(TestCase):
         cls.platform = cls.getPlatform(command)
         cls.dates = cls.getDates(command)
         cls.expected_data = cls.getExpected(command)
+        cls.dict_expected_data = cls.getDictExpected(command)
+        cls.dict_nd_expected_data = cls.getDictExpected(command, next_day=True)
         cls.dbdata = cls.getDbData()  
     
     @classmethod
@@ -361,18 +365,16 @@ class PullDataTestCase(TestCase):
                 
     #@unittest.skip('just skip')   
     def test_2_pull_data_update(self):
-        if self.platform == 'teads':
-            time.sleep(5)
+        #if self.platform == 'teads':
+        #    time.sleep(5)
         # get expected data 
         # set env variable for mongo host
         #os.environ['MONGO_HOST'] = 'localhost'
+        puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
         
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
-                                
-        #ret_data = ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)                            
+        ret_data = puller.pull_data()
         self.dbdata = self.getDbData()
         #self.assertEqual(ret_data, True, 
         #                                            'correct pull process')
@@ -394,11 +396,13 @@ class PullDataTestCase(TestCase):
         self.insertDepricatedDbData()
         # set env variable for mongo host
         #os.environ['MONGO_HOST'] = '127.0.0.1'
-        #os.environ['MONGO_HOST'] = 'mongodb'
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
+        #os.environ['MONGO_HOST'] = 'mongodb'                        
+        puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
+        
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)                            
+        ret_data = puller.pull_data()
+
         #print(ret_data)
         expected_results = self.expected_results[self.command]
         #self.assertEqual(ret_data, expected_results, 'results are correct')
@@ -412,7 +416,7 @@ class PullDataTestCase(TestCase):
         # for teads platform wait before the next request
         if self.platform in ('teads'):
             time.sleep(5)
-        #self.maxDiff = None
+        self.maxDiff = None
         # delete data from database
         self.updateSelectedDbDataMultipleFields()
         self.removeSelectedDbData()
@@ -420,11 +424,12 @@ class PullDataTestCase(TestCase):
         self.insertDepricatedDbData()
         # set env variable for mongo host
         #os.environ['MONGO_HOST'] = '127.0.0.1'
-        #os.environ['MONGO_HOST'] = 'mongodb'
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
+        #os.environ['MONGO_HOST'] = 'mongodb' 
+        puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
+        
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)                            
+        ret_data = puller.pull_data()                       
         #print(ret_data)
         expected_results = self.expected_results[self.command]
         #self.assertEqual(ret_data, expected_results, 'results are correct')
@@ -445,25 +450,27 @@ class PullDataTestCase(TestCase):
         #os.environ['MONGO_HOST'] = '127.0.0.1'
         #os.environ['MONGO_HOST'] = 'mongodb'
         
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
+        # pull data for 2018-01-20
+        puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
         
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[2],
-                                enddate=self.dates[3]
-                                )
-                                
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
-                                
-        #ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()
-        #ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()
-                                        
-        #ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()                        
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)                            
+        ret_data = puller.pull_data()
+        
+        # pull data for next day        
+        puller = ReporterPuller(self.platform, self.dates[2], self.dates[3])
+        
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_nd_expected_data)                            
+        ret_data = puller.pull_data()
+        
+        # pull data for 2018-01-20                                        
+        puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
+        
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)                            
+        ret_data = puller.pull_data()
+        
         #self.assertEqual(ret_data, True, 'correct pull process')
         self.dbdata = self.getDbData()
         #print(len(self.dbdata))
@@ -500,19 +507,23 @@ class PullDataTestCase(TestCase):
         JsonRPCClient("tcp://localhost:5552").rpc_call('pull_mode_normal',
                                                                   platform=self.platform)    
         
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
-        self.assertNotEqual(ret_data['result'], False, 'correct pulled data')
+        puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
+        
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)                            
+        ret_data = puller.pull_data()
+                                
+        self.assertNotEqual(ret_data, False, 'correct pulled data')
+        
         
         JsonRPCClient("tcp://localhost:5552").rpc_call('pull_mode_normal',
                                                                   platform=self.platform)    
         
-        ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
-                                platform=self.platform, startdate = self.dates[0],
-                                enddate=self.dates[1]
-                                )
+        puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
+        
+        puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)                            
+        ret_data = puller.pull_data()
         
         self.assertNotEqual(ret_data, False, 'correct pulled data')    
         

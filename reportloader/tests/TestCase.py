@@ -1,6 +1,10 @@
 import unittest
 import json
+import sys
 import os
+import pickle
+from ast import literal_eval
+
 
 class TestCase(unittest.TestCase):
     
@@ -21,6 +25,20 @@ class TestCase(unittest.TestCase):
             res = content
         return  res
     
+    @classmethod
+    def getDictExpected(cls, command, next_day=False, format_type='json'):
+        
+        next_day_str = 'nd_' if next_day else ''
+        content = cls.readFixture('{0}_dict_{1}expected'.format(command, next_day_str))
+        if format_type == 'json':
+            res = json.loads(content)
+        else:
+            res = content
+            
+        res = {literal_eval(k):v for k,v in res.items()}
+        
+        return  res
+        
     @classmethod
     def getDates(cls, command):
         
