@@ -85,7 +85,7 @@ class DataPusherTestCase(unittest.TestCase):
                                             date = '2018-01-20', mode='test')
         print(ret_data['result'])
         
-         # order messages in both dicts
+        # order messages in both dicts
         if 'messages' in expected:
              expected['messages'] = sorted(expected['messages'])
         
@@ -119,7 +119,15 @@ class DataPusherTestCase(unittest.TestCase):
         #rs = self.reporter_client.push_to_ui('2018-01-20', 'test')
         ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('push_data', platform='adsense',
                                             date = '2018-01-20', mode='test')
+        # order messages in both dicts
+        if 'messages' in expected:
+             expected['messages'] = sorted(expected['messages'])
+        
+        if 'messages' in ret_data['result']:
+             ret_data['result']['messages'] = sorted(ret_data['result']['messages'])
+             
         print(ret_data['result'])
+        
         
         self.assertDictEqual(ret_data['result'], expected,  'Push to UI is correct')
         #self.assertNotEqual(ret_data['result'], False,  'Push to UI is correct')    
