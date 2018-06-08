@@ -5,6 +5,7 @@ import datetime
 import copy
 import sys
 import json
+import twpamonitorclient
 from reportloader.reporterclient import ReporterClient
 from reportloader.utils.mongoidtools import ObjectId
 from reportloader.database.mongo import MongoConnector
@@ -27,7 +28,8 @@ class ReporterPuller():
         mongo_id = ObjectId.generate_from_datetime(datetimeobj)
         return mongo_id     
     
-    def pull_data(self):
+    @twpamonitorclient.context('Pull Data From Platform', 'pull_data', {})
+    def pull_data(self, monitor):
         
         '''
         def jdefault(o):
@@ -35,8 +37,14 @@ class ReporterPuller():
         '''
         if PullModeKeeper.isMuted(self.platform):
             return False
-            
+        
+        monitor.log("Start pull from platform {0}".format(self.platform))
+        
+        
+        
         db_insert_entries = self.reporter_client.read(self.startdate, self.enddate)
+        
+        monitor.data({'data_pulled_len': len(db_insert_entries)})
         
         # just to produce the data to mock the above function
         '''
@@ -70,6 +78,8 @@ class ReporterPuller():
             db_entries[key] = doc
         #self.stream_logger.info('len of db entries:{0}'.format(len(db_entries)))    
         # Insert rows into database
+        monitor.data({'db_data_len': len(db_entries)})
+        
         entries_to_insert = []
         new_entries_count = 0
         updated_entries_count = 0
@@ -116,6 +126,11 @@ class ReporterPuller():
             print('BulkWriteError: {0}, {1}, {2}'.format(exc_type, 
                                                                    exc_value, 
                                                                    exc_traceback))
+            monitor.log('BulkWriteError: {0}, {1}, {2}'.format(exc_type, 
+                                                                   exc_value, 
+                                                                   exc_traceback), 
+                        MonitorClient.LOGSTATUS_ERROR)
+            
             return False#pprint(bwe.details)        
         # insert new entries
         if entries_to_insert:
@@ -135,5 +150,9 @@ class ReporterPuller():
         "identical_entries_count": identical_entries_count,
         "deleted_entries_count": deleted_entries_count
         }    
+        
+        monitor.data({'pull_results': results})
         #self.stream_logger.info('Results:{0}'.format(results))
+        monitor.log("End pull from platform {0}".format(self.platform))
+        
         return results

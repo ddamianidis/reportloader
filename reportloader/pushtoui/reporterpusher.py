@@ -6,6 +6,7 @@ import copy
 import sys
 import paramiko
 import re
+import twpamonitorclient
 from reportloader.utils.mongoidtools import ObjectId
 from reportloader.utils.sshclient import SSH_Client
 from reportloader.database.mongo import MongoConnector
@@ -192,10 +193,12 @@ class ReporterPusher(SSH_Client):
                 # Append the insert value statement
                 self.insert_values.append("\n('{date}', '{size}', '{imps}', '{clicks}', '{revenue}', '{revenue_usd}', '{revenue_est_net}', '{publisher_id}', '{site_id}', '{placement_id}', '{buyer_member_id}', '{brand_id}')".format(**insert_row))
     
-                
-    def push_dailies_to_ui(self):
+    @twpamonitorclient.context('Push Data To UI', 'push_data', {})            
+    def push_dailies_to_ui(self, monitor):
         self.stream_logger.info('Begin push_dailies_to_ui')
-            
+        
+        monitor.log("Start push for platform {0}".format(self.platform))
+        
         if self.platform is None:
             self.platform = 'all'
                                     
@@ -264,4 +267,6 @@ class ReporterPusher(SSH_Client):
             'rejected_revenue': self.revenue_reject_count,
             'messages':self.messages
         }
+        monitor.data({'push_statistics': results})
+        monitor.log("End push for platform {0}".format(self.platform))
         return results

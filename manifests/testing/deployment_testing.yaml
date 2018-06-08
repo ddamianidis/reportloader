@@ -28,7 +28,9 @@ spec:
         ports:
         - containerPort: 5552
         - containerPort: 5552
-#        env:
+        env:
+        - name: MONITOR_JRPC_SERVER_ADDR
+          value: 'MOCK'
 #        - name: WEB_HOST
 #          value: 'reporterapi-sandbox.projectagora.net'
       - name: mongodb

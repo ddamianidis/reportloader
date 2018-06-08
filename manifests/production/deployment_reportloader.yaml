@@ -20,4 +20,6 @@ spec:
         env:
         - name: MONGO_HOST
           value: 'mongodb://root:kcs21o81977NL@mongodb'
+        - name: MONITOR_JRPC_SERVER_ADDR
+          value: 'tcp://monitor.monitor-ns:5551'  
 # [END tw-lo-optimizer_deployment_testing]          
