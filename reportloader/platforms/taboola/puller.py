@@ -99,6 +99,11 @@ class TaboolaPuller(AbstractPuller, IPuller):
             }
             if db_insert_key in db_insert_entries:
                 duplicate_keys += 1
+                db_insert_entries[db_insert_key][Response.PAGE_VIEWS_WITH_ADS_FIELD] += db_insert_entry[Response.PAGE_VIEWS_WITH_ADS_FIELD]  
+                db_insert_entries[db_insert_key][Response.PAGE_VIEWS_FIELD] += db_insert_entry[Response.PAGE_VIEWS_FIELD]
+                db_insert_entries[db_insert_key][Response.REVENUE_FIELD] += db_insert_entry[Response.REVENUE_FIELD]
+                db_insert_entries[db_insert_key][Response.GROSS_REVENUE_FIELD] += db_insert_entry[Response.GROSS_REVENUE_FIELD]
+                db_insert_entries[db_insert_key][Response.CLICKS_FIELD] += db_insert_entry[Response.CLICKS_FIELD]
                 continue
             res_list.append(Response(db_insert_entry))
         return res_list    
