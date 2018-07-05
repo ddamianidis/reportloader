@@ -1,4 +1,6 @@
-FROM python:3
+ARG py_ver=3
+FROM python:$py_ver
+
 RUN apt-get -qq update && apt-get install psmisc
 RUN pip install -U pip setuptools
 RUN mkdir -p /usr/src/reporter-loader

@@ -5,6 +5,8 @@ node {
     sh "git rev-parse --short HEAD > commit-id"
     tag = readFile('commit-id').replace("\n", "").replace("\r", "")
     registryHost = "eu.gcr.io/${googlePrjectName}/${appName}/"
+    py_ver_stable="3.6.5"
+    
     def images = [:]
     ['reportloader', 'mongodb'].each {
     	images.put("${it}", "${registryHost}${it}")
@@ -12,6 +14,13 @@ node {
     
     stage ('Build') {
     	images.each { appname, imagename ->
+    	
+    		/* patch changes to replace manually the docker arg
+    		 docker version of jenkins builder image because it 
+    		 doesn't support the feature of defining args before from */
+    		sh "sed -i 's/ARG.*//g' ./dockerfiles/${appname}"
+    		sh "sed -i \"s/:.*py_ver/:${py_ver_stable}/g\" ./dockerfiles/${appname}"
+    		
     		/* Build image for the application */
         	sh "docker build -t ${imagename}:latest -f ./dockerfiles/${appname} ."
 		};

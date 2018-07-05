@@ -4,6 +4,8 @@ services:
 #    build:
 #      context: .
 #      dockerfile: dockerfiles/mysqltomongo
+#      args:
+#        py_ver: 3.6.5
 #    environment:
 #       - MONGO_HOST=mongodb       
 #    links:
@@ -18,21 +20,24 @@ services:
       - /var/lib/mysql:/var/lib/mysql
     environment:
       - MYSQL_ROOT_PASSWORD=DKdkSM*$$*12012009
-    networks:
-      - twmonitor_elk
+#    networks:
+#      - twmonitor_elk
   reportloader:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
     build:
       context: .
       dockerfile: dockerfiles/reportloader
+      args:
+        py_ver: 3.6.5
     environment:
       - MONGO_HOST=mongodb
-      - MONITOR_JRPC_SERVER_ADDR=tcp://monitor:5551
+      - MONITOR_JRPC_SERVER_ADDR=MOCK
+##      - MONITOR_JRPC_SERVER_ADDR=tcp://monitor:5551
 ##    volumes:
 ##      - ./reportloader:/usr/src/report-loader/reportloader     
     ports:
        - 5552:5552
-    networks:
-      - twmonitor_elk         
+#    networks:
+#      - twmonitor_elk         
     links:
       - "mongodb"
     depends_on:
@@ -50,10 +55,10 @@ services:
       - ./data/dump:/data/dump
     ports:
        - 27017:27017
-    networks:
-      - twmonitor_elk   
+#    networks:
+#      - twmonitor_elk   
     command: mongod --smallfiles --logpath=/dev/null # --quiet
     
-networks:
-  twmonitor_elk:
-    external: true    
+#networks:
+#  twmonitor_elk:
+#    external: true    
