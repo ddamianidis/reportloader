@@ -63,7 +63,9 @@ class TestCase(unittest.TestCase):
         elif command == 'pull_facebook':
             res = ('2016-12-05', '2016-12-05', '2016-12-06', '2016-12-06')#end limit open
         elif command == 'pull_rubicon':
-            res = ('2018-01-20', '2018-01-20', '2018-01-21', '2018-01-21')#end limit open     
+            res = ('2018-01-20', '2018-01-20', '2018-01-21', '2018-01-21')#end limit open
+        elif command == 'pull_pubmatic':
+            res = ('2018-05-20', '2018-05-20', '2018-05-21', '2018-05-21')#end limit closed       
         else:
             res = content
         return  res    
@@ -92,7 +94,9 @@ class TestCase(unittest.TestCase):
         elif command == 'pull_facebook':
             res = 'facebook'      
         elif command == 'pull_rubicon':
-            res = 'rubicon'                      
+            res = 'rubicon'
+        elif command == 'pull_pubmatic':
+            res = 'pubmatic'                          
         else:
             res = content
         return  res

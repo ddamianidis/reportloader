@@ -41,6 +41,7 @@ setup(
                          'tests/data/pull_taboola_expected.json',
                          'tests/data/pull_teads_expected.json',
                          'tests/data/pull_rubicon_expected.json',
+                         'tests/data/pull_pubmatic_expected.json',
                          
                          'tests/data/pull_adsense_dict_expected.json',
                          'tests/data/pull_adx_dict_expected.json',
@@ -53,6 +54,7 @@ setup(
                          'tests/data/pull_taboola_dict_expected.json',
                          'tests/data/pull_teads_dict_expected.json',
                          'tests/data/pull_rubicon_dict_expected.json',
+                         'tests/data/pull_pubmatic_dict_expected.json',
                          
                          'tests/data/pull_adsense_dict_nd_expected.json',
                          'tests/data/pull_adx_dict_nd_expected.json',
@@ -65,6 +67,7 @@ setup(
                          'tests/data/pull_taboola_dict_nd_expected.json',
                          'tests/data/pull_teads_dict_nd_expected.json',
                          'tests/data/pull_rubicon_dict_nd_expected.json',
+                         'tests/data/pull_pubmatic_dict_nd_expected.json',
                          
                          'platforms/google/data/adsense_credentials.dat',
                          'platforms/google/data/adx_credentials.json',

@@ -28,6 +28,7 @@ class PullModeKeeper():
          'smaato': 'normal',
          'facebook': 'normal',
          'rubicon': 'normal',
+         'pubmatic': 'normal',
     }
     
     @classmethod

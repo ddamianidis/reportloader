@@ -32,6 +32,7 @@ class PullDataTestCase(TestCase):
         'pull_smaato',
         'pull_facebook',
         'pull_rubicon',
+        'pull_pubmatic',
         ]
     
     expected_results = {
@@ -45,7 +46,8 @@ class PullDataTestCase(TestCase):
         'pull_smart':{'deleted_entries_count': 1, 'updated_entries_count': 2, 'new_entries_count': 2, 'identical_entries_count': 418},
         'pull_rubicon':{'deleted_entries_count': 1, 'updated_entries_count': 2, 'new_entries_count': 2, 'identical_entries_count': 2866},
         'pull_smaato': {'deleted_entries_count': 1, 'identical_entries_count': 168, 'updated_entries_count': 2, 'new_entries_count': 2},
-        'pull_facebook':{'new_entries_count': 2, 'identical_entries_count': 1, 'updated_entries_count': 2, 'deleted_entries_count': 0}
+        'pull_facebook':{'new_entries_count': 2, 'identical_entries_count': 1, 'updated_entries_count': 2, 'deleted_entries_count': 0},
+        'pull_pubmatic':{'new_entries_count': 2, 'identical_entries_count': 1, 'updated_entries_count': 2, 'deleted_entries_count': 0}
     }
     
     removed_placements = {
@@ -93,6 +95,10 @@ class PullDataTestCase(TestCase):
             '5600778_m.antena3.ro_allsite_300x250',
             '5665857_m.kanald.ro_allsite_300x250'
         ],
+        'pull_pubmatic':[
+            '10030247_skai.gr_ros-2_300x250',
+            '10129032_tpu.ro_ros_970x250'
+        ],
         }
     
     changed_placements = {
@@ -139,6 +145,10 @@ class PullDataTestCase(TestCase):
         'pull_facebook':[
             '3841343_m.alphatv.gr_mobile_300x250',
             '4068005_m.spynews.ro_allsite_300x250'
+        ],
+        'pull_pubmatic':[
+            '12112559_gustos.ro_ros_300x250',
+            '12112570_gustos.ro_ros_728x90'
         ],
         }
     
@@ -359,7 +369,7 @@ class PullDataTestCase(TestCase):
         #self.assertEqual(ret_data, True, 'correct pull process')
         self.dbdata = self.getDbData()
         #print(self.dbdata)
-        #print(len(self.expected_data))
+        #print(self.expected_data)
         self.assertCountEqual(self.dbdata, self.expected_data,
                          'correct pulled data')
                 
@@ -374,8 +384,11 @@ class PullDataTestCase(TestCase):
         
         puller.reporter_client.read = MagicMock(
                                             return_value=self.dict_expected_data)                            
+        
         ret_data = puller.pull_data()
+        #print(ret_data)
         self.dbdata = self.getDbData()
+        #print(self.dbdata)
         #self.assertEqual(ret_data, True, 
         #                                            'correct pull process')
         # read the data from the database and compare them with 

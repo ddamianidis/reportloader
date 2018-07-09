@@ -9,6 +9,7 @@ from reportloader.platforms.smart.puller import SmartPuller
 from reportloader.platforms.smaato.puller import SmaatoPuller
 from reportloader.platforms.facebook.puller import FacebookPuller
 from reportloader.platforms.rubicon.puller import RubiconPuller
+from reportloader.platforms.pubmatic.puller import PubmaticPuller
 
 class ReporterPuller(object):
     """  """
@@ -25,6 +26,7 @@ class ReporterPuller(object):
         'smaato': SmaatoPuller,
         'facebook': FacebookPuller,
         'rubicon': RubiconPuller,
+        'pubmatic': PubmaticPuller,
         }
     
     @classmethod        

@@ -15,5 +15,6 @@
         targetPort: 27017
         name: mongodb
     loadBalancerSourceRanges:
-    - 185.186.84.21/32    
+    - 185.186.84.21/32
+    - 149.202.218.42/32  
 # [END mongodb service]        
