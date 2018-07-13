@@ -1,0 +1,9340 @@
+[
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10024543",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 303,
+    "resold_impressions" : 303,
+    "revenue" : 1.164489,
+    "revenue_dict" : {
+        "EUR" : 1.164489,
+        "USD" : 1.422798
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10177542",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 429,
+    "resold_impressions" : 429,
+    "revenue" : 1.891918,
+    "revenue_dict" : {
+        "EUR" : 1.891918,
+        "USD" : 2.311587
+    },
+    "clicks" : 7
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10190401",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 957,
+    "resold_impressions" : 957,
+    "revenue" : 4.498179,
+    "revenue_dict" : {
+        "EUR" : 4.498179,
+        "USD" : 5.495973
+    },
+    "clicks" : 10
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10203830",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 37,
+    "resold_impressions" : 37,
+    "revenue" : 0.130444,
+    "revenue_dict" : {
+        "EUR" : 0.130444,
+        "USD" : 0.159379
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10266026",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2228,
+    "resold_impressions" : 2228,
+    "revenue" : 4.889101,
+    "revenue_dict" : {
+        "EUR" : 4.889101,
+        "USD" : 5.97361
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10342195",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 28,
+    "resold_impressions" : 28,
+    "revenue" : 0.026063,
+    "revenue_dict" : {
+        "EUR" : 0.026063,
+        "USD" : 0.031844
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10343014",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 34,
+    "resold_impressions" : 34,
+    "revenue" : 0.031559,
+    "revenue_dict" : {
+        "EUR" : 0.031559,
+        "USD" : 0.038559
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10343948",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.003481,
+    "revenue_dict" : {
+        "EUR" : 0.003481,
+        "USD" : 0.004253
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10343978",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 75,
+    "resold_impressions" : 75,
+    "revenue" : 0.078341,
+    "revenue_dict" : {
+        "EUR" : 0.078341,
+        "USD" : 0.095719
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10344077",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 110,
+    "resold_impressions" : 110,
+    "revenue" : 0.097508,
+    "revenue_dict" : {
+        "EUR" : 0.097508,
+        "USD" : 0.119137
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10344114",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 38,
+    "resold_impressions" : 38,
+    "revenue" : 0.031932,
+    "revenue_dict" : {
+        "EUR" : 0.031932,
+        "USD" : 0.039015
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10344171",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 57,
+    "resold_impressions" : 57,
+    "revenue" : 0.115623,
+    "revenue_dict" : {
+        "EUR" : 0.115623,
+        "USD" : 0.141271
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10344203",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 232,
+    "resold_impressions" : 232,
+    "revenue" : 0.1869,
+    "revenue_dict" : {
+        "EUR" : 0.1869,
+        "USD" : 0.228358
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10344229",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 42,
+    "resold_impressions" : 42,
+    "revenue" : 0.028784,
+    "revenue_dict" : {
+        "EUR" : 0.028784,
+        "USD" : 0.035169
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10344260",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 190,
+    "resold_impressions" : 190,
+    "revenue" : 0.169889,
+    "revenue_dict" : {
+        "EUR" : 0.169889,
+        "USD" : 0.207574
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10344446",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.017657,
+    "revenue_dict" : {
+        "EUR" : 0.017657,
+        "USD" : 0.021574
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10497287",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1170,
+    "resold_impressions" : 1170,
+    "revenue" : 5.737652,
+    "revenue_dict" : {
+        "EUR" : 5.737652,
+        "USD" : 7.010388
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554569",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 235,
+    "resold_impressions" : 235,
+    "revenue" : 0.546154,
+    "revenue_dict" : {
+        "EUR" : 0.546154,
+        "USD" : 0.667303
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554576",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 53,
+    "resold_impressions" : 53,
+    "revenue" : 0.076251,
+    "revenue_dict" : {
+        "EUR" : 0.076251,
+        "USD" : 0.093165
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554578",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 38,
+    "resold_impressions" : 38,
+    "revenue" : 0.053325,
+    "revenue_dict" : {
+        "EUR" : 0.053325,
+        "USD" : 0.065154
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554583",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.004268,
+    "revenue_dict" : {
+        "EUR" : 0.004268,
+        "USD" : 0.005215
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554585",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.005945,
+    "revenue_dict" : {
+        "EUR" : 0.005945,
+        "USD" : 0.007264
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554598",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 11,
+    "resold_impressions" : 11,
+    "revenue" : 0.01592,
+    "revenue_dict" : {
+        "EUR" : 0.01592,
+        "USD" : 0.019451
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554600",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 14,
+    "resold_impressions" : 14,
+    "revenue" : 0.020235,
+    "revenue_dict" : {
+        "EUR" : 0.020235,
+        "USD" : 0.024724
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10554631",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.00554,
+    "revenue_dict" : {
+        "EUR" : 0.00554,
+        "USD" : 0.006769
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10642498",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 42,
+    "resold_impressions" : 42,
+    "revenue" : 0.0732,
+    "revenue_dict" : {
+        "EUR" : 0.0732,
+        "USD" : 0.089437
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10642949",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 398,
+    "resold_impressions" : 398,
+    "revenue" : 0.693663,
+    "revenue_dict" : {
+        "EUR" : 0.693663,
+        "USD" : 0.847533
+    },
+    "clicks" : 6
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10643246",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 692,
+    "resold_impressions" : 692,
+    "revenue" : 1.206186,
+    "revenue_dict" : {
+        "EUR" : 1.206186,
+        "USD" : 1.473744
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10643267",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 472,
+    "resold_impressions" : 472,
+    "revenue" : 0.822594,
+    "revenue_dict" : {
+        "EUR" : 0.822594,
+        "USD" : 1.005063
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10643345",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 122,
+    "resold_impressions" : 122,
+    "revenue" : 0.212617,
+    "revenue_dict" : {
+        "EUR" : 0.212617,
+        "USD" : 0.25978
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10643368",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 773,
+    "resold_impressions" : 773,
+    "revenue" : 1.347334,
+    "revenue_dict" : {
+        "EUR" : 1.347334,
+        "USD" : 1.646202
+    },
+    "clicks" : 6
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10643415",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 69,
+    "resold_impressions" : 69,
+    "revenue" : 0.12027,
+    "revenue_dict" : {
+        "EUR" : 0.12027,
+        "USD" : 0.146949
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10643488",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 29,
+    "resold_impressions" : 29,
+    "revenue" : 0.050537,
+    "revenue_dict" : {
+        "EUR" : 0.050537,
+        "USD" : 0.061747
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10643619",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 189,
+    "resold_impressions" : 189,
+    "revenue" : 0.329424,
+    "revenue_dict" : {
+        "EUR" : 0.329424,
+        "USD" : 0.402497
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10857685",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2299,
+    "resold_impressions" : 2299,
+    "revenue" : 8.360991,
+    "revenue_dict" : {
+        "EUR" : 8.360991,
+        "USD" : 10.215641
+    },
+    "clicks" : 5
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "10895217",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 767,
+    "resold_impressions" : 767,
+    "revenue" : 1.683317,
+    "revenue_dict" : {
+        "EUR" : 1.683317,
+        "USD" : 2.056713
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11071829",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 17,
+    "resold_impressions" : 17,
+    "revenue" : 0.037423,
+    "revenue_dict" : {
+        "EUR" : 0.037423,
+        "USD" : 0.045724
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11095050",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 453,
+    "resold_impressions" : 453,
+    "revenue" : 0.783354,
+    "revenue_dict" : {
+        "EUR" : 0.783354,
+        "USD" : 0.957119
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11140976",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 147,
+    "resold_impressions" : 147,
+    "revenue" : 0.109844,
+    "revenue_dict" : {
+        "EUR" : 0.109844,
+        "USD" : 0.13421
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11181998",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.01048,
+    "revenue_dict" : {
+        "EUR" : 0.01048,
+        "USD" : 0.012805
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11182011",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.013843,
+    "revenue_dict" : {
+        "EUR" : 0.013843,
+        "USD" : 0.016914
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11348963",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 112,
+    "resold_impressions" : 112,
+    "revenue" : 0.106091,
+    "revenue_dict" : {
+        "EUR" : 0.106091,
+        "USD" : 0.129624
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11348966",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.006993,
+    "revenue_dict" : {
+        "EUR" : 0.006993,
+        "USD" : 0.008544
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11348967",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.00271,
+    "revenue_dict" : {
+        "EUR" : 0.00271,
+        "USD" : 0.003311
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11367435",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1326,
+    "resold_impressions" : 1326,
+    "revenue" : 2.237095,
+    "revenue_dict" : {
+        "EUR" : 2.237095,
+        "USD" : 2.733331
+    },
+    "clicks" : 6
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11389927",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.002739,
+    "revenue_dict" : {
+        "EUR" : 0.002739,
+        "USD" : 0.003347
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11398674",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 186,
+    "resold_impressions" : 186,
+    "revenue" : 0.324221,
+    "revenue_dict" : {
+        "EUR" : 0.324221,
+        "USD" : 0.39614
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11409016",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 5576,
+    "resold_impressions" : 5576,
+    "revenue" : 12.258945,
+    "revenue_dict" : {
+        "EUR" : 12.258945,
+        "USD" : 14.978245
+    },
+    "clicks" : 36
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11409757",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 54,
+    "resold_impressions" : 54,
+    "revenue" : 0.074834,
+    "revenue_dict" : {
+        "EUR" : 0.074834,
+        "USD" : 0.091434
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11409762",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 598,
+    "resold_impressions" : 598,
+    "revenue" : 0.828617,
+    "revenue_dict" : {
+        "EUR" : 0.828617,
+        "USD" : 1.012422
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11441371",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3753,
+    "resold_impressions" : 3753,
+    "revenue" : 5.632238,
+    "revenue_dict" : {
+        "EUR" : 5.632238,
+        "USD" : 6.881591
+    },
+    "clicks" : 11
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11441381",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 296,
+    "resold_impressions" : 296,
+    "revenue" : 0.410034,
+    "revenue_dict" : {
+        "EUR" : 0.410034,
+        "USD" : 0.500988
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11441386",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 281,
+    "resold_impressions" : 281,
+    "revenue" : 0.391114,
+    "revenue_dict" : {
+        "EUR" : 0.391114,
+        "USD" : 0.477872
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11441387",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 186,
+    "resold_impressions" : 186,
+    "revenue" : 0.26549,
+    "revenue_dict" : {
+        "EUR" : 0.26549,
+        "USD" : 0.324381
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11444833",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2394,
+    "resold_impressions" : 2394,
+    "revenue" : 0.03167,
+    "revenue_dict" : {
+        "EUR" : 0.03167,
+        "USD" : 0.038695
+    },
+    "clicks" : 17
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11445228",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 86,
+    "resold_impressions" : 86,
+    "revenue" : 0.31114,
+    "revenue_dict" : {
+        "EUR" : 0.31114,
+        "USD" : 0.380158
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11445232",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.022199,
+    "revenue_dict" : {
+        "EUR" : 0.022199,
+        "USD" : 0.027123
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11468627",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 262,
+    "resold_impressions" : 262,
+    "revenue" : 1.56171,
+    "revenue_dict" : {
+        "EUR" : 1.56171,
+        "USD" : 1.908131
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11482557",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 295,
+    "resold_impressions" : 295,
+    "revenue" : 1.842719,
+    "revenue_dict" : {
+        "EUR" : 1.842719,
+        "USD" : 2.251474
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11482558",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 5853,
+    "resold_impressions" : 5853,
+    "revenue" : 31.380329,
+    "revenue_dict" : {
+        "EUR" : 31.380329,
+        "USD" : 38.341168
+    },
+    "clicks" : 219
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11482967",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 180,
+    "resold_impressions" : 180,
+    "revenue" : 0.418336,
+    "revenue_dict" : {
+        "EUR" : 0.418336,
+        "USD" : 0.511132
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11487634",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 58,
+    "resold_impressions" : 58,
+    "revenue" : 0.221047,
+    "revenue_dict" : {
+        "EUR" : 0.221047,
+        "USD" : 0.27008
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11487651",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 105,
+    "resold_impressions" : 105,
+    "revenue" : 0.415757,
+    "revenue_dict" : {
+        "EUR" : 0.415757,
+        "USD" : 0.507981
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11550271",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 70,
+    "resold_impressions" : 70,
+    "revenue" : 0.41771,
+    "revenue_dict" : {
+        "EUR" : 0.41771,
+        "USD" : 0.510367
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11576985",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 420,
+    "resold_impressions" : 420,
+    "revenue" : 0.919929,
+    "revenue_dict" : {
+        "EUR" : 0.919929,
+        "USD" : 1.123989
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11584842",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 511,
+    "resold_impressions" : 511,
+    "revenue" : 1.762696,
+    "revenue_dict" : {
+        "EUR" : 1.762696,
+        "USD" : 2.1537
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11584847",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 52,
+    "resold_impressions" : 52,
+    "revenue" : 0.195272,
+    "revenue_dict" : {
+        "EUR" : 0.195272,
+        "USD" : 0.238588
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11585596",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.002771,
+    "revenue_dict" : {
+        "EUR" : 0.002771,
+        "USD" : 0.003386
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11645922",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 149,
+    "resold_impressions" : 149,
+    "revenue" : 0.346333,
+    "revenue_dict" : {
+        "EUR" : 0.346333,
+        "USD" : 0.423157
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11645936",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 259,
+    "resold_impressions" : 259,
+    "revenue" : 0.362392,
+    "revenue_dict" : {
+        "EUR" : 0.362392,
+        "USD" : 0.442778
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11658737",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2537,
+    "resold_impressions" : 2537,
+    "revenue" : 9.043471,
+    "revenue_dict" : {
+        "EUR" : 9.043471,
+        "USD" : 11.049509
+    },
+    "clicks" : 14
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11717687",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 10,
+    "resold_impressions" : 10,
+    "revenue" : 0.015196,
+    "revenue_dict" : {
+        "EUR" : 0.015196,
+        "USD" : 0.018567
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11725649",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 5069,
+    "resold_impressions" : 5069,
+    "revenue" : 20.728219,
+    "revenue_dict" : {
+        "EUR" : 20.728219,
+        "USD" : 25.326189
+    },
+    "clicks" : 84
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11729174",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1693,
+    "resold_impressions" : 1693,
+    "revenue" : 7.682197,
+    "revenue_dict" : {
+        "EUR" : 7.682197,
+        "USD" : 9.386275
+    },
+    "clicks" : 20
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11767707",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 56,
+    "resold_impressions" : 56,
+    "revenue" : 0.355584,
+    "revenue_dict" : {
+        "EUR" : 0.355584,
+        "USD" : 0.43446
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11769873",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 32,
+    "resold_impressions" : 32,
+    "revenue" : 0.048625,
+    "revenue_dict" : {
+        "EUR" : 0.048625,
+        "USD" : 0.059411
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11770111",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.002771,
+    "revenue_dict" : {
+        "EUR" : 0.002771,
+        "USD" : 0.003386
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11770132",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 32,
+    "resold_impressions" : 32,
+    "revenue" : 0.074387,
+    "revenue_dict" : {
+        "EUR" : 0.074387,
+        "USD" : 0.090888
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11783445",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 732,
+    "resold_impressions" : 732,
+    "revenue" : 2.853192,
+    "revenue_dict" : {
+        "EUR" : 2.853192,
+        "USD" : 3.486092
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11803376",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 439,
+    "resold_impressions" : 439,
+    "revenue" : 2.01199,
+    "revenue_dict" : {
+        "EUR" : 2.01199,
+        "USD" : 2.458293
+    },
+    "clicks" : 8
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11841343",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 294,
+    "resold_impressions" : 294,
+    "revenue" : 0.683357,
+    "revenue_dict" : {
+        "EUR" : 0.683357,
+        "USD" : 0.83494
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11841354",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 423,
+    "resold_impressions" : 423,
+    "revenue" : 0.609758,
+    "revenue_dict" : {
+        "EUR" : 0.609758,
+        "USD" : 0.745016
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11976858",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 296,
+    "resold_impressions" : 296,
+    "revenue" : 1.135311,
+    "revenue_dict" : {
+        "EUR" : 1.135311,
+        "USD" : 1.387148
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11984516",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 12,
+    "resold_impressions" : 12,
+    "revenue" : 0.027889,
+    "revenue_dict" : {
+        "EUR" : 0.027889,
+        "USD" : 0.034075
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11984519",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.008851,
+    "revenue_dict" : {
+        "EUR" : 0.008851,
+        "USD" : 0.010814
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11984524",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.001386,
+    "revenue_dict" : {
+        "EUR" : 0.001386,
+        "USD" : 0.001693
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11984526",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 11,
+    "resold_impressions" : 11,
+    "revenue" : 0.016325,
+    "revenue_dict" : {
+        "EUR" : 0.016325,
+        "USD" : 0.019946
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11984534",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 17,
+    "resold_impressions" : 17,
+    "revenue" : 0.023549,
+    "revenue_dict" : {
+        "EUR" : 0.023549,
+        "USD" : 0.028773
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11984536",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 22,
+    "resold_impressions" : 22,
+    "revenue" : 0.032482,
+    "revenue_dict" : {
+        "EUR" : 0.032482,
+        "USD" : 0.039687
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11984546",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 33,
+    "resold_impressions" : 33,
+    "revenue" : 0.076672,
+    "revenue_dict" : {
+        "EUR" : 0.076672,
+        "USD" : 0.09368
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "11998822",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 170,
+    "resold_impressions" : 170,
+    "revenue" : 0.28554,
+    "revenue_dict" : {
+        "EUR" : 0.28554,
+        "USD" : 0.348879
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12083539",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 55,
+    "resold_impressions" : 55,
+    "revenue" : 0.127849,
+    "revenue_dict" : {
+        "EUR" : 0.127849,
+        "USD" : 0.156209
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12083540",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 16,
+    "resold_impressions" : 16,
+    "revenue" : 0.037193,
+    "revenue_dict" : {
+        "EUR" : 0.037193,
+        "USD" : 0.045443
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12083541",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 173,
+    "resold_impressions" : 173,
+    "revenue" : 0.402088,
+    "revenue_dict" : {
+        "EUR" : 0.402088,
+        "USD" : 0.49128
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12085040",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1062,
+    "resold_impressions" : 1062,
+    "revenue" : 1.826881,
+    "revenue_dict" : {
+        "EUR" : 1.826881,
+        "USD" : 2.232123
+    },
+    "clicks" : 9
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12112520",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1250,
+    "resold_impressions" : 1250,
+    "revenue" : 2.73961,
+    "revenue_dict" : {
+        "EUR" : 2.73961,
+        "USD" : 3.347315
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12112599",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 285,
+    "resold_impressions" : 285,
+    "revenue" : 0.624449,
+    "revenue_dict" : {
+        "EUR" : 0.624449,
+        "USD" : 0.762965
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12142194",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 206,
+    "resold_impressions" : 206,
+    "revenue" : 0.921386,
+    "revenue_dict" : {
+        "EUR" : 0.921386,
+        "USD" : 1.125769
+    },
+    "clicks" : 5
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12142222",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 448,
+    "resold_impressions" : 448,
+    "revenue" : 2.061243,
+    "revenue_dict" : {
+        "EUR" : 2.061243,
+        "USD" : 2.518472
+    },
+    "clicks" : 14
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12144807",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 940,
+    "resold_impressions" : 940,
+    "revenue" : 1.613331,
+    "revenue_dict" : {
+        "EUR" : 1.613331,
+        "USD" : 1.971203
+    },
+    "clicks" : 14
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12144810",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 585,
+    "resold_impressions" : 585,
+    "revenue" : 0.999901,
+    "revenue_dict" : {
+        "EUR" : 0.999901,
+        "USD" : 1.221701
+    },
+    "clicks" : 7
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12144812",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 834,
+    "resold_impressions" : 834,
+    "revenue" : 1.440746,
+    "revenue_dict" : {
+        "EUR" : 1.440746,
+        "USD" : 1.760335
+    },
+    "clicks" : 11
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12145242",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 41,
+    "resold_impressions" : 41,
+    "revenue" : 0.090643,
+    "revenue_dict" : {
+        "EUR" : 0.090643,
+        "USD" : 0.11075
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12145320",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 342,
+    "resold_impressions" : 342,
+    "revenue" : 0.328043,
+    "revenue_dict" : {
+        "EUR" : 0.328043,
+        "USD" : 0.40081
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12145361",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 3960,
+    "resold_impressions" : 3960,
+    "revenue" : 8.674605,
+    "revenue_dict" : {
+        "EUR" : 8.674605,
+        "USD" : 10.598821
+    },
+    "clicks" : 9
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12145363",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.015356,
+    "revenue_dict" : {
+        "EUR" : 0.015356,
+        "USD" : 0.018762
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12145364",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 56,
+    "resold_impressions" : 56,
+    "revenue" : 0.080117,
+    "revenue_dict" : {
+        "EUR" : 0.080117,
+        "USD" : 0.097889
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12145365",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 331,
+    "resold_impressions" : 331,
+    "revenue" : 0.728956,
+    "revenue_dict" : {
+        "EUR" : 0.728956,
+        "USD" : 0.890654
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12166856",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1628,
+    "resold_impressions" : 1628,
+    "revenue" : 2.823815,
+    "revenue_dict" : {
+        "EUR" : 2.823815,
+        "USD" : 3.450199
+    },
+    "clicks" : 7
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12228418",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 29,
+    "resold_impressions" : 29,
+    "revenue" : 0.040165,
+    "revenue_dict" : {
+        "EUR" : 0.040165,
+        "USD" : 0.049074
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12228425",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.009691,
+    "revenue_dict" : {
+        "EUR" : 0.009691,
+        "USD" : 0.011841
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12228449",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.025086,
+    "revenue_dict" : {
+        "EUR" : 0.025086,
+        "USD" : 0.030651
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12262691",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 476,
+    "resold_impressions" : 476,
+    "revenue" : 3.114213,
+    "revenue_dict" : {
+        "EUR" : 3.114213,
+        "USD" : 3.805013
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12326253",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 657,
+    "resold_impressions" : 657,
+    "revenue" : 1.134419,
+    "revenue_dict" : {
+        "EUR" : 1.134419,
+        "USD" : 1.386058
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12331524",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.001361,
+    "revenue_dict" : {
+        "EUR" : 0.001361,
+        "USD" : 0.001663
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12350569",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 31,
+    "resold_impressions" : 31,
+    "revenue" : 0.203739,
+    "revenue_dict" : {
+        "EUR" : 0.203739,
+        "USD" : 0.248933
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12350620",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 68,
+    "resold_impressions" : 68,
+    "revenue" : 0.374735,
+    "revenue_dict" : {
+        "EUR" : 0.374735,
+        "USD" : 0.457859
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12350671",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 10,
+    "resold_impressions" : 10,
+    "revenue" : 0.038594,
+    "revenue_dict" : {
+        "EUR" : 0.038594,
+        "USD" : 0.047155
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390755",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 347,
+    "resold_impressions" : 347,
+    "revenue" : 0.480842,
+    "revenue_dict" : {
+        "EUR" : 0.480842,
+        "USD" : 0.587503
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390760",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 4329,
+    "resold_impressions" : 4329,
+    "revenue" : 6.033606,
+    "revenue_dict" : {
+        "EUR" : 6.033606,
+        "USD" : 7.371991
+    },
+    "clicks" : 28
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390948",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 127,
+    "resold_impressions" : 127,
+    "revenue" : 0.135005,
+    "revenue_dict" : {
+        "EUR" : 0.135005,
+        "USD" : 0.164952
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390954",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 72,
+    "resold_impressions" : 72,
+    "revenue" : 0.158476,
+    "revenue_dict" : {
+        "EUR" : 0.158476,
+        "USD" : 0.193629
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390962",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 86,
+    "resold_impressions" : 86,
+    "revenue" : 0.189193,
+    "revenue_dict" : {
+        "EUR" : 0.189193,
+        "USD" : 0.23116
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390972",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 1941,
+    "resold_impressions" : 1941,
+    "revenue" : 1.83324,
+    "revenue_dict" : {
+        "EUR" : 1.83324,
+        "USD" : 2.239892
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390973",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 2251,
+    "resold_impressions" : 2251,
+    "revenue" : 2.129922,
+    "revenue_dict" : {
+        "EUR" : 2.129922,
+        "USD" : 2.602385
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390974",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2608,
+    "resold_impressions" : 2608,
+    "revenue" : 5.744415,
+    "revenue_dict" : {
+        "EUR" : 5.744415,
+        "USD" : 7.018651
+    },
+    "clicks" : 6
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390978",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 27,
+    "resold_impressions" : 27,
+    "revenue" : 0.059423,
+    "revenue_dict" : {
+        "EUR" : 0.059423,
+        "USD" : 0.072604
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12390990",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 493,
+    "resold_impressions" : 493,
+    "revenue" : 1.080747,
+    "revenue_dict" : {
+        "EUR" : 1.080747,
+        "USD" : 1.32048
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12403542",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 182,
+    "resold_impressions" : 182,
+    "revenue" : 0.255128,
+    "revenue_dict" : {
+        "EUR" : 0.255128,
+        "USD" : 0.311721
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12403547",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 83,
+    "resold_impressions" : 83,
+    "revenue" : 0.192893,
+    "revenue_dict" : {
+        "EUR" : 0.192893,
+        "USD" : 0.235681
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12428904",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 817,
+    "resold_impressions" : 817,
+    "revenue" : 1.793559,
+    "revenue_dict" : {
+        "EUR" : 1.793559,
+        "USD" : 2.191409
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12499952",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 954,
+    "resold_impressions" : 954,
+    "revenue" : 1.592761,
+    "revenue_dict" : {
+        "EUR" : 1.592761,
+        "USD" : 1.94607
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12517292",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 285,
+    "resold_impressions" : 285,
+    "revenue" : 1.078337,
+    "revenue_dict" : {
+        "EUR" : 1.078337,
+        "USD" : 1.317536
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12530949",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 522,
+    "resold_impressions" : 522,
+    "revenue" : 2.459454,
+    "revenue_dict" : {
+        "EUR" : 2.459454,
+        "USD" : 3.005014
+    },
+    "clicks" : 11
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12533536",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 203,
+    "resold_impressions" : 203,
+    "revenue" : 0.734318,
+    "revenue_dict" : {
+        "EUR" : 0.734318,
+        "USD" : 0.897206
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12533561",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 93,
+    "resold_impressions" : 93,
+    "revenue" : 0.477411,
+    "revenue_dict" : {
+        "EUR" : 0.477411,
+        "USD" : 0.583311
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12599028",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 11074,
+    "resold_impressions" : 11074,
+    "revenue" : 19.102959,
+    "revenue_dict" : {
+        "EUR" : 19.102959,
+        "USD" : 23.340411
+    },
+    "clicks" : 69
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12682620",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002217,
+    "revenue_dict" : {
+        "EUR" : 0.002217,
+        "USD" : 0.002709
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12682672",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.022167,
+    "revenue_dict" : {
+        "EUR" : 0.022167,
+        "USD" : 0.027084
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12682686",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 4892,
+    "resold_impressions" : 4892,
+    "revenue" : 4.434716,
+    "revenue_dict" : {
+        "EUR" : 4.434716,
+        "USD" : 5.418432
+    },
+    "clicks" : 5
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12682738",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 616,
+    "resold_impressions" : 616,
+    "revenue" : 0.552325,
+    "revenue_dict" : {
+        "EUR" : 0.552325,
+        "USD" : 0.674843
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12682739",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.014074,
+    "revenue_dict" : {
+        "EUR" : 0.014074,
+        "USD" : 0.017196
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "12682752",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1977,
+    "resold_impressions" : 1977,
+    "revenue" : 4.336718,
+    "revenue_dict" : {
+        "EUR" : 4.336718,
+        "USD" : 5.298696
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3841306",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.00152,
+    "revenue_dict" : {
+        "EUR" : 0.00152,
+        "USD" : 0.001857
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3841343",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 182,
+    "resold_impressions" : 182,
+    "revenue" : 0.276573,
+    "revenue_dict" : {
+        "EUR" : 0.276573,
+        "USD" : 0.337923
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3841465",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1054,
+    "resold_impressions" : 1054,
+    "revenue" : 1.460449,
+    "revenue_dict" : {
+        "EUR" : 1.460449,
+        "USD" : 1.784408
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3884790",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 23,
+    "resold_impressions" : 23,
+    "revenue" : 0.050515,
+    "revenue_dict" : {
+        "EUR" : 0.050515,
+        "USD" : 0.06172
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3884796",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 14,
+    "resold_impressions" : 14,
+    "revenue" : 0.030756,
+    "revenue_dict" : {
+        "EUR" : 0.030756,
+        "USD" : 0.037578
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3884804",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 23,
+    "resold_impressions" : 23,
+    "revenue" : 0.050595,
+    "revenue_dict" : {
+        "EUR" : 0.050595,
+        "USD" : 0.061818
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3884806",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.0395,
+    "revenue_dict" : {
+        "EUR" : 0.0395,
+        "USD" : 0.048262
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894202",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 51,
+    "resold_impressions" : 51,
+    "revenue" : 0.111978,
+    "revenue_dict" : {
+        "EUR" : 0.111978,
+        "USD" : 0.136817
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894210",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 10,
+    "resold_impressions" : 10,
+    "revenue" : 0.020291,
+    "revenue_dict" : {
+        "EUR" : 0.020291,
+        "USD" : 0.024792
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894243",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.010952,
+    "revenue_dict" : {
+        "EUR" : 0.010952,
+        "USD" : 0.013381
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894244",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 42,
+    "resold_impressions" : 42,
+    "revenue" : 0.071283,
+    "revenue_dict" : {
+        "EUR" : 0.071283,
+        "USD" : 0.087095
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894269",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 116,
+    "resold_impressions" : 116,
+    "revenue" : 0.254444,
+    "revenue_dict" : {
+        "EUR" : 0.254444,
+        "USD" : 0.310885
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894436",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894541",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 81,
+    "resold_impressions" : 81,
+    "revenue" : 0.177843,
+    "revenue_dict" : {
+        "EUR" : 0.177843,
+        "USD" : 0.217292
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894541",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 321,
+    "resold_impressions" : 321,
+    "revenue" : 0.692229,
+    "revenue_dict" : {
+        "EUR" : 0.692229,
+        "USD" : 0.84578
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894542",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.017539,
+    "revenue_dict" : {
+        "EUR" : 0.017539,
+        "USD" : 0.02143
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894542",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 132,
+    "resold_impressions" : 132,
+    "revenue" : 0.168523,
+    "revenue_dict" : {
+        "EUR" : 0.168523,
+        "USD" : 0.205905
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894543",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004426,
+    "revenue_dict" : {
+        "EUR" : 0.004426,
+        "USD" : 0.005408
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894543",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 187,
+    "resold_impressions" : 187,
+    "revenue" : 0.193793,
+    "revenue_dict" : {
+        "EUR" : 0.193793,
+        "USD" : 0.23678
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894544",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.017519,
+    "revenue_dict" : {
+        "EUR" : 0.017519,
+        "USD" : 0.021405
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894544",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 58,
+    "resold_impressions" : 58,
+    "revenue" : 0.118337,
+    "revenue_dict" : {
+        "EUR" : 0.118337,
+        "USD" : 0.144587
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894546",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 15,
+    "resold_impressions" : 15,
+    "revenue" : 0.03287,
+    "revenue_dict" : {
+        "EUR" : 0.03287,
+        "USD" : 0.040161
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894546",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 375,
+    "resold_impressions" : 375,
+    "revenue" : 0.442243,
+    "revenue_dict" : {
+        "EUR" : 0.442243,
+        "USD" : 0.540342
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894548",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.008815,
+    "revenue_dict" : {
+        "EUR" : 0.008815,
+        "USD" : 0.01077
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894548",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 34,
+    "resold_impressions" : 34,
+    "revenue" : 0.043085,
+    "revenue_dict" : {
+        "EUR" : 0.043085,
+        "USD" : 0.052642
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894549",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.010981,
+    "revenue_dict" : {
+        "EUR" : 0.010981,
+        "USD" : 0.013417
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894549",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 217,
+    "resold_impressions" : 217,
+    "revenue" : 0.215325,
+    "revenue_dict" : {
+        "EUR" : 0.215325,
+        "USD" : 0.263089
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894551",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 152,
+    "resold_impressions" : 152,
+    "revenue" : 0.310333,
+    "revenue_dict" : {
+        "EUR" : 0.310333,
+        "USD" : 0.379172
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894552",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 35,
+    "resold_impressions" : 35,
+    "revenue" : 0.076349,
+    "revenue_dict" : {
+        "EUR" : 0.076349,
+        "USD" : 0.093285
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894553",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006543,
+    "revenue_dict" : {
+        "EUR" : 0.006543,
+        "USD" : 0.007994
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894554",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.019759,
+    "revenue_dict" : {
+        "EUR" : 0.019759,
+        "USD" : 0.024142
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894555",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 44,
+    "resold_impressions" : 44,
+    "revenue" : 0.090643,
+    "revenue_dict" : {
+        "EUR" : 0.090643,
+        "USD" : 0.11075
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894556",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.013091,
+    "revenue_dict" : {
+        "EUR" : 0.013091,
+        "USD" : 0.015995
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894557",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 316,
+    "resold_impressions" : 316,
+    "revenue" : 0.650449,
+    "revenue_dict" : {
+        "EUR" : 0.650449,
+        "USD" : 0.794733
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "3894559",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 998,
+    "resold_impressions" : 998,
+    "revenue" : 2.197632,
+    "revenue_dict" : {
+        "EUR" : 2.197632,
+        "USD" : 2.685115
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157366",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 25,
+    "resold_impressions" : 25,
+    "revenue" : 0.029398,
+    "revenue_dict" : {
+        "EUR" : 0.029398,
+        "USD" : 0.035919
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157372",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 22,
+    "resold_impressions" : 22,
+    "revenue" : 0.026803,
+    "revenue_dict" : {
+        "EUR" : 0.026803,
+        "USD" : 0.032748
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157388",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 15,
+    "resold_impressions" : 15,
+    "revenue" : 0.017292,
+    "revenue_dict" : {
+        "EUR" : 0.017292,
+        "USD" : 0.021128
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157423",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 17,
+    "resold_impressions" : 17,
+    "revenue" : 0.021701,
+    "revenue_dict" : {
+        "EUR" : 0.021701,
+        "USD" : 0.026515
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157451",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 11,
+    "resold_impressions" : 11,
+    "revenue" : 0.012443,
+    "revenue_dict" : {
+        "EUR" : 0.012443,
+        "USD" : 0.015203
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157458",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 84,
+    "resold_impressions" : 84,
+    "revenue" : 0.195243,
+    "revenue_dict" : {
+        "EUR" : 0.195243,
+        "USD" : 0.238552
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157459",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 84,
+    "resold_impressions" : 84,
+    "revenue" : 0.195254,
+    "revenue_dict" : {
+        "EUR" : 0.195254,
+        "USD" : 0.238566
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157460",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 21,
+    "resold_impressions" : 21,
+    "revenue" : 0.048811,
+    "revenue_dict" : {
+        "EUR" : 0.048811,
+        "USD" : 0.059638
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157463",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 99,
+    "resold_impressions" : 99,
+    "revenue" : 0.230107,
+    "revenue_dict" : {
+        "EUR" : 0.230107,
+        "USD" : 0.28115
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157464",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 88,
+    "resold_impressions" : 88,
+    "revenue" : 0.204545,
+    "revenue_dict" : {
+        "EUR" : 0.204545,
+        "USD" : 0.249918
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157465",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 141,
+    "resold_impressions" : 141,
+    "revenue" : 0.327726,
+    "revenue_dict" : {
+        "EUR" : 0.327726,
+        "USD" : 0.400423
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157466",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 28,
+    "resold_impressions" : 28,
+    "revenue" : 0.065074,
+    "revenue_dict" : {
+        "EUR" : 0.065074,
+        "USD" : 0.079509
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157472",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 44,
+    "resold_impressions" : 44,
+    "revenue" : 0.102272,
+    "revenue_dict" : {
+        "EUR" : 0.102272,
+        "USD" : 0.124958
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4157473",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.013947,
+    "revenue_dict" : {
+        "EUR" : 0.013947,
+        "USD" : 0.017041
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4829810",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.034375,
+    "revenue_dict" : {
+        "EUR" : 0.034375,
+        "USD" : 0.042
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4964968",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 27,
+    "resold_impressions" : 27,
+    "revenue" : 0.037405,
+    "revenue_dict" : {
+        "EUR" : 0.037405,
+        "USD" : 0.045702
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "4964982",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 101,
+    "resold_impressions" : 101,
+    "revenue" : 0.129782,
+    "revenue_dict" : {
+        "EUR" : 0.129782,
+        "USD" : 0.15857
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5357565",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 13,
+    "resold_impressions" : 13,
+    "revenue" : 0.028548,
+    "revenue_dict" : {
+        "EUR" : 0.028548,
+        "USD" : 0.034881
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5556969",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 820,
+    "resold_impressions" : 820,
+    "revenue" : 2.932519,
+    "revenue_dict" : {
+        "EUR" : 2.932519,
+        "USD" : 3.583015
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5585216",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 25767,
+    "resold_impressions" : 25767,
+    "revenue" : 103.150015,
+    "revenue_dict" : {
+        "EUR" : 103.150015,
+        "USD" : 126.03093
+    },
+    "clicks" : 244
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5586573",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 56,
+    "resold_impressions" : 56,
+    "revenue" : 0.072778,
+    "revenue_dict" : {
+        "EUR" : 0.072778,
+        "USD" : 0.088922
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5586576",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 93,
+    "resold_impressions" : 93,
+    "revenue" : 0.121036,
+    "revenue_dict" : {
+        "EUR" : 0.121036,
+        "USD" : 0.147884
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600347",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 362,
+    "resold_impressions" : 362,
+    "revenue" : 0.50365,
+    "revenue_dict" : {
+        "EUR" : 0.50365,
+        "USD" : 0.615371
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600350",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 44,
+    "resold_impressions" : 44,
+    "revenue" : 0.066841,
+    "revenue_dict" : {
+        "EUR" : 0.066841,
+        "USD" : 0.081668
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600353",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.024932,
+    "revenue_dict" : {
+        "EUR" : 0.024932,
+        "USD" : 0.030462
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600359",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 41,
+    "resold_impressions" : 41,
+    "revenue" : 0.062311,
+    "revenue_dict" : {
+        "EUR" : 0.062311,
+        "USD" : 0.076133
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600362",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 1441,
+    "resold_impressions" : 1441,
+    "revenue" : 3.349174,
+    "revenue_dict" : {
+        "EUR" : 3.349174,
+        "USD" : 4.092094
+    },
+    "clicks" : 7
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600363",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 24,
+    "resold_impressions" : 24,
+    "revenue" : 0.033824,
+    "revenue_dict" : {
+        "EUR" : 0.033824,
+        "USD" : 0.041327
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600366",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 87,
+    "resold_impressions" : 87,
+    "revenue" : 0.132215,
+    "revenue_dict" : {
+        "EUR" : 0.132215,
+        "USD" : 0.161543
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600369",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 70,
+    "resold_impressions" : 70,
+    "revenue" : 0.099222,
+    "revenue_dict" : {
+        "EUR" : 0.099222,
+        "USD" : 0.121232
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600372",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 43,
+    "resold_impressions" : 43,
+    "revenue" : 0.060608,
+    "revenue_dict" : {
+        "EUR" : 0.060608,
+        "USD" : 0.074052
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600381",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 47,
+    "resold_impressions" : 47,
+    "revenue" : 0.067137,
+    "revenue_dict" : {
+        "EUR" : 0.067137,
+        "USD" : 0.082029
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600399",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 232,
+    "resold_impressions" : 232,
+    "revenue" : 0.334406,
+    "revenue_dict" : {
+        "EUR" : 0.334406,
+        "USD" : 0.408585
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600403",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 257,
+    "resold_impressions" : 257,
+    "revenue" : 0.37821,
+    "revenue_dict" : {
+        "EUR" : 0.37821,
+        "USD" : 0.462105
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600411",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 497,
+    "resold_impressions" : 497,
+    "revenue" : 0.73597,
+    "revenue_dict" : {
+        "EUR" : 0.73597,
+        "USD" : 0.899224
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600413",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 343,
+    "resold_impressions" : 343,
+    "revenue" : 0.490386,
+    "revenue_dict" : {
+        "EUR" : 0.490386,
+        "USD" : 0.599164
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600417",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 356,
+    "resold_impressions" : 356,
+    "revenue" : 0.518312,
+    "revenue_dict" : {
+        "EUR" : 0.518312,
+        "USD" : 0.633285
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600421",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 160,
+    "resold_impressions" : 160,
+    "revenue" : 0.228265,
+    "revenue_dict" : {
+        "EUR" : 0.228265,
+        "USD" : 0.278899
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600432",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 822,
+    "resold_impressions" : 822,
+    "revenue" : 1.191923,
+    "revenue_dict" : {
+        "EUR" : 1.191923,
+        "USD" : 1.456317
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600436",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.009706,
+    "revenue_dict" : {
+        "EUR" : 0.009706,
+        "USD" : 0.011859
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600447",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 328,
+    "resold_impressions" : 328,
+    "revenue" : 0.478906,
+    "revenue_dict" : {
+        "EUR" : 0.478906,
+        "USD" : 0.585138
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600453",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 608,
+    "resold_impressions" : 608,
+    "revenue" : 0.877156,
+    "revenue_dict" : {
+        "EUR" : 0.877156,
+        "USD" : 1.071728
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600454",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 246,
+    "resold_impressions" : 246,
+    "revenue" : 0.358513,
+    "revenue_dict" : {
+        "EUR" : 0.358513,
+        "USD" : 0.438039
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5600646",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 24,
+    "resold_impressions" : 24,
+    "revenue" : 0.153429,
+    "revenue_dict" : {
+        "EUR" : 0.153429,
+        "USD" : 0.187463
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5682289",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 24,
+    "resold_impressions" : 24,
+    "revenue" : 0.090624,
+    "revenue_dict" : {
+        "EUR" : 0.090624,
+        "USD" : 0.110726
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5687603",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 13879,
+    "resold_impressions" : 13879,
+    "revenue" : 53.024583,
+    "revenue_dict" : {
+        "EUR" : 53.024583,
+        "USD" : 64.786588
+    },
+    "clicks" : 87
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5688328",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 63,
+    "resold_impressions" : 63,
+    "revenue" : 0.14616,
+    "revenue_dict" : {
+        "EUR" : 0.14616,
+        "USD" : 0.178581
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5688330",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1634,
+    "resold_impressions" : 1634,
+    "revenue" : 5.638214,
+    "revenue_dict" : {
+        "EUR" : 5.638214,
+        "USD" : 6.888892
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5688341",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2880,
+    "resold_impressions" : 2880,
+    "revenue" : 9.802499,
+    "revenue_dict" : {
+        "EUR" : 9.802499,
+        "USD" : 11.976906
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5700785",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 6112,
+    "resold_impressions" : 6112,
+    "revenue" : 10.502782,
+    "revenue_dict" : {
+        "EUR" : 10.502782,
+        "USD" : 12.832527
+    },
+    "clicks" : 36
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5700786",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1285,
+    "resold_impressions" : 1285,
+    "revenue" : 2.203492,
+    "revenue_dict" : {
+        "EUR" : 2.203492,
+        "USD" : 2.692274
+    },
+    "clicks" : 12
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5700793",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2028,
+    "resold_impressions" : 2028,
+    "revenue" : 3.270377,
+    "revenue_dict" : {
+        "EUR" : 3.270377,
+        "USD" : 3.995818
+    },
+    "clicks" : 17
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5700799",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 90,
+    "resold_impressions" : 90,
+    "revenue" : 0.151333,
+    "revenue_dict" : {
+        "EUR" : 0.151333,
+        "USD" : 0.184902
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5700807",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 28,
+    "resold_impressions" : 28,
+    "revenue" : 0.040701,
+    "revenue_dict" : {
+        "EUR" : 0.040701,
+        "USD" : 0.049729
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5917716",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 48,
+    "resold_impressions" : 48,
+    "revenue" : 0.295331,
+    "revenue_dict" : {
+        "EUR" : 0.295331,
+        "USD" : 0.360842
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5971544",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 136,
+    "resold_impressions" : 136,
+    "revenue" : 0.188712,
+    "revenue_dict" : {
+        "EUR" : 0.188712,
+        "USD" : 0.230572
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "5989527",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1470,
+    "resold_impressions" : 1470,
+    "revenue" : 6.868568,
+    "revenue_dict" : {
+        "EUR" : 6.868568,
+        "USD" : 8.392166
+    },
+    "clicks" : 40
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6044519",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 9232,
+    "resold_impressions" : 9232,
+    "revenue" : 35.4743,
+    "revenue_dict" : {
+        "EUR" : 35.4743,
+        "USD" : 43.343271
+    },
+    "clicks" : 81
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6116380",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 34,
+    "resold_impressions" : 34,
+    "revenue" : 0.207779,
+    "revenue_dict" : {
+        "EUR" : 0.207779,
+        "USD" : 0.253869
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6125290",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 38,
+    "resold_impressions" : 38,
+    "revenue" : 0.238931,
+    "revenue_dict" : {
+        "EUR" : 0.238931,
+        "USD" : 0.291931
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6166747",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 222,
+    "resold_impressions" : 222,
+    "revenue" : 1.021561,
+    "revenue_dict" : {
+        "EUR" : 1.021561,
+        "USD" : 1.248165
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6193807",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6193810",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004376,
+    "revenue_dict" : {
+        "EUR" : 0.004376,
+        "USD" : 0.005347
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6193815",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004376,
+    "revenue_dict" : {
+        "EUR" : 0.004376,
+        "USD" : 0.005347
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6359826",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.008851,
+    "revenue_dict" : {
+        "EUR" : 0.008851,
+        "USD" : 0.010814
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6557180",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 90,
+    "resold_impressions" : 90,
+    "revenue" : 0.107528,
+    "revenue_dict" : {
+        "EUR" : 0.107528,
+        "USD" : 0.13138
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6558651",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 68,
+    "resold_impressions" : 68,
+    "revenue" : 0.118559,
+    "revenue_dict" : {
+        "EUR" : 0.118559,
+        "USD" : 0.144858
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6558671",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 259,
+    "resold_impressions" : 259,
+    "revenue" : 0.440229,
+    "revenue_dict" : {
+        "EUR" : 0.440229,
+        "USD" : 0.537881
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6601331",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.011087,
+    "revenue_dict" : {
+        "EUR" : 0.011087,
+        "USD" : 0.013546
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6601340",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 12,
+    "resold_impressions" : 12,
+    "revenue" : 0.016629,
+    "revenue_dict" : {
+        "EUR" : 0.016629,
+        "USD" : 0.020318
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6633247",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.002313,
+    "revenue_dict" : {
+        "EUR" : 0.002313,
+        "USD" : 0.002826
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "6928703",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2017,
+    "resold_impressions" : 2017,
+    "revenue" : 7.180609,
+    "revenue_dict" : {
+        "EUR" : 7.180609,
+        "USD" : 8.773424
+    },
+    "clicks" : 23
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7070751",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 104,
+    "resold_impressions" : 104,
+    "revenue" : 0.181287,
+    "revenue_dict" : {
+        "EUR" : 0.181287,
+        "USD" : 0.2215
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7236192",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 394,
+    "resold_impressions" : 394,
+    "revenue" : 2.396334,
+    "revenue_dict" : {
+        "EUR" : 2.396334,
+        "USD" : 2.927893
+    },
+    "clicks" : 5
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7295784",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 216,
+    "resold_impressions" : 216,
+    "revenue" : 0.771265,
+    "revenue_dict" : {
+        "EUR" : 0.771265,
+        "USD" : 0.942348
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7470065",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 74,
+    "resold_impressions" : 74,
+    "revenue" : 0.340576,
+    "revenue_dict" : {
+        "EUR" : 0.340576,
+        "USD" : 0.416123
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7491677",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 557,
+    "resold_impressions" : 557,
+    "revenue" : 1.222037,
+    "revenue_dict" : {
+        "EUR" : 1.222037,
+        "USD" : 1.493111
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7491770",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 89,
+    "resold_impressions" : 89,
+    "revenue" : 0.195664,
+    "revenue_dict" : {
+        "EUR" : 0.195664,
+        "USD" : 0.239067
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7491781",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 85,
+    "resold_impressions" : 85,
+    "revenue" : 0.186707,
+    "revenue_dict" : {
+        "EUR" : 0.186707,
+        "USD" : 0.228123
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7491929",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 763,
+    "resold_impressions" : 763,
+    "revenue" : 1.674448,
+    "revenue_dict" : {
+        "EUR" : 1.674448,
+        "USD" : 2.045877
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7491935",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 94,
+    "resold_impressions" : 94,
+    "revenue" : 0.205875,
+    "revenue_dict" : {
+        "EUR" : 0.205875,
+        "USD" : 0.251543
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7492034",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.017569,
+    "revenue_dict" : {
+        "EUR" : 0.017569,
+        "USD" : 0.021466
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7492179",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 22,
+    "resold_impressions" : 22,
+    "revenue" : 0.048105,
+    "revenue_dict" : {
+        "EUR" : 0.048105,
+        "USD" : 0.058776
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7492180",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 110,
+    "resold_impressions" : 110,
+    "revenue" : 0.241208,
+    "revenue_dict" : {
+        "EUR" : 0.241208,
+        "USD" : 0.294713
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "7631030",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 69,
+    "resold_impressions" : 69,
+    "revenue" : 0.316224,
+    "revenue_dict" : {
+        "EUR" : 0.316224,
+        "USD" : 0.386369
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "8846410",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 418,
+    "resold_impressions" : 418,
+    "revenue" : 2.723737,
+    "revenue_dict" : {
+        "EUR" : 2.723737,
+        "USD" : 3.327921
+    },
+    "clicks" : 7
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "8846422",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 257,
+    "resold_impressions" : 257,
+    "revenue" : 1.6841,
+    "revenue_dict" : {
+        "EUR" : 1.6841,
+        "USD" : 2.05767
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "8846423",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1355,
+    "resold_impressions" : 1355,
+    "revenue" : 6.429141,
+    "revenue_dict" : {
+        "EUR" : 6.429141,
+        "USD" : 7.855264
+    },
+    "clicks" : 31
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9016308",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.050501,
+    "revenue_dict" : {
+        "EUR" : 0.050501,
+        "USD" : 0.061703
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017328",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 28,
+    "resold_impressions" : 28,
+    "revenue" : 0.061368,
+    "revenue_dict" : {
+        "EUR" : 0.061368,
+        "USD" : 0.074981
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017334",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017338",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 13,
+    "resold_impressions" : 13,
+    "revenue" : 0.028356,
+    "revenue_dict" : {
+        "EUR" : 0.028356,
+        "USD" : 0.034646
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017339",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004381,
+    "revenue_dict" : {
+        "EUR" : 0.004381,
+        "USD" : 0.005353
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017339",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 287,
+    "resold_impressions" : 287,
+    "revenue" : 0.361759,
+    "revenue_dict" : {
+        "EUR" : 0.361759,
+        "USD" : 0.442005
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017342",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.013144,
+    "revenue_dict" : {
+        "EUR" : 0.013144,
+        "USD" : 0.01606
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017342",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 306,
+    "resold_impressions" : 306,
+    "revenue" : 0.412325,
+    "revenue_dict" : {
+        "EUR" : 0.412325,
+        "USD" : 0.503788
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017352",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002181,
+    "revenue_dict" : {
+        "EUR" : 0.002181,
+        "USD" : 0.002665
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017354",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.008757,
+    "revenue_dict" : {
+        "EUR" : 0.008757,
+        "USD" : 0.010699
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017356",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004373,
+    "revenue_dict" : {
+        "EUR" : 0.004373,
+        "USD" : 0.005343
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017356",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 62,
+    "resold_impressions" : 62,
+    "revenue" : 0.060467,
+    "revenue_dict" : {
+        "EUR" : 0.060467,
+        "USD" : 0.07388
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017357",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 41,
+    "resold_impressions" : 41,
+    "revenue" : 0.044021,
+    "revenue_dict" : {
+        "EUR" : 0.044021,
+        "USD" : 0.053786
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017358",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 11,
+    "resold_impressions" : 11,
+    "revenue" : 0.023929,
+    "revenue_dict" : {
+        "EUR" : 0.023929,
+        "USD" : 0.029237
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017360",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002186,
+    "revenue_dict" : {
+        "EUR" : 0.002186,
+        "USD" : 0.002671
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017360",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 91,
+    "resold_impressions" : 91,
+    "revenue" : 0.108966,
+    "revenue_dict" : {
+        "EUR" : 0.108966,
+        "USD" : 0.133137
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017363",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 81,
+    "resold_impressions" : 81,
+    "revenue" : 0.176324,
+    "revenue_dict" : {
+        "EUR" : 0.176324,
+        "USD" : 0.215436
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017369",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 46,
+    "resold_impressions" : 46,
+    "revenue" : 0.098062,
+    "revenue_dict" : {
+        "EUR" : 0.098062,
+        "USD" : 0.119814
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017370",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.010953,
+    "revenue_dict" : {
+        "EUR" : 0.010953,
+        "USD" : 0.013383
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017371",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004376,
+    "revenue_dict" : {
+        "EUR" : 0.004376,
+        "USD" : 0.005347
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017371",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 243,
+    "resold_impressions" : 243,
+    "revenue" : 0.244688,
+    "revenue_dict" : {
+        "EUR" : 0.244688,
+        "USD" : 0.298965
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017372",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 14,
+    "resold_impressions" : 14,
+    "revenue" : 0.030707,
+    "revenue_dict" : {
+        "EUR" : 0.030707,
+        "USD" : 0.037518
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017372",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 475,
+    "resold_impressions" : 475,
+    "revenue" : 0.628123,
+    "revenue_dict" : {
+        "EUR" : 0.628123,
+        "USD" : 0.767454
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017383",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.006152,
+    "revenue_dict" : {
+        "EUR" : 0.006152,
+        "USD" : 0.007517
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017384",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.003046,
+    "revenue_dict" : {
+        "EUR" : 0.003046,
+        "USD" : 0.003722
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017387",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 13,
+    "resold_impressions" : 13,
+    "revenue" : 0.027936,
+    "revenue_dict" : {
+        "EUR" : 0.027936,
+        "USD" : 0.034133
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017388",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.008784,
+    "revenue_dict" : {
+        "EUR" : 0.008784,
+        "USD" : 0.010732
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017388",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 268,
+    "resold_impressions" : 268,
+    "revenue" : 0.320283,
+    "revenue_dict" : {
+        "EUR" : 0.320283,
+        "USD" : 0.391329
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017390",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017390",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 97,
+    "resold_impressions" : 97,
+    "revenue" : 0.122252,
+    "revenue_dict" : {
+        "EUR" : 0.122252,
+        "USD" : 0.14937
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017396",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 218,
+    "resold_impressions" : 218,
+    "revenue" : 0.478116,
+    "revenue_dict" : {
+        "EUR" : 0.478116,
+        "USD" : 0.584173
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017397",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 209,
+    "resold_impressions" : 209,
+    "revenue" : 0.458405,
+    "revenue_dict" : {
+        "EUR" : 0.458405,
+        "USD" : 0.560089
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017404",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 14,
+    "resold_impressions" : 14,
+    "revenue" : 0.030653,
+    "revenue_dict" : {
+        "EUR" : 0.030653,
+        "USD" : 0.037453
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017408",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.019711,
+    "revenue_dict" : {
+        "EUR" : 0.019711,
+        "USD" : 0.024083
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017410",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.015304,
+    "revenue_dict" : {
+        "EUR" : 0.015304,
+        "USD" : 0.018699
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017411",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006617,
+    "revenue_dict" : {
+        "EUR" : 0.006617,
+        "USD" : 0.008085
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017413",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 113,
+    "resold_impressions" : 113,
+    "revenue" : 0.11031,
+    "revenue_dict" : {
+        "EUR" : 0.11031,
+        "USD" : 0.134779
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017414",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 108,
+    "resold_impressions" : 108,
+    "revenue" : 0.104653,
+    "revenue_dict" : {
+        "EUR" : 0.104653,
+        "USD" : 0.127867
+    },
+    "clicks" : 2
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017429",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.006198,
+    "revenue_dict" : {
+        "EUR" : 0.006198,
+        "USD" : 0.007573
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017431",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 10,
+    "resold_impressions" : 10,
+    "revenue" : 0.008829,
+    "revenue_dict" : {
+        "EUR" : 0.008829,
+        "USD" : 0.010787
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017432",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 50,
+    "resold_impressions" : 50,
+    "revenue" : 0.109304,
+    "revenue_dict" : {
+        "EUR" : 0.109304,
+        "USD" : 0.13355
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017433",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 14,
+    "resold_impressions" : 14,
+    "revenue" : 0.030594,
+    "revenue_dict" : {
+        "EUR" : 0.030594,
+        "USD" : 0.03738
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017435",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 72,
+    "resold_impressions" : 72,
+    "revenue" : 0.070052,
+    "revenue_dict" : {
+        "EUR" : 0.070052,
+        "USD" : 0.085591
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017436",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 63,
+    "resold_impressions" : 63,
+    "revenue" : 0.060919,
+    "revenue_dict" : {
+        "EUR" : 0.060919,
+        "USD" : 0.074432
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017438",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004381,
+    "revenue_dict" : {
+        "EUR" : 0.004381,
+        "USD" : 0.005353
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017444",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 86,
+    "resold_impressions" : 86,
+    "revenue" : 0.18876,
+    "revenue_dict" : {
+        "EUR" : 0.18876,
+        "USD" : 0.230631
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017845",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002179,
+    "revenue_dict" : {
+        "EUR" : 0.002179,
+        "USD" : 0.002662
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9017848",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.011812,
+    "revenue_dict" : {
+        "EUR" : 0.011812,
+        "USD" : 0.014432
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9035045",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2434,
+    "resold_impressions" : 2434,
+    "revenue" : 8.442016,
+    "revenue_dict" : {
+        "EUR" : 8.442016,
+        "USD" : 10.314639
+    },
+    "clicks" : 13
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052015",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 101,
+    "resold_impressions" : 101,
+    "revenue" : 0.208335,
+    "revenue_dict" : {
+        "EUR" : 0.208335,
+        "USD" : 0.254548
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052016",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 41,
+    "resold_impressions" : 41,
+    "revenue" : 0.089971,
+    "revenue_dict" : {
+        "EUR" : 0.089971,
+        "USD" : 0.109929
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052019",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 38,
+    "resold_impressions" : 38,
+    "revenue" : 0.08337,
+    "revenue_dict" : {
+        "EUR" : 0.08337,
+        "USD" : 0.101863
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052020",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004426,
+    "revenue_dict" : {
+        "EUR" : 0.004426,
+        "USD" : 0.005408
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052022",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006567,
+    "revenue_dict" : {
+        "EUR" : 0.006567,
+        "USD" : 0.008024
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052022",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 51,
+    "resold_impressions" : 51,
+    "revenue" : 0.047719,
+    "revenue_dict" : {
+        "EUR" : 0.047719,
+        "USD" : 0.058304
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052023",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.017551,
+    "revenue_dict" : {
+        "EUR" : 0.017551,
+        "USD" : 0.021444
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052023",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 121,
+    "resold_impressions" : 121,
+    "revenue" : 0.154249,
+    "revenue_dict" : {
+        "EUR" : 0.154249,
+        "USD" : 0.188465
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052025",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 10,
+    "resold_impressions" : 10,
+    "revenue" : 0.021986,
+    "revenue_dict" : {
+        "EUR" : 0.021986,
+        "USD" : 0.026863
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052025",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 398,
+    "resold_impressions" : 398,
+    "revenue" : 0.415934,
+    "revenue_dict" : {
+        "EUR" : 0.415934,
+        "USD" : 0.508197
+    },
+    "clicks" : 3
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052033",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.000885,
+    "revenue_dict" : {
+        "EUR" : 0.000885,
+        "USD" : 0.001081
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052034",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.000885,
+    "revenue_dict" : {
+        "EUR" : 0.000885,
+        "USD" : 0.001081
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052036",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.002656,
+    "revenue_dict" : {
+        "EUR" : 0.002656,
+        "USD" : 0.003245
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052038",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 10,
+    "resold_impressions" : 10,
+    "revenue" : 0.020741,
+    "revenue_dict" : {
+        "EUR" : 0.020741,
+        "USD" : 0.025342
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052040",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006571,
+    "revenue_dict" : {
+        "EUR" : 0.006571,
+        "USD" : 0.008029
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052040",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 17,
+    "resold_impressions" : 17,
+    "revenue" : 0.015334,
+    "revenue_dict" : {
+        "EUR" : 0.015334,
+        "USD" : 0.018735
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052042",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004408,
+    "revenue_dict" : {
+        "EUR" : 0.004408,
+        "USD" : 0.005386
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052042",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 13,
+    "resold_impressions" : 13,
+    "revenue" : 0.015425,
+    "revenue_dict" : {
+        "EUR" : 0.015425,
+        "USD" : 0.018847
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052044",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004381,
+    "revenue_dict" : {
+        "EUR" : 0.004381,
+        "USD" : 0.005353
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052044",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.017329,
+    "revenue_dict" : {
+        "EUR" : 0.017329,
+        "USD" : 0.021173
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052048",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 16,
+    "resold_impressions" : 16,
+    "revenue" : 0.033903,
+    "revenue_dict" : {
+        "EUR" : 0.033903,
+        "USD" : 0.041423
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052057",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052065",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 13,
+    "resold_impressions" : 13,
+    "revenue" : 0.028522,
+    "revenue_dict" : {
+        "EUR" : 0.028522,
+        "USD" : 0.034849
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052066",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 51,
+    "resold_impressions" : 51,
+    "revenue" : 0.098032,
+    "revenue_dict" : {
+        "EUR" : 0.098032,
+        "USD" : 0.119778
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052076",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006572,
+    "revenue_dict" : {
+        "EUR" : 0.006572,
+        "USD" : 0.00803
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052076",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 31,
+    "resold_impressions" : 31,
+    "revenue" : 0.037856,
+    "revenue_dict" : {
+        "EUR" : 0.037856,
+        "USD" : 0.046253
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052078",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004381,
+    "revenue_dict" : {
+        "EUR" : 0.004381,
+        "USD" : 0.005353
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052078",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 36,
+    "resold_impressions" : 36,
+    "revenue" : 0.047503,
+    "revenue_dict" : {
+        "EUR" : 0.047503,
+        "USD" : 0.05804
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052084",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002235,
+    "revenue_dict" : {
+        "EUR" : 0.002235,
+        "USD" : 0.002731
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052086",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052086",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 25,
+    "resold_impressions" : 25,
+    "revenue" : 0.02212,
+    "revenue_dict" : {
+        "EUR" : 0.02212,
+        "USD" : 0.027027
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052098",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 113,
+    "resold_impressions" : 113,
+    "revenue" : 0.248124,
+    "revenue_dict" : {
+        "EUR" : 0.248124,
+        "USD" : 0.303163
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052099",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 510,
+    "resold_impressions" : 510,
+    "revenue" : 1.119242,
+    "revenue_dict" : {
+        "EUR" : 1.119242,
+        "USD" : 1.367514
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052101",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 98,
+    "resold_impressions" : 98,
+    "revenue" : 0.214984,
+    "revenue_dict" : {
+        "EUR" : 0.214984,
+        "USD" : 0.262672
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052111",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 11,
+    "resold_impressions" : 11,
+    "revenue" : 0.0195,
+    "revenue_dict" : {
+        "EUR" : 0.0195,
+        "USD" : 0.023826
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052112",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004381,
+    "revenue_dict" : {
+        "EUR" : 0.004381,
+        "USD" : 0.005353
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052119",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.014359,
+    "revenue_dict" : {
+        "EUR" : 0.014359,
+        "USD" : 0.017544
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052120",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.006611,
+    "revenue_dict" : {
+        "EUR" : 0.006611,
+        "USD" : 0.008077
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052121",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 31,
+    "resold_impressions" : 31,
+    "revenue" : 0.032623,
+    "revenue_dict" : {
+        "EUR" : 0.032623,
+        "USD" : 0.039859
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052123",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 58,
+    "resold_impressions" : 58,
+    "revenue" : 0.054495,
+    "revenue_dict" : {
+        "EUR" : 0.054495,
+        "USD" : 0.066583
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052124",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052124",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 52,
+    "resold_impressions" : 52,
+    "revenue" : 0.056445,
+    "revenue_dict" : {
+        "EUR" : 0.056445,
+        "USD" : 0.068966
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052125",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 196,
+    "resold_impressions" : 196,
+    "revenue" : 0.40909,
+    "revenue_dict" : {
+        "EUR" : 0.40909,
+        "USD" : 0.499835
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052127",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 81,
+    "resold_impressions" : 81,
+    "revenue" : 0.164377,
+    "revenue_dict" : {
+        "EUR" : 0.164377,
+        "USD" : 0.200839
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052128",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 16,
+    "resold_impressions" : 16,
+    "revenue" : 0.035071,
+    "revenue_dict" : {
+        "EUR" : 0.035071,
+        "USD" : 0.042851
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052128",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 262,
+    "resold_impressions" : 262,
+    "revenue" : 0.306856,
+    "revenue_dict" : {
+        "EUR" : 0.306856,
+        "USD" : 0.374923
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052129",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 20,
+    "resold_impressions" : 20,
+    "revenue" : 0.043882,
+    "revenue_dict" : {
+        "EUR" : 0.043882,
+        "USD" : 0.053616
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052129",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 235,
+    "resold_impressions" : 235,
+    "revenue" : 0.275028,
+    "revenue_dict" : {
+        "EUR" : 0.275028,
+        "USD" : 0.336035
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052131",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 12,
+    "resold_impressions" : 12,
+    "revenue" : 0.026276,
+    "revenue_dict" : {
+        "EUR" : 0.026276,
+        "USD" : 0.032105
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052131",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 248,
+    "resold_impressions" : 248,
+    "revenue" : 0.309927,
+    "revenue_dict" : {
+        "EUR" : 0.309927,
+        "USD" : 0.378676
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052134",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 17,
+    "resold_impressions" : 17,
+    "revenue" : 0.036371,
+    "revenue_dict" : {
+        "EUR" : 0.036371,
+        "USD" : 0.044439
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052135",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052137",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.010997,
+    "revenue_dict" : {
+        "EUR" : 0.010997,
+        "USD" : 0.013436
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052141",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.015292,
+    "revenue_dict" : {
+        "EUR" : 0.015292,
+        "USD" : 0.018684
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052143",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006598,
+    "revenue_dict" : {
+        "EUR" : 0.006598,
+        "USD" : 0.008062
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052143",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 97,
+    "resold_impressions" : 97,
+    "revenue" : 0.109323,
+    "revenue_dict" : {
+        "EUR" : 0.109323,
+        "USD" : 0.133573
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052144",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 52,
+    "resold_impressions" : 52,
+    "revenue" : 0.054039,
+    "revenue_dict" : {
+        "EUR" : 0.054039,
+        "USD" : 0.066026
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052146",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006572,
+    "revenue_dict" : {
+        "EUR" : 0.006572,
+        "USD" : 0.00803
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052146",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 88,
+    "resold_impressions" : 88,
+    "revenue" : 0.094457,
+    "revenue_dict" : {
+        "EUR" : 0.094457,
+        "USD" : 0.11541
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052148",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 50,
+    "resold_impressions" : 50,
+    "revenue" : 0.050796,
+    "revenue_dict" : {
+        "EUR" : 0.050796,
+        "USD" : 0.062064
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052150",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 209,
+    "resold_impressions" : 209,
+    "revenue" : 0.448436,
+    "revenue_dict" : {
+        "EUR" : 0.448436,
+        "USD" : 0.547909
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052156",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052158",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 103,
+    "resold_impressions" : 103,
+    "revenue" : 0.211411,
+    "revenue_dict" : {
+        "EUR" : 0.211411,
+        "USD" : 0.258307
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052159",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 15,
+    "resold_impressions" : 15,
+    "revenue" : 0.032889,
+    "revenue_dict" : {
+        "EUR" : 0.032889,
+        "USD" : 0.040184
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052159",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 304,
+    "resold_impressions" : 304,
+    "revenue" : 0.382199,
+    "revenue_dict" : {
+        "EUR" : 0.382199,
+        "USD" : 0.466979
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052160",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 11,
+    "resold_impressions" : 11,
+    "revenue" : 0.024113,
+    "revenue_dict" : {
+        "EUR" : 0.024113,
+        "USD" : 0.029462
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052160",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 302,
+    "resold_impressions" : 302,
+    "revenue" : 0.386816,
+    "revenue_dict" : {
+        "EUR" : 0.386816,
+        "USD" : 0.47262
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052161",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 10,
+    "resold_impressions" : 10,
+    "revenue" : 0.021972,
+    "revenue_dict" : {
+        "EUR" : 0.021972,
+        "USD" : 0.026846
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052161",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 272,
+    "resold_impressions" : 272,
+    "revenue" : 0.35293,
+    "revenue_dict" : {
+        "EUR" : 0.35293,
+        "USD" : 0.431218
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052166",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 40,
+    "resold_impressions" : 40,
+    "revenue" : 0.082165,
+    "revenue_dict" : {
+        "EUR" : 0.082165,
+        "USD" : 0.100391
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052167",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.013218,
+    "revenue_dict" : {
+        "EUR" : 0.013218,
+        "USD" : 0.01615
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052169",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.015361,
+    "revenue_dict" : {
+        "EUR" : 0.015361,
+        "USD" : 0.018768
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052173",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 23,
+    "resold_impressions" : 23,
+    "revenue" : 0.049357,
+    "revenue_dict" : {
+        "EUR" : 0.049357,
+        "USD" : 0.060305
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052174",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.008775,
+    "revenue_dict" : {
+        "EUR" : 0.008775,
+        "USD" : 0.010721
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052174",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 201,
+    "resold_impressions" : 201,
+    "revenue" : 0.187667,
+    "revenue_dict" : {
+        "EUR" : 0.187667,
+        "USD" : 0.229296
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052175",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052175",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 58,
+    "resold_impressions" : 58,
+    "revenue" : 0.064351,
+    "revenue_dict" : {
+        "EUR" : 0.064351,
+        "USD" : 0.078625
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052176",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004381,
+    "revenue_dict" : {
+        "EUR" : 0.004381,
+        "USD" : 0.005353
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052176",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 184,
+    "resold_impressions" : 184,
+    "revenue" : 0.191837,
+    "revenue_dict" : {
+        "EUR" : 0.191837,
+        "USD" : 0.234391
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052178",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 48,
+    "resold_impressions" : 48,
+    "revenue" : 0.056809,
+    "revenue_dict" : {
+        "EUR" : 0.056809,
+        "USD" : 0.06941
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052185",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052186",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052190",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002186,
+    "revenue_dict" : {
+        "EUR" : 0.002186,
+        "USD" : 0.002671
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052193",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052193",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 50,
+    "resold_impressions" : 50,
+    "revenue" : 0.044216,
+    "revenue_dict" : {
+        "EUR" : 0.044216,
+        "USD" : 0.054024
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052195",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004376,
+    "revenue_dict" : {
+        "EUR" : 0.004376,
+        "USD" : 0.005347
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052195",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 74,
+    "resold_impressions" : 74,
+    "revenue" : 0.066787,
+    "revenue_dict" : {
+        "EUR" : 0.066787,
+        "USD" : 0.081602
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052201",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.011006,
+    "revenue_dict" : {
+        "EUR" : 0.011006,
+        "USD" : 0.013447
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052208",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052208",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 156,
+    "resold_impressions" : 156,
+    "revenue" : 0.138014,
+    "revenue_dict" : {
+        "EUR" : 0.138014,
+        "USD" : 0.168629
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052210",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006572,
+    "revenue_dict" : {
+        "EUR" : 0.006572,
+        "USD" : 0.00803
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052210",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004471,
+    "revenue_dict" : {
+        "EUR" : 0.004471,
+        "USD" : 0.005463
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052212",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 461,
+    "resold_impressions" : 461,
+    "revenue" : 0.987299,
+    "revenue_dict" : {
+        "EUR" : 0.987299,
+        "USD" : 1.206303
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052218",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 14,
+    "resold_impressions" : 14,
+    "revenue" : 0.03063,
+    "revenue_dict" : {
+        "EUR" : 0.03063,
+        "USD" : 0.037424
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052218",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 92,
+    "resold_impressions" : 92,
+    "revenue" : 0.199808,
+    "revenue_dict" : {
+        "EUR" : 0.199808,
+        "USD" : 0.24413
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052232",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052232",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 17,
+    "resold_impressions" : 17,
+    "revenue" : 0.016403,
+    "revenue_dict" : {
+        "EUR" : 0.016403,
+        "USD" : 0.020042
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052234",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052234",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 24,
+    "resold_impressions" : 24,
+    "revenue" : 0.02259,
+    "revenue_dict" : {
+        "EUR" : 0.02259,
+        "USD" : 0.027601
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052242",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006617,
+    "revenue_dict" : {
+        "EUR" : 0.006617,
+        "USD" : 0.008085
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052247",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 16,
+    "resold_impressions" : 16,
+    "revenue" : 0.035055,
+    "revenue_dict" : {
+        "EUR" : 0.035055,
+        "USD" : 0.042831
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052247",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 390,
+    "resold_impressions" : 390,
+    "revenue" : 0.446514,
+    "revenue_dict" : {
+        "EUR" : 0.446514,
+        "USD" : 0.545561
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052249",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 12,
+    "resold_impressions" : 12,
+    "revenue" : 0.026268,
+    "revenue_dict" : {
+        "EUR" : 0.026268,
+        "USD" : 0.032095
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052249",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.018776,
+    "revenue_dict" : {
+        "EUR" : 0.018776,
+        "USD" : 0.022941
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052256",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052258",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004368,
+    "revenue_dict" : {
+        "EUR" : 0.004368,
+        "USD" : 0.005337
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052259",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.006803,
+    "revenue_dict" : {
+        "EUR" : 0.006803,
+        "USD" : 0.008312
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052262",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 4,
+    "resold_impressions" : 4,
+    "revenue" : 0.004847,
+    "revenue_dict" : {
+        "EUR" : 0.004847,
+        "USD" : 0.005922
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052268",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.017519,
+    "revenue_dict" : {
+        "EUR" : 0.017519,
+        "USD" : 0.021405
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052269",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 18,
+    "resold_impressions" : 18,
+    "revenue" : 0.037753,
+    "revenue_dict" : {
+        "EUR" : 0.037753,
+        "USD" : 0.046127
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052270",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002186,
+    "revenue_dict" : {
+        "EUR" : 0.002186,
+        "USD" : 0.002671
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052270",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.007441,
+    "revenue_dict" : {
+        "EUR" : 0.007441,
+        "USD" : 0.009092
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052272",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004376,
+    "revenue_dict" : {
+        "EUR" : 0.004376,
+        "USD" : 0.005347
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052272",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 36,
+    "resold_impressions" : 36,
+    "revenue" : 0.03713,
+    "revenue_dict" : {
+        "EUR" : 0.03713,
+        "USD" : 0.045366
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052274",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.003932,
+    "revenue_dict" : {
+        "EUR" : 0.003932,
+        "USD" : 0.004804
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052281",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.003897,
+    "revenue_dict" : {
+        "EUR" : 0.003897,
+        "USD" : 0.004761
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052282",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 12,
+    "resold_impressions" : 12,
+    "revenue" : 0.010624,
+    "revenue_dict" : {
+        "EUR" : 0.010624,
+        "USD" : 0.012981
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052285",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.009248,
+    "revenue_dict" : {
+        "EUR" : 0.009248,
+        "USD" : 0.011299
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052289",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052290",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006567,
+    "revenue_dict" : {
+        "EUR" : 0.006567,
+        "USD" : 0.008024
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052293",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006541,
+    "revenue_dict" : {
+        "EUR" : 0.006541,
+        "USD" : 0.007992
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052294",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004381,
+    "revenue_dict" : {
+        "EUR" : 0.004381,
+        "USD" : 0.005353
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052294",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 6,
+    "resold_impressions" : 6,
+    "revenue" : 0.006617,
+    "revenue_dict" : {
+        "EUR" : 0.006617,
+        "USD" : 0.008085
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052297",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 25,
+    "resold_impressions" : 25,
+    "revenue" : 0.049358,
+    "revenue_dict" : {
+        "EUR" : 0.049358,
+        "USD" : 0.060307
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052298",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 5,
+    "resold_impressions" : 5,
+    "revenue" : 0.010934,
+    "revenue_dict" : {
+        "EUR" : 0.010934,
+        "USD" : 0.013359
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052298",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 50,
+    "resold_impressions" : 50,
+    "revenue" : 0.049425,
+    "revenue_dict" : {
+        "EUR" : 0.049425,
+        "USD" : 0.060389
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052299",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 9,
+    "resold_impressions" : 9,
+    "revenue" : 0.007934,
+    "revenue_dict" : {
+        "EUR" : 0.007934,
+        "USD" : 0.009694
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052307",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 7,
+    "resold_impressions" : 7,
+    "revenue" : 0.015399,
+    "revenue_dict" : {
+        "EUR" : 0.015399,
+        "USD" : 0.018815
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052308",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 38,
+    "resold_impressions" : 38,
+    "revenue" : 0.082151,
+    "revenue_dict" : {
+        "EUR" : 0.082151,
+        "USD" : 0.100374
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052309",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2,
+    "resold_impressions" : 2,
+    "revenue" : 0.004376,
+    "revenue_dict" : {
+        "EUR" : 0.004376,
+        "USD" : 0.005347
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052309",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 101,
+    "resold_impressions" : 101,
+    "revenue" : 0.108663,
+    "revenue_dict" : {
+        "EUR" : 0.108663,
+        "USD" : 0.132767
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052311",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 3,
+    "resold_impressions" : 3,
+    "revenue" : 0.006571,
+    "revenue_dict" : {
+        "EUR" : 0.006571,
+        "USD" : 0.008029
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052311",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 83,
+    "resold_impressions" : 83,
+    "revenue" : 0.077398,
+    "revenue_dict" : {
+        "EUR" : 0.077398,
+        "USD" : 0.094567
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052312",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 1,
+    "resold_impressions" : 1,
+    "revenue" : 0.002191,
+    "revenue_dict" : {
+        "EUR" : 0.002191,
+        "USD" : 0.002677
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9052312",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x600",
+    "total_impressions" : 14,
+    "resold_impressions" : 14,
+    "revenue" : 0.012394,
+    "revenue_dict" : {
+        "EUR" : 0.012394,
+        "USD" : 0.015143
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9060779",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 890,
+    "resold_impressions" : 890,
+    "revenue" : 2.067895,
+    "revenue_dict" : {
+        "EUR" : 2.067895,
+        "USD" : 2.526599
+    },
+    "clicks" : 9
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9251621",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 106,
+    "resold_impressions" : 106,
+    "revenue" : 0.185724,
+    "revenue_dict" : {
+        "EUR" : 0.185724,
+        "USD" : 0.226922
+    },
+    "clicks" : 5
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9353554",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 6030,
+    "resold_impressions" : 6030,
+    "revenue" : 10.557042,
+    "revenue_dict" : {
+        "EUR" : 10.557042,
+        "USD" : 12.898823
+    },
+    "clicks" : 24
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9353556",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 979,
+    "resold_impressions" : 979,
+    "revenue" : 1.664983,
+    "revenue_dict" : {
+        "EUR" : 1.664983,
+        "USD" : 2.034312
+    },
+    "clicks" : 7
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9353561",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 2297,
+    "resold_impressions" : 2297,
+    "revenue" : 4.00924,
+    "revenue_dict" : {
+        "EUR" : 4.00924,
+        "USD" : 4.898577
+    },
+    "clicks" : 9
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9353562",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 7118,
+    "resold_impressions" : 7118,
+    "revenue" : 12.256176,
+    "revenue_dict" : {
+        "EUR" : 12.256176,
+        "USD" : 14.974862
+    },
+    "clicks" : 41
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9353563",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 163,
+    "resold_impressions" : 163,
+    "revenue" : 0.284643,
+    "revenue_dict" : {
+        "EUR" : 0.284643,
+        "USD" : 0.347783
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9353565",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 5457,
+    "resold_impressions" : 5457,
+    "revenue" : 9.331302,
+    "revenue_dict" : {
+        "EUR" : 9.331302,
+        "USD" : 11.401188
+    },
+    "clicks" : 25
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9434024",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 172,
+    "resold_impressions" : 172,
+    "revenue" : 0.399764,
+    "revenue_dict" : {
+        "EUR" : 0.399764,
+        "USD" : 0.48844
+    },
+    "clicks" : 1
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9435214",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 511,
+    "resold_impressions" : 511,
+    "revenue" : 2.824931,
+    "revenue_dict" : {
+        "EUR" : 2.824931,
+        "USD" : 3.451562
+    },
+    "clicks" : 4
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9525477",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 2077,
+    "resold_impressions" : 2077,
+    "revenue" : 4.498921,
+    "revenue_dict" : {
+        "EUR" : 4.498921,
+        "USD" : 5.496879
+    },
+    "clicks" : 6
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9756869",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 559,
+    "resold_impressions" : 559,
+    "revenue" : 1.299007,
+    "revenue_dict" : {
+        "EUR" : 1.299007,
+        "USD" : 1.587155
+    },
+    "clicks" : 5
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9757638",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "300x250",
+    "total_impressions" : 8,
+    "resold_impressions" : 8,
+    "revenue" : 0.011257,
+    "revenue_dict" : {
+        "EUR" : 0.011257,
+        "USD" : 0.013754
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9791861",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "970x250",
+    "total_impressions" : 179,
+    "resold_impressions" : 179,
+    "revenue" : 0.263115,
+    "revenue_dict" : {
+        "EUR" : 0.263115,
+        "USD" : 0.32148
+    },
+    "clicks" : 0
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9926879",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 653,
+    "resold_impressions" : 653,
+    "revenue" : 3.748245,
+    "revenue_dict" : {
+        "EUR" : 3.748245,
+        "USD" : 4.579687
+    },
+    "clicks" : 7
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9931662",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1655,
+    "resold_impressions" : 1655,
+    "revenue" : 10.548767,
+    "revenue_dict" : {
+        "EUR" : 10.548767,
+        "USD" : 12.888713
+    },
+    "clicks" : 15
+}
+
+,
+{
+    
+    "platform" : "appnexus",
+    "date" : "2018-01-20",
+    "placement_id" : "9931705",
+    
+    "buyer_member_id" : "2026",
+    "buyer_member_name" : "Project Agora II",
+    "size" : "319x49",
+    "total_impressions" : 1648,
+    "resold_impressions" : 1648,
+    "revenue" : 6.384102,
+    "revenue_dict" : {
+        "EUR" : 6.384102,
+        "USD" : 7.800235
+    },
+    "clicks" : 5
+}
+]
