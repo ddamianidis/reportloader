@@ -9,10 +9,13 @@ from reportloader.platforms.appnexus.account import AccountInterface
 class Report():
     """ Class for building an appnexus report """
     
-    default_dimensions = ['day', 'placement_id', 'placement_name', 'size']
-    default_metrics = ['day', 'placement_id', 'placement_name', 'size', 
-                       'imp_requests', 'imps_resold','clicks', 'revenue']
-        
+    #default_dimensions = ['day', 'placement_name', 'buyer_member_id']
+    default_dimensions = ['day', 'placement_id', 'placement_name', 'size', 
+                          'buyer_member_id', 'buyer_member_name']
+    #default_dimensions = ['day', 'placement_id', 'placement_name', 'buyer_member_id']
+    default_metrics = ['day', 'placement_id', 'placement_name', 'size', 'buyer_member_id', 
+                       'buyer_member_name', 'imp_requests', 'imps_resold','clicks', 'revenue']
+    # 'buyer_member_id'=2026    
     def __init__(self, startdate, enddate, 
                  rtype='network_analytics', rformat='csv', 
                  dimensions=None,

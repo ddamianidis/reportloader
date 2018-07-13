@@ -4,7 +4,6 @@ from reportloader.interface.IReporterClient import IReporterClient
 from reportloader.interface.puller_factory import ReporterPuller
 from reportloader.pushtoui.reporterpusher import ReporterPusher
 
-
 class ReporterClient(IReporterClient):
     """ Class responsible to get appnexus reports """
     
@@ -23,9 +22,13 @@ class ReporterClient(IReporterClient):
         data = {}
         for pl_sizeless in data_puller.get():
             #print(pl_sizeless)
-            key = (pl_sizeless.placement_name, pl_sizeless.date)
+            if self.platform == 'appnexus':
+                 key = (pl_sizeless.placement_name, pl_sizeless.date, 
+                        pl_sizeless.buyer_member_id, pl_sizeless.buyer_member_name)
+            else:     
+                key = (pl_sizeless.placement_name, pl_sizeless.date)
             data[key] = pl_sizeless
-                
+            
         return data      
     
     def push_to_ui(self, date, mode='prod'):

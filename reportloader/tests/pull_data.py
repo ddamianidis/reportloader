@@ -16,6 +16,7 @@ from reportloader.database.mongo import MongoConnector
 from reportloader.utils.mongoidtools import ObjectId
 from unittest.mock import patch
 from jrpc.client import JsonRPCClient
+import csv
 
 
 class PullDataTestCase(TestCase):
@@ -35,8 +36,23 @@ class PullDataTestCase(TestCase):
         'pull_pubmatic',
         ]
     
+    expected_results_insert_new = {
+        'appnexus':{'updated_entries_count': 0, 'new_entries_count': 27292, 'identical_entries_count': 0, 'deleted_entries_count': 0},
+        'adsense':{'updated_entries_count': 0, 'new_entries_count': 21, 'identical_entries_count': 0, 'deleted_entries_count': 0},
+        'adx':{'deleted_entries_count': 0, 'new_entries_count': 1333, 'updated_entries_count': 0, 'identical_entries_count': 0},
+        'teads':{'new_entries_count': 69, 'deleted_entries_count': 0, 'identical_entries_count': 0, 'updated_entries_count': 0},
+        'criteo': {'identical_entries_count': 0, 'deleted_entries_count': 0, 'new_entries_count': 3196, 'updated_entries_count': 0},
+        'criteohb':{'new_entries_count': 23, 'deleted_entries_count': 0, 'identical_entries_count': 0, 'updated_entries_count': 0},
+        'taboola': {'identical_entries_count': 0, 'deleted_entries_count': 0, 'new_entries_count': 264, 'updated_entries_count': 0},
+        'smart':{'deleted_entries_count': 0, 'identical_entries_count': 0, 'new_entries_count': 422, 'updated_entries_count': 0},
+        'rubicon':{'new_entries_count': 2871, 'identical_entries_count': 0, 'deleted_entries_count': 0, 'updated_entries_count': 0},
+        'smaato': {'deleted_entries_count': 0, 'identical_entries_count': 0, 'updated_entries_count': 0, 'new_entries_count': 85},
+        'facebook':{'new_entries_count': 5, 'updated_entries_count': 0, 'identical_entries_count': 0, 'deleted_entries_count': 0},
+        'pubmatic':{'identical_entries_count': 0, 'updated_entries_count': 0, 'deleted_entries_count': 0, 'new_entries_count': 679}
+    }
+    
     expected_results = {
-        'pull_appnexus':{'deleted_entries_count': 1, 'new_entries_count': 2, 'updated_entries_count': 2, 'identical_entries_count': 2463},
+        'pull_appnexus':{'deleted_entries_count': 1, 'new_entries_count': 28, 'updated_entries_count': 43, 'identical_entries_count': 27221},
         'pull_adsense':{'identical_entries_count': 17, 'new_entries_count': 2, 'deleted_entries_count': 1, 'updated_entries_count': 2},
         'pull_adx':{'new_entries_count': 2, 'updated_entries_count': 2, 'identical_entries_count': 2677, 'deleted_entries_count': 1},
         'pull_teads':{'updated_entries_count': 2, 'identical_entries_count': 128, 'new_entries_count': 2, 'deleted_entries_count': 1},
@@ -52,8 +68,8 @@ class PullDataTestCase(TestCase):
     
     removed_placements = {
         'pull_appnexus':[
-            '4157463_real.gr_politics_970x250',
-            '11766412_reader.gr_homepage-1_970x250'
+            '4157463_real.gr_politics_970x250',#17
+            '11766412_reader.gr_homepage-1_970x250'#11
         ],
         'pull_adsense':[
             '12351524_LocaleNetwork_ros_970x250',
@@ -103,8 +119,8 @@ class PullDataTestCase(TestCase):
     
     changed_placements = {
         'pull_appnexus':[
-            '12480112_frontpages.gr_homepage-ros-side-perf_300x250',
-            '11998822_jurnalmm.ro_inarticle_319x49'
+            '12480112_frontpages.gr_homepage-ros-side-perf_300x250',#40
+            '11998822_jurnalmm.ro_inarticle_319x49'#3
         ],
         'pull_adsense':[
             '12531406_savoirville.gr_ros-2_300x250',
@@ -218,7 +234,12 @@ class PullDataTestCase(TestCase):
         
         db_entries = []
         for doc in reports_cursor:
-            db_entries.append(doc)
+            if cls.platform == "appnexus":
+                #print(doc)
+                if doc['buyer_member_id'] == '2026':
+                    db_entries.append(doc)
+            else:
+                db_entries.append(doc)        
         
         return db_entries
           
@@ -237,6 +258,8 @@ class PullDataTestCase(TestCase):
              "placement_name" : "11974846_depricated_apkroids.com_ros_300x250",
              "total_impressions" : 21539,
              "resold_impressions" : 127,
+             "buyer_member_id": "2026",
+             "buyer_member_name": " ",
              "revenue" : 0.01,
              "revenue_dict" : {
                  "EUR" : 0.01,
@@ -359,20 +382,36 @@ class PullDataTestCase(TestCase):
         # set env variable for mongo host
         #os.environ['MONGO_HOST'] = '127.0.0.1'
         #os.environ['MONGO_HOST'] = 'mongodb'
+        """
+        if self.platform == 'appnexus':
+            puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
         
+            puller.reporter_client.read = MagicMock(
+                                            return_value=self.dict_expected_data)
+            ret_data = puller.pull_data()
+        else:    
+            ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
+                                platform=self.platform, startdate = self.dates[0],
+                                enddate=self.dates[1]
+                                )
+        """
         ret_data = JsonRPCClient("tcp://localhost:5552").rpc_call('pull_data', 
                                 platform=self.platform, startdate = self.dates[0],
                                 enddate=self.dates[1]
                                 )
-        
-        #ReporterPuller(self.platform, self.dates[0], self.dates[1]).pull_data()                        
+        if 'result' in ret_data:
+            results_data = ret_data['result']
+        else:    
+            results_data = {}
+        #ReporterPuller(self.platform, self.dates[2], self.dates[3]).pull_data()                        
         #self.assertEqual(ret_data, True, 'correct pull process')
         self.dbdata = self.getDbData()
+        #print(ret_data)
         #print(self.dbdata)
         #print(self.expected_data)
-        self.assertCountEqual(self.dbdata, self.expected_data,
+        self.assertEqual(results_data, self.expected_results_insert_new[self.platform],
                          'correct pulled data')
-                
+             
     #@unittest.skip('just skip')   
     def test_2_pull_data_update(self):
         #if self.platform == 'teads':
@@ -388,7 +427,8 @@ class PullDataTestCase(TestCase):
         ret_data = puller.pull_data()
         #print(ret_data)
         self.dbdata = self.getDbData()
-        #print(self.dbdata)
+        #print(len(self.dbdata))
+        #print(len(self.expected_data))
         #self.assertEqual(ret_data, True, 
         #                                            'correct pull process')
         # read the data from the database and compare them with 
@@ -441,7 +481,7 @@ class PullDataTestCase(TestCase):
         puller = ReporterPuller(self.platform, self.dates[0], self.dates[1])
         
         puller.reporter_client.read = MagicMock(
-                                            return_value=self.dict_expected_data)                            
+         return_value=self.dict_expected_data)                            
         ret_data = puller.pull_data()                       
         #print(ret_data)
         expected_results = self.expected_results[self.command]

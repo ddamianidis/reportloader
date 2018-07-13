@@ -44,6 +44,8 @@ class ReporterPuller():
         
         db_insert_entries = self.reporter_client.read(self.startdate, self.enddate)
         
+        #self.stream_logger.info('len of db insert entries:{0}'.format(len(db_insert_entries)))
+        
         monitor.data({'data_pulled_len': len(db_insert_entries)})
         
         # just to produce the data to mock the above function
@@ -74,7 +76,11 @@ class ReporterPuller():
                                            )
         db_entries = {}
         for doc in reports_cursor:
-            key = ( doc['placement_name'], doc['date'] )
+            if self.platform == 'appnexus':
+                key = ( doc['placement_name'], doc['date'], 
+                        doc['buyer_member_id'],  doc['buyer_member_name'])
+            else:    
+                key = ( doc['placement_name'], doc['date'] )
             db_entries[key] = doc
         #self.stream_logger.info('len of db entries:{0}'.format(len(db_entries)))    
         # Insert rows into database
@@ -108,7 +114,15 @@ class ReporterPuller():
                     #self.stream_logger.info('For update db entry:{0}'.format(entry.dict()))
                     updated_entries_count += 1
                     # update the entry in database
-                    replace_filter = {'platform': self.platform, 
+                    if self.platform == 'appnexus':
+                        replace_filter = {'platform': self.platform, 
+                                      'placement_name':key[0],
+                                      'date':key[1],
+                                      'buyer_member_id':key[2],
+                                      'buyer_member_name':key[3]
+                                     }
+                    else:    
+                        replace_filter = {'platform': self.platform, 
                                       'placement_name':key[0],
                                       'date':key[1]
                                      }
@@ -139,10 +153,18 @@ class ReporterPuller():
         # delete the entries that are no more exist in the platform's statistics        
         deleted_entries_count = len(db_entries)        
         for key in db_entries:
-            delete_filter = {'platform': self.platform, 
+            if self.platform == 'appnexus':
+                delete_filter = {'platform': self.platform, 
+                                      'placement_name':key[0],
+                                      'date':key[1],
+                                      'buyer_member_id':key[2],
+                                      'buyer_member_name':key[3]
+                            }
+            else:
+                delete_filter = {'platform': self.platform, 
                                       'placement_name':key[0],
                                       'date':key[1]
-                            }
+                            }    
             self.reports.delete_one(delete_filter)
         results = {
             "new_entries_count": new_entries_count,
